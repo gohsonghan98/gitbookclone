@@ -24,7 +24,7 @@ The user wants to  square (the result of multiplying the number by itself) and g
 1. Call the function.<br>
     value: 10<br />
     
-      ![](Sqrt-step-1.png?raw=true)
+      ![](sqrt-step-1.png?raw=true)
 
 ### Result
 

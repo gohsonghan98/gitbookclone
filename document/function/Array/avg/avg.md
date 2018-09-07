@@ -1,9 +1,8 @@
-﻿# Mod
-
+﻿# Avg
 
 ### Description
 
-Get the remainder of two numbers after division.
+Get the Average value of an Array.
 
 ### Flowchart
 
@@ -13,31 +12,29 @@ Get the remainder of two numbers after division.
 
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
-| 1 | value1 | Number | Integer | Yes  |
-| 2 | value2 | Number | Integer | Yes  |
+| 1 | values | Array | Array | Yes  |
+| 2 | value1-10 | Number. | Integer | No __*__  |
+* Note: At least two fields must have value in order for this function to work.
 
 ### Scenario / Use Case
 
-The user wants to get the mod value after division.<br />
+The user wants to get the average value.
 
 ### Step
 
-1. Call the function.<br>
-    value1: 80<br />
-    value2: 60<br />
-    
-    ![](mod-step-1.png?raw=true)
+1. Call the function.
+
+    ![](avg-step-1.png?raw=true)
 
 ### Result
 
-20
+10
 
 ### Video
 
 - N/A
 
 <!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
 
 ### Notes
 

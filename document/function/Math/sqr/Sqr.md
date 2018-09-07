@@ -25,7 +25,7 @@ The user wants to multiple number by itself and get the total result.<br />
     <br />
     value: 5<br />
     
-    ![](Sqr-step-1.png?raw=true)
+    ![](sqr-step-1.png?raw=true)
 
 ### Result
 

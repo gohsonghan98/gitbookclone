@@ -29,7 +29,7 @@ The user wants to divide two numbers and get the total result.<br />
     value2:  2<br />
     integer: false
     
-    ![](Div-step-1.png?raw=true)
+    ![](div-step-1.png?raw=true)
 
 ### Result
 

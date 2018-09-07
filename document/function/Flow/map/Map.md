@@ -24,7 +24,7 @@ The user wants to do a mapping for all the values in an array.
    <br>
    var: Vmap
    
-    ![](Map-step-1.png?raw=true)
+    ![](map-step-1.png?raw=true)
     
 2. Call the function"toArray" and set the value for array.
    <br>
@@ -33,21 +33,21 @@ The user wants to do a mapping for all the values in an array.
    value3: 1112<br/>
    value4: 11112<br/>
    
-     ![](Map-step-2.png?raw=true)
+     ![](map-step-2.png?raw=true)
      
 3. Call the function"map" and "getVar".
 <br>
 var : getVar->Vmap <br />
      
-      ![](Map-step-3.png?raw=true)
+      ![](map-step-3.png?raw=true)
       
 4. Add a console and display the input.
       
-      ![](Map-step-4.png?raw=true)
+      ![](map-step-4.png?raw=true)
 
 ### Result
 
- ![](Map-result-1.png?raw=true)
+ ![](map-result-1.png?raw=true)
 
 ### Video
 

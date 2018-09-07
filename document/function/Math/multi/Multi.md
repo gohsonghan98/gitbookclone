@@ -27,7 +27,7 @@ The user wants to multiple two value and get the total result.<br />
     value1: 2<br />
     value2: 2<br />
     
-    ![](Multi-step-1.png?raw=true)
+    ![](multi-step-1.png?raw=true)
 
 ### Result
 

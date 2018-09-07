@@ -28,7 +28,7 @@ The user wants to get a number representing the given base taken to the power of
     base: 6<br />
     exponent: 2<br />
     
-    ![](Pow-step-1.png?raw=true)
+    ![](pow-step-1.png?raw=true)
 
 ### Result
 
