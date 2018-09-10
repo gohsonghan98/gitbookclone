@@ -20,7 +20,7 @@ The user wants get the language of the app.
 
 1. Call the function.
 
-    ![](getLanguage1.png?raw=true)
+    ![](getLanguage-step-1.png?raw=true)
 
 ### Result
 

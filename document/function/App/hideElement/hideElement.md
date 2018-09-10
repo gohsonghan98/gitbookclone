@@ -20,7 +20,7 @@ The user want to hide component from the screen.
 
 1. Call the function
 
-    ![](hideElement1.png?raw=true)
+    ![](hideElement-step-1.png?raw=true)
 
 ### Result
 

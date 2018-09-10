@@ -23,7 +23,7 @@ The user wants redirect from one page to another page.
 
 1. Call the function.
 
-    ![](gotoPage1.png?raw=true)
+    ![](gotoPage-step-1.png?raw=true)
 
 ### Result
 

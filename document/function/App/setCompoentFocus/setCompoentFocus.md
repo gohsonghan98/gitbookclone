@@ -28,17 +28,17 @@ The user want to set focus on a component and highlight all the words in a compo
 
 1. Draw an edit text "txtTest", a button "setComponenFocus".
 
-    ![](setCompoentFocus1.png?raw=true)
+    ![](setCompoentFocus-step-1.png?raw=true)
     
 2. Call the function.
 
-    ![](setCompoentFocus2.png?raw=true)
+    ![](setCompoentFocus-step-2.png?raw=true)
 
 ### Result
 
 The words "aaa" in the edit text will be selected.
 
-![](setCompoentFocus3.png?raw=true)
+![](setCompoentFocus-result-1.png?raw=true)
 
 ### Video
 

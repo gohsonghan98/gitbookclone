@@ -23,7 +23,7 @@ The user want do hashing of a specific string.
 
 1.  Call the function.
 
-    ![](hashingFunction1.png?raw=true)
+    ![](hashingFunction-step-1.png?raw=true)
     
 ### Result
 

@@ -20,7 +20,7 @@ The user want to make the page unable to click.
 
 1. Call the function
 
-    ![](disablePage1.png?raw=true)
+    ![](disablePage-step-1.png?raw=true)
 
 ### Result
 

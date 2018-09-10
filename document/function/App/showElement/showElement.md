@@ -20,7 +20,7 @@ The user want to make a not visible component to visible.
 
 1. Call the function
 
-    ![](showElement1.png?raw=true)
+    ![](showElement-step-1.png?raw=true)
 
 ### Result
 

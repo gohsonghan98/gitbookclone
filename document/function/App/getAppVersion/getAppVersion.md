@@ -20,7 +20,7 @@ The user wants get version of the App.
 
 1. Call the function.
 
-    ![](getAppVersion1.png?raw=true)
+    ![](getAppVersion-step-1.png?raw=true)
 
 ### Result
 

@@ -28,28 +28,28 @@ The user want to make a not visible component to visible.
 
 1. Draw a combo box "ComboBox617", a button "setComboOptions".
 
-    ![](setComboOptions1.png?raw=true)
+    ![](setComboOptions-step-1.png?raw=true)
     
 
 2. Call the function
 
-    ![](setComboOptions2.png?raw=true)
+    ![](setComboOptions-step-2.png?raw=true)
     
 
 3. Populate an array into data parameter by adding "toArray" & "toObject" functions.
 
-    ![](setComboOptions4.png?raw=true)
+    ![](setComboOptions-step-3.png?raw=true)
     
 
 4. Define the value field & display field.
 
-    ![](setComboOptions3.png?raw=true)
+    ![](setComboOptions-step-4.png?raw=true)
     
 ### Result
 
 The combo box "ComboBox617" have the display values of "abc" & "dfe" & the value of "abc is 1, value of "dfe" is 2.
 
-![](setComboOptions5.png?raw=true)
+![](setComboOptions-result-1.png?raw=true)
 
 ### Video
 

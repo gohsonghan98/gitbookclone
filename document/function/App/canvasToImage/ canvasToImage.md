@@ -23,17 +23,17 @@ The user want copy the value of signature component to an image component.
 
 1. Draw a signature component "Signature", image component "Image" and button "canvasToImage". 
 
-    ![](canvasToImage1.png?raw=true)
+    ![](canvasToImage-step-1.png?raw=true)
     
 
 2. Call the function in button event.
 
-    ![](canvasToImage2.png?raw=true)
+    ![](canvasToImage-step-2.png?raw=true)
     
 ### Result
 
 After click on the button, the image component have a signature in image format.
-![](canvasToImage3.png?raw=true)
+![](canvasToImage-result-1.png?raw=true)
 
 ### Video
 
