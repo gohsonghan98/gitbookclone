@@ -12,7 +12,7 @@ Set the attribute of a component.
 
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component. | String | No __*__ | 
+| 1 | component | The name of the component | String | No __*__ | 
 | 2 | componentId | The id of the component | String | No __*__ |
 | 3 | attr | The attribute of component | String | Yes |
 | 4 | value | The value of attribute | String | Yes |

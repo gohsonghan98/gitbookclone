@@ -1,7 +1,5 @@
 # componentValue
 
--
-
 ### Description
 
 Get the value of the component.
@@ -16,6 +14,7 @@ Get the value of the component.
 | ------ | ------ | ------ |------ | ------ |
 | 1 | component | The name of the component. | String | No __*__ | 
 | 2 | componentId | The id of the component | String | No __*__ |
+| 2 | value | The value | String | Yes |
 
 __\* Note:__ Either No 1 or No 2 must have value in order for this function to work.
 
@@ -25,21 +24,24 @@ The user wants to get the value from a text box component and display it in a la
 
 ### Step
 
-1. Call the function.
+1. Draw a edit text "txtA", a label "lblA", a button "componentValue".
 
-    ![Flowchart](componentValue-step-1.png?raw=true)
+    ![](componentValue-step-1.png?raw=true)
 
-2. Call the bla bla.
+2. In button event, call the "setComponentValue" function and in value parameter call "componentValue" function.
 
-    ![Flowchart](componentValue-step-2.png?raw=true)
+    ![](componentValue-step-2.png?raw=true)
 
 ### Result
 
-![Flowchart](componentValue-result-1.png?raw=true)
+The value in edit text will be display in the caption of label.
+
+![](componentValue-result-1.png?raw=true)
 
 ### Video
 
-[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)
+- N/A
 
 ### Notes
+
 - N/A

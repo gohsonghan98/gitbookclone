@@ -1,8 +1,8 @@
-# hideElement
+# getComponent
 
 ### Description
 
-Make a component hidden / not visible in the screen.
+Get the component details.
 
 ### Flowchart
 
@@ -19,17 +19,23 @@ __\* Note:__ Either No 1 or No 2 must have value in order for this function to w
 
 ### Scenario / Use Case
 
-The user want to hide component from the screen.
+The user view all the attribute/ details of a component.
 
 ### Step
 
-1. Call the function
+1. Draw a button "ButtonGetCom".
 
-    ![](hideElement-step-1.png?raw=true)
+    ![](getComponent-step-1.png?raw=true)
+    
+3. Call the function.
+
+    ![](getComponent-step-2.png?raw=true)
 
 ### Result
 
-A component will be invisible in the mobile screen.
+In the consolve, the details of component:
+
+![](getComponent-result-1.png?raw=true)
 
 ### Video
 

@@ -10,7 +10,12 @@ Make a component visible / display on screen.
 
 ### Input / Parameters
 
-- N/A
+| No | Name | Description | Data Type | Required |
+| ------ | ------ | ------ |------ | ------ |
+| 1 | component | The name of the component. | String | No __*__ | 
+| 2 | componentId | The id of the component | String | No __*__ |
+
+__\* Note:__ Either No 1 or No 2 must have value in order for this function to work.
 
 ### Scenario / Use Case
 
