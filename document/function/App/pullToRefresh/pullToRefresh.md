@@ -26,7 +26,7 @@ The user want do some operations / processing by pulling the panel.
 
     ![](pullToRefresh-step-1.png?raw=true)
 
-2.  In onRefresh, add infoDialog.
+2.  In onRefresh, add an infoDialog.
 
     ![](pullToRefresh-step-2.png?raw=true)
 
