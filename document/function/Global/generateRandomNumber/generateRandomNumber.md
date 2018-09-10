@@ -24,7 +24,7 @@ The user wants get a random number within the minimum & maximum of the given int
 
 1. Call the function.
 
-    ![](generateRandomNumber1.png?raw=true)
+    ![](generateRandomNumber-step-1.png?raw=true)
 
 ### Result
 

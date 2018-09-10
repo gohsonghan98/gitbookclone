@@ -20,7 +20,7 @@ The user want to make the page clickable after it is disabled.
 
 1. Call the function
 
-    ![](enablePage1.png?raw=true)
+    ![](enablePage-step-1.png?raw=true)
 
 ### Result
 

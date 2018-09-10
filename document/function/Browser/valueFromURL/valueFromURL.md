@@ -26,7 +26,7 @@ The user want to get value of parameter: <br />
 
 1. Call the function.
 
-    ![](valueFromURL1.png?raw=true)
+    ![](valueFromURL-step-1.png?raw=true)
 
 ### Result
 

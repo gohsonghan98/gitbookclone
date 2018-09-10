@@ -27,17 +27,17 @@ The user override a specific atrribute of a component.
 
 1. Draw an edit text "txtTest", a button "setComponentAttr"
 
-    ![](setComponentAttr3.png?raw=true)
+    ![](setComponentAttr-step-1.png?raw=true)
     
 3. Call the function
 
-    ![](setComponentAttr1.png?raw=true)
+    ![](setComponentAttr-step-2.png?raw=true)
 
 ### Result
 
 The attribute "value" of the edit text "txtTest" will have the value of "abc".
 
-![](setComponentAttr2.png?raw=true)
+![](setComponentAttr-result-1.png?raw=true)
 
 ### Video
 

@@ -20,7 +20,7 @@ The user wants generate a unique ID before store data into a table.
 
 1. Call the function.
 
-    ![](makeId1.png?raw=true)
+    ![](makeId-step-1.png?raw=true)
 
 ### Result
 

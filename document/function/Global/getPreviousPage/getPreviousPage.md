@@ -22,7 +22,7 @@ User redirect from pgLogin to pgMenu. <br />
 
 1. Call the function.
 
-    ![Flowchart](getPreviousPage1.png?raw=true)
+    ![Flowchart](getPreviousPage-step-1.png?raw=true)
 
 ### Result
 

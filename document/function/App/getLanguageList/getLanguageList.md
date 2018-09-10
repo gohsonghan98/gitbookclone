@@ -20,17 +20,17 @@ User want to get the list of languages in the App.
 
 1. Call the function.
 
-    ![](getLanguageList1.png?raw=true)
+    ![](getLanguageList-step-1.png?raw=true)
     
 2. In callback add a console -> input function to view the result
 
-    ![](getLanguageList2.png?raw=true)
+    ![](getLanguageList-step-2.png?raw=true)
     
 ### Result
 
 User get the list of language in an array.
  
-![](getLanguageList3.png?raw=true)
+![](getLanguageList-result-1.png?raw=true)
     
 
 ### Video
