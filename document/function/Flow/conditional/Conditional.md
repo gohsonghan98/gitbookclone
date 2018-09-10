@@ -25,17 +25,17 @@ The user wants to prove that the value 13 is greater than the value 1.</br>
 value1: 13<br/>
 value2:  1<br/>
   
-   ![](Conditional-step-1.png?raw=true)
+   ![](conditional-step-1.png?raw=true)
    
 2. Add a console and set the value if the condition is met so the program will execute a code from "yesCallback".<br>
 value : greater<br/>
 
-   ![](Conditional-step-2.png?raw=true)
+   ![](conditional-step-2.png?raw=true)
    
 3. Add a console and set the value if the condition is not met so the program will execute a code from "noCallback". <br>
 value : not greater<br/>
    
-   ![](Conditional-step-3.png?raw=true)
+   ![](conditional-step-3.png?raw=true)
 
 ### Result
 
