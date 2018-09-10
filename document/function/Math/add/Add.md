@@ -26,7 +26,7 @@ The user wants to add two values and get the total result.<br />
     value1:  1<br />
     value2: 10<br /> 
     
-    ![](Add-step-1.png?raw=true)
+    ![](add-step-1.png?raw=true)
 
 ### Result
 

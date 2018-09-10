@@ -26,7 +26,7 @@ The user wants to get the mod value after division.<br />
     value1: 80<br />
     value2: 60<br />
     
-    ![](Mod-step-1.png?raw=true)
+    ![](mod-step-1.png?raw=true)
 
 ### Result
 

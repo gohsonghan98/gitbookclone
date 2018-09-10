@@ -27,7 +27,7 @@ The user wants to substract two values and get the total result.<br />
     value1 : 10<br />
     value2 :  5<br />
     
-    ![](Sub-step-1.png?raw=true)
+    ![](sub-step-1.png?raw=true)
 
 ### Result
 

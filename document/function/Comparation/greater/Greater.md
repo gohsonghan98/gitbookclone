@@ -26,7 +26,7 @@ The user wants to get the operator that returns true when the first number is la
    value1 : 18<br />
    value2 : 10<br />
 
-    ![](Greater-step-1.png?raw=true)
+    ![](greater-step-1.png?raw=true)
 
 ### Result
 
