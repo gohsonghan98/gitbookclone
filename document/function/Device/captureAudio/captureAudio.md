@@ -20,17 +20,17 @@ The user want to do a voice recording using mobile device.
 
 1. Call the function captureAudio.
     
-    ![](captureAudio1.png?raw=true)
+    ![](captureAudio-step-1.png?raw=true)
     
 2. In the callback, add infoDialog by providing the values as below:
 
-    ![](captureAudio2.png?raw=true)
+    ![](captureAudio-step-2.png?raw=true)
     
 ### Result
 
-The image captured will be shown in the image component.
+The audio file captured will be shown in a dialog.
 
-![](captureAudio3.png?raw=true)
+![](captureAudio-result-1.png?raw=true)
 
 ### Video
 

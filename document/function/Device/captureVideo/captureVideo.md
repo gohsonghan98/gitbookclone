@@ -18,22 +18,19 @@ The user want to do a video recording using mobile device.
 
 ### Step
 
-1. Draw a image component "Image653", a button "captureImage"
-    ![](captureImage1.png?raw=true)
+1. Call the captureVideo function.
+
+    ![](captureVideo-step-1.png?raw=true)
     
-2. Call the function captureImage in the button.
+2. In callback, add infoDialog function as below to view the path of video recorded.
 
-    ![](captureImage2.png?raw=true)
-
-3. In callback, call setComponentValue to set the image to the image component.
-
-    ![](captureImage3.png?raw=true)
+    ![](captureVideo-step-2.png?raw=true)
     
 ### Result
 
-The image captured will be shown in the image component.
+The video recorded will be shown in the image component.
 
-![](captureImage4.png?raw=true)
+![](captureVideo-result-1.png?raw=true)
 
 ### Video
 
