@@ -24,7 +24,7 @@ The user want adjust the screnn brightness of mobile.
 
 1. Call the screenBrightness function in a button event.
 
-    ![](screenBrightness-step-1.png?raw=true)
+    ![](../../../../document/function/Device/screenBrightness/screenBrightness-step-1.png?raw=true)
     
 ### Result
 

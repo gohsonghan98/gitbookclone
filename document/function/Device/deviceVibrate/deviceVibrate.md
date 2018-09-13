@@ -23,7 +23,7 @@ The user want trigger mobile vibration function.
 
 1. Call the deviceVibrate function in a button event.
 
-    ![](deviceVibrate-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceVibrate/deviceVibrate-step-1.png?raw=true)
     
 ### Result
 

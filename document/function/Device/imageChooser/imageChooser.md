@@ -24,20 +24,20 @@ The user want display the image by choosing it from gallery/phone storage.
 
 1. Draw a image component "Image653", a button component "imageChooser". 
 
-    ![](imageChooser-step-1.png?raw=true)
+    ![](../../../../document/function/Device/imageChooser/imageChooser-step-1.png?raw=true)
     
 2. In button event, add imageChooser function as below: 
 
-    ![](imageChooser-step-2.png?raw=true)
+    ![](../../../../document/function/Device/imageChooser/imageChooser-step-2.png?raw=true)
 
 3. In callback, add a setComponentValue function by giving component as "Image653" & value as an input.
 
-    ![](imageChooser-step-3.png?raw=true)
+    ![](../../../../document/function/Device/imageChooser/imageChooser-step-3.png?raw=true)
 
 ### Result
 
 The image choosen will be displayed in image component.
-![](imageChooser-result-1.png?raw=true)
+![](../../../../document/function/Device/imageChooser/imageChooser-result-1.png?raw=true)
 
 ### Video
 

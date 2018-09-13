@@ -20,7 +20,7 @@ The user want to make the page unable to click.
 
 1. Call the function
 
-    ![](disablePage-step-1.png?raw=true)
+    ![](../../../../document/function/App/disablePage/disablePage-step-1.png?raw=true)
 
 ### Result
 

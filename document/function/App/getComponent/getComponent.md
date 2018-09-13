@@ -25,17 +25,17 @@ The user view all the attribute/ details of a component.
 
 1. Draw a button "ButtonGetCom".
 
-    ![](getComponent-step-1.png?raw=true)
+    ![](../../../../document/function/App/getComponent/getComponent-step-1.png?raw=true)
     
 3. Call the function.
 
-    ![](getComponent-step-2.png?raw=true)
+    ![](../../../../document/function/App/getComponent/getComponent-step-2.png?raw=true)
 
 ### Result
 
 In the consolve, the details of component:
 
-![](getComponent-result-1.png?raw=true)
+![](../../../../document/function/App/getComponent/getComponent-result-1.png?raw=true)
 
 ### Video
 

@@ -20,12 +20,12 @@ The user want display device ID in an info dialog.
 
 1. Add a infoDialog, call the deviceId function. 
 
-    ![](deviceId-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceId/deviceId-step-1.png?raw=true)
     
 ### Result
 
 The ID of the device will be shown. <br />
-![](deviceId-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceId/deviceId-result-1.png?raw=true)
 
 ### Video
 

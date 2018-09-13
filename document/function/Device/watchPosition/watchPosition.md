@@ -27,17 +27,17 @@ The user want to get the current location of mobile device if the location chang
     maximumAge: 100
     enableHighAccuracy: true
 
-    ![](watchPosition-step-1.png?raw=true)
+    ![](../../../../document/function/Device/watchPosition/watchPosition-step-1.png?raw=true)
     
 2. In callback, add a console -> input function to view the result.
 
-    ![](watchPosition-step-2.png?raw=true)
+    ![](../../../../document/function/Device/watchPosition/watchPosition-step-2.png?raw=true)
     
 ### Result
 
 User will see the result below in console (the latlng will have different value): 
 
-![](watchPosition-result-1.png?raw=true)
+![](../../../../document/function/Device/watchPosition/watchPosition-result-1.png?raw=true)
 
 ### Video
 

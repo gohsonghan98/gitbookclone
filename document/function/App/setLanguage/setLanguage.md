@@ -23,26 +23,26 @@ The user override the default language (English) of their App.
 
 1. Go to language setting tab add language "chinese", add label "Language" and assign chinese word for the label as below:
 
-    ![](setLanguage-step-1.png?raw=true)
+    ![](../../../../document/function/App/setLanguage/setLanguage-step-1.png?raw=true)
     
 2. Draw a Label with "Language" Caption, a button "setLanguage"
 
-    ![](setLanguage-step-2.png?raw=true)
+    ![](../../../../document/function/App/setLanguage/setLanguage-step-2.png?raw=true)
     
 3. Call the function
 
-    ![](setLanguage-step-3.png?raw=true)
+    ![](../../../../document/function/App/setLanguage/setLanguage-step-3.png?raw=true)
     
 4. Reload
 
-    ![](setLanguage-step-4.png?raw=true)
+    ![](../../../../document/function/App/setLanguage/setLanguage-step-4.png?raw=true)
 
 
 ### Result
 
 The word "Language" will be changed to "语言选择". <br />
 
-![Flowchart](setLanguage-result-1.png?raw=true)
+![](../../../../document/function/App/setLanguage/setLanguage-result-1.png?raw=true)
 
 ### Video
 

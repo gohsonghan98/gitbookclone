@@ -20,17 +20,17 @@ The user want to hide the keyboard when the edit text is focused.
 
 1. Call the keyboardHide function. 
 
-    ![](keyboardHide-step-1.png?raw=true)
+    ![](../../../../document/function/Device/keyboardHide/keyboardHide-step-1.png?raw=true)
     
 ### Result
 
 Keyboard is shown.
 
-![](keyboardHide-result-1.png?raw=true)
+![](../../../../document/function/Device/keyboardHide/keyboardHide-result-1.png?raw=true)
 
 Keyboard of mobile device will be dismissed. 
 
-![](keyboardHide-result-2.png?raw=true)
+![](../../../../document/function/Device/keyboardHide/keyboardHide-result-2.png?raw=true)
 
 ### Video
 

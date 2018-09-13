@@ -26,11 +26,11 @@ The user wants to get the value from a text box component.
 
 1. Draw a edit text "txtA", a button "componentElAttr".
 
-    ![](componentElAttr-step-1.png?raw=true)
+    ![](../../../../document/function/App/componentElAttr/componentElAttr-step-1.png?raw=true)
 
 2. In button event, add a "console" then a "componentElAttr" function.
 
-    ![](componentElAttr-step-2.png?raw=true)
+    ![](../../../../document/function/App/componentElAttr/componentElAttr-step-2.png?raw=true)
 
 ### Result
 

@@ -20,12 +20,12 @@ The user want display device serial number in an info dialog.
 
 1. Add a infoDialog, call the deviceSerial function. 
 
-    ![](deviceSerial-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceSerial/deviceSerial-step-1.png?raw=true)
     
 ### Result
 
 The serial number of the device will be shown. <br />
-![](deviceSerial-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceSerial/deviceSerial-result-1.png?raw=true)
 
 ### Video
 

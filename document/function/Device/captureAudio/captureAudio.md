@@ -20,17 +20,17 @@ The user want to do a voice recording using mobile device.
 
 1. Call the function captureAudio.
     
-    ![](captureAudio-step-1.png?raw=true)
+    ![](../../../../document/function/Device/captureAudio/captureAudio-step-1.png?raw=true)
     
 2. In the callback, add infoDialog by providing the values as below:
 
-    ![](captureAudio-step-2.png?raw=true)
+    ![](../../../../document/function/Device/captureAudio/captureAudio-step-2.png?raw=true)
     
 ### Result
 
 The audio file captured will be shown in a dialog.
 
-![](captureAudio-result-1.png?raw=true)
+![](../../../../document/function/Device/captureAudio/captureAudio-result-1.png?raw=true)
 
 ### Video
 

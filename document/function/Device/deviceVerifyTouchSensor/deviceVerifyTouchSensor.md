@@ -25,22 +25,23 @@ The user want verify fingerprint in their device and display the password in dia
 
 1. Call the deviceVerifyTouchSensor function in a button event.
 
-    ![](deviceVerifyTouchSensor-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceVerifyTouchSensor/deviceVerifyTouchSensor-step-1.png?raw=true)
 
 2. In callback, add infoDialog function. 
 
-    ![](deviceVerifyTouchSensor-step-2.png?raw=true)
+    ![](../../../../document/function/Device/deviceVerifyTouchSensor/deviceVerifyTouchSensor-step-2.png?raw=true)
     
 ### Result
 
 Fingerprint authentication will be prompted with message we provided. <br />
-![](deviceVerifyTouchSensor-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceVerifyTouchSensor/deviceVerifyTouchSensor-result-1.png?raw=true)
 
 Fingerprint recognized. <br />
-![](deviceVerifyTouchSensor-result-2.png?raw=true)
+![](../../../../document/function/Device/deviceVerifyTouchSensor/deviceVerifyTouchSensor-result-2.png?raw=true)
 
 The password "ABC" will be shown. <br />
-![](deviceVerifyTouchSensor-result-3.png?raw=true)
+![](../../../../document/function/Device/deviceVerifyTouchSensor/deviceVerifyTouchSensor-result-3.png?raw=true)
+
 ### Video
 
 - N/A

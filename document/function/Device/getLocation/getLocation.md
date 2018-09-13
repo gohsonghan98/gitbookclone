@@ -25,11 +25,11 @@ The user want to detect the current location of mobile device.
     timeout: 30000 (connection timeout after 30 seconds)<br />
     enableHighAccuracy: true
 
-    ![](getLocation-step-1.png?raw=true)
+    ![](../../../../document/function/Device/getLocation/getLocation-step-1.png?raw=true)
     
 2. In callback, add a console -> input function to view the result.
 
-    ![](getLocation-step-2.png?raw=true)
+    ![](../../../../document/function/Device/getLocation/getLocation-step-2.png?raw=true)
     
 ### Result
 

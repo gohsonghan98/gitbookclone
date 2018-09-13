@@ -26,7 +26,7 @@ The user wants to create a global variable that share accord the app.
 
 1. Assuming you have followed the "setVar" fuction in help document, call the function.
 
-    ![](getVarAttr-step-1.png?raw=true)
+    ![](../../../../document/function/App/getVarAttr/getVarAttr-step-1.png?raw=true)
 
 ### Result
 

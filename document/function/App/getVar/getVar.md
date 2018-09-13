@@ -25,7 +25,7 @@ The user wants to get the value of a variable.
 
 1. Call the function.
 
-    ![](getVar-step-1.png?raw=true)
+    ![](../../../../document/function/App/getVar/getVar-step-1.png?raw=true)
 
 ### Result
 

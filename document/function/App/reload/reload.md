@@ -22,7 +22,7 @@ The user wants to reload the current page.
 
 1. Call the function.
 
-    ![](reload-step-1.png?raw=true)
+    ![](../../../../document/function/App/reload/reload-step-1.png?raw=true)
 
 ### Result
 

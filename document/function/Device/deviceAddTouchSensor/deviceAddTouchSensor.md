@@ -24,22 +24,22 @@ The user want add touch sensor to their device.
 
 1. Call the deviceAddTouchSensor function in a button event.
 
-    ![](deviceAddTouchSensor-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceAddTouchSensor/deviceAddTouchSensor-step-1.png?raw=true)
 
 2. In callback, add infoDialog function. 
 
-    ![](deviceAddTouchSensor-step-2.png?raw=true)
+    ![](../../../../document/function/Device/deviceAddTouchSensor/deviceAddTouchSensor-step-2.png?raw=true)
 
 ### Result
 
 Mobile will ask for fingerprint authentication. <br />
-![](deviceAddTouchSensor-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceAddTouchSensor/deviceAddTouchSensor-result-1.png?raw=true)
 
 Touch on touch sensor of device, fingerprint wil be recognized. <br />
-![](deviceAddTouchSensor-result-2.png?raw=true)
+![](../../../../document/function/Device/deviceAddTouchSensor/deviceAddTouchSensor-result-2.png?raw=true)
 
 Info dialog will be prompted.<br />
-![](deviceAddTouchSensor-result-3.png?raw=true)
+![](../../../../document/function/Device/deviceAddTouchSensor/deviceAddTouchSensor-result-3.png?raw=true)
 
 ### Video
 

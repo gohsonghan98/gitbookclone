@@ -25,12 +25,12 @@ The user want send a Whatsapp message from current app to Whatsapp.
 
 1. Call the openExternalApp function in a button event.
 
-    ![](openExternalApp-step-1.png?raw=true)
+    ![](../../../../document/function/Device/openExternalApp/openExternalApp-step-1.png?raw=true)
     
 ### Result
 
 The Whatsapp will be opened, select who to send the message "1111" will be sent.
-![](openExternalApp-result-1.png?raw=true)
+![](../../../../document/function/Device/openExternalApp/openExternalApp-result-1.png?raw=true)
 
 ### Video
 

@@ -20,12 +20,12 @@ The user want display device operating system in an info dialog.
 
 1. Add a infoDialog, call the deviceOS function. 
 
-    ![](deviceOS-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceOS/deviceOS-step-1.png?raw=true)
     
 ### Result
 
 The OS of the device will be shown. <br />
-![](deviceOS-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceOS/deviceOS-result-1.png?raw=true)
 
 ### Video
 

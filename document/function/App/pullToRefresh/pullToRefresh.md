@@ -24,19 +24,19 @@ The user want do some operations / processing by pulling the panel.
 
 1.  In page event "Load",  add pullToRefresh function.
 
-    ![](pullToRefresh-step-1.png?raw=true)
+    ![](../../../../document/function/App/pullToRefresh/pullToRefresh-step-1.png?raw=true)
 
 2.  In onRefresh, add an infoDialog.
 
-    ![](pullToRefresh-step-2.png?raw=true)
+    ![](../../../../document/function/App/pullToRefresh/pullToRefresh-step-2.png?raw=true)
 
 3.  Draw a panel and set the background to red.
 
-    ![](pullToRefresh-step-3.png?raw=true) 
+    ![](../../../../document/function/App/pullToRefresh/pullToRefresh-step-3.png?raw=true) 
 
 4.  Define "pull" for Style Class on Panel Inspector.
 
-    ![](pullToRefresh-step-4.png?raw=true)
+    ![](../../../../document/function/App/pullToRefresh/pullToRefresh-step-4.png?raw=true)
     
 ### Result
 
