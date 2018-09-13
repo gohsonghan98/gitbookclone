@@ -8,6 +8,9 @@ Contains the format of the different md files for the documentation.
 
 [See - Template Function](template/template-function.md)
 
+### Guidelines (Important)
+- Embedding Images - The path should be based on the root folder.
+
 ### Folder Structure
 
 Legend
