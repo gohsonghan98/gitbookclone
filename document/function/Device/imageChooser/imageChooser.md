@@ -1,8 +1,8 @@
-# captureImage
+# imageChooser
 
 ### Description
 
-Activates the camera of the mobile device to capture image.
+Select image from phone storage.
 
 ### Flowchart
 
@@ -18,27 +18,26 @@ Activates the camera of the mobile device to capture image.
 
 ### Scenario / Use Case
 
-The user want to take photo using mobile device and view the photo in the image component.
+The user want display the image by choosing it from gallery/phone storage.
 
 ### Step
 
-1. Draw a image component "Image653", a button "captureImage"
-  
-    ![](captureImage-step-1.png?raw=true)
+1. Draw a image component "Image653", a button component "imageChooser". 
+
+    ![](imageChooser-step-1.png?raw=true)
     
-2. Call the function captureImage in the button.
+2. In button event, add imageChooser function as below: 
 
-    ![](captureImage-step-2.png?raw=true)
+    ![](imageChooser-step-2.png?raw=true)
 
-3. In callback, call setComponentValue to set the image to the image component.
+3. In callback, add a setComponentValue function by giving component as "Image653" & value as an input.
 
-    ![](captureImage-step-3.png?raw=true)
-    
+    ![](imageChooser-step-3.png?raw=true)
+
 ### Result
 
-The image captured will be shown in the image component.
-
-![](captureImage-result-1.png?raw=true)
+The image choosen will be displayed in image component.
+![](imageChooser-result-1.png?raw=true)
 
 ### Video
 
@@ -47,4 +46,4 @@ The image captured will be shown in the image component.
 
 ### Notes
 
-- User must build the app first before they can test on this function.
+- N/A
