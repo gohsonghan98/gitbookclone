@@ -24,11 +24,11 @@ The user wants to view the result in console of broswer for debuging purpose.
 
 1. Call the function.
 
-    ![](console-step-1.png?raw=true)
+    ![](../../../../document/function/App/console/console-step-1.png?raw=true)
 
 ### Result
 
-![](console-result-1.png?raw=true)
+![](../../../../document/function/App/console/console-result-1.png?raw=true)
 
 ### Video
 

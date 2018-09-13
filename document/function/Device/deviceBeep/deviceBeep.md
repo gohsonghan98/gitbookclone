@@ -23,7 +23,7 @@ The user want trigger mobile beep sound.
 
 1. Call the deviceBeep function in a button event.
 
-    ![](deviceBeep-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceBeep/deviceBeep-step-1.png?raw=true)
     
 ### Result
 

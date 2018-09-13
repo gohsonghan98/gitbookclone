@@ -20,12 +20,12 @@ The user want display device operating system version in an info dialog.
 
 1. Add a infoDialog, call the deviceOSVersion function. 
 
-    ![](deviceOSVersion-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceOSVersion/deviceOSVersion-step-1.png?raw=true)
     
 ### Result
 
 The version of the device will be shown. <br />
-![](deviceOSVersion-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceOSVersion/deviceOSVersion-result-1.png?raw=true)
 
 ### Video
 

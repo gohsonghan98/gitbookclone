@@ -26,11 +26,11 @@ The user wants to get the value from a text box component and display it in a la
 
 1. Draw a label component & button component
 
-    ![](setComponentLink-step-1.png?raw=true)
+    ![](../../../../document/function/App/setComponentLink/setComponentLink-step-1.png?raw=true)
     
 2. Call the function.
 
-    ![](setComponentLink-step-2.png?raw=true)
+    ![](../../../../document/function/App/setComponentLink/setComponentLink-step-2.png?raw=true)
 
 ### Result
 

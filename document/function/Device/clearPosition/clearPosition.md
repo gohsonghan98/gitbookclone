@@ -20,7 +20,7 @@ The user want to stop getting the current location of mobile device if the locat
 
 1. Call the function. <br />
     
-    ![](clearPosition-step-1.png?raw=true)
+    ![](../../../../document/function/Device/clearPosition/clearPosition-step-1.png?raw=true)
     
 ### Result
 

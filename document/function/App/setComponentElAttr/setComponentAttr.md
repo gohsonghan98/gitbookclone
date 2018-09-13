@@ -27,17 +27,17 @@ The user override a specific element atrribute of a component.
 
 1. Draw a button "btnSetComponentElAttr"
 
-    ![](setComponentElAttr-step-1.png?raw=true)
+    ![](../../../../document/function/App/setComponentElAttr/setComponentElAttr-step-1.png?raw=true)
     
 3. Call the function
 
-    ![](setComponentElAttr-step-2.png?raw=true)
+    ![](../../../../document/function/App/setComponentElAttr/setComponentElAttr-step-2.png?raw=true)
 
 ### Result
 
 The elemnet attribute "innerText" of a button "btnSetComponentElAttr" will have the value of "New Label".
 
-![](setComponentElAttr-result-1.png?raw=true)
+![](../../../../document/function/App/setComponentElAttr/setComponentElAttr-result-1.png?raw=true)
 
 ### Video
 

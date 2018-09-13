@@ -24,21 +24,21 @@ The user want to take photo using mobile device and view the photo in the image 
 
 1. Draw a image component "Image653", a button "captureImage"
   
-    ![](captureImage-step-1.png?raw=true)
+    ![](../../../../document/function/Device/captureImage/captureImage-step-1.png?raw=true)
     
 2. Call the function captureImage in the button.
 
-    ![](captureImage-step-2.png?raw=true)
+    ![](../../../../document/function/Device/captureImage/captureImage-step-2.png?raw=true)
 
 3. In callback, call setComponentValue to set the image to the image component.
 
-    ![](captureImage-step-3.png?raw=true)
+    ![](../../../../document/function/Device/captureImage/captureImage-step-3.png?raw=true)
     
 ### Result
 
 The image captured will be shown in the image component.
 
-![](captureImage-result-1.png?raw=true)
+![](../../../../document/function/Device/captureImage/captureImage-result-1.png?raw=true)
 
 ### Video
 

@@ -22,7 +22,7 @@ The user wants to remove all global variable in app.
 
 1. Call the function.
 
-    ![](clearAllVar-step-1.png?raw=true)
+    ![](../../../../document/function/App/clearAllVar/clearAllVar-step-1.png?raw=true)
 
 ### Result
 

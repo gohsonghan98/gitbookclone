@@ -20,16 +20,16 @@ The user want activate touch sensor of their device.
 
 1. Call the deviceHasTouchSensor function in a button event.
 
-    ![](deviceHasTouchSensor-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceHasTouchSensor/deviceHasTouchSensor-step-1.png?raw=true)
 
 2. In callback, add infoDialog function. 
 
-    ![](deviceHasTouchSensor-step-2.png?raw=true)
+    ![](../../../../document/function/Device/deviceHasTouchSensor/deviceHasTouchSensor-step-2.png?raw=true)
     
 ### Result
 
 Info dialog will be prompted as below:  <br />
-![](deviceHasTouchSensor-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceHasTouchSensor/deviceHasTouchSensor-result-1.png?raw=true)
 
 ### Video
 

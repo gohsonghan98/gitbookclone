@@ -20,11 +20,11 @@ The user want to redirect to another page when press of back button.
 
 1. Call the onBackButton function. 
 
-    ![](onBackButton-step-1.png?raw=true)
+    ![](../../../../document/function/Device/onBackButton/onBackButton-step-1.png?raw=true)
     
 2. In callback, add gotoPage function and give the "p" parameter as pgGlobal.
 
-    ![](onBackButton-step-2.png?raw=true)
+    ![](../../../../document/function/Device/onBackButton/onBackButton-step-2.png?raw=true)
     
 ### Result
 

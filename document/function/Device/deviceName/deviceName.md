@@ -20,12 +20,12 @@ The user want display device name in an info dialog.
 
 1. Add a infoDialog, call the deviceName function. 
 
-    ![](deviceName-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceName/deviceName-step-1.png?raw=true)
     
 ### Result
 
 The name of the device will be shown. <br />
-![](deviceName-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceName/deviceName-result-1.png?raw=true)
 
 ### Video
 

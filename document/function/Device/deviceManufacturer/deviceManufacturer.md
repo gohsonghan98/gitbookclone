@@ -20,12 +20,12 @@ The user want display manufacturer of a device in an info dialog.
 
 1. Add a infoDialog, call the manufacturer function. 
 
-    ![](deviceManufacturer-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceManufacturer/deviceManufacturer-step-1.png?raw=true)
     
 ### Result
 
 The manufacturer of the device will be shown. <br />
-![](deviceManufacturer-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceManufacturer/deviceManufacturer-result-1.png?raw=true)
 
 ### Video
 

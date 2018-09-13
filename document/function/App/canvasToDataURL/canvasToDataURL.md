@@ -22,23 +22,23 @@ The user want get the value of signature component and send to the server for pr
 
 1. Find the signature component. 
 
-    ![](canvasToDataURL-step-1.png?raw=true)
+    ![](../../../../document/function/App/canvasToDataURL/canvasToDataURL-step-1.png?raw=true)
     
 
 2. Draw a signature component "Signature",  a button "canvasToDatURL".
 
-    ![](canvasToDataURL-step-2.png?raw=true)
+    ![](../../../../document/function/App/canvasToDataURL/canvasToDataURL-step-2.png?raw=true)
     
 
 3. Call the function by adding a console -> canvasToDataURL in button event.
 
-    ![](canvasToDataURL-step-3.png?raw=true)
+    ![](../../../../document/function/App/canvasToDataURL/canvasToDataURL-step-3.png?raw=true)
     
 ### Result
 
 In the console of browser, user can see the dataURL of signature component.
 
-![](canvasToDataURL-result-1.png?raw=true)
+![](../../../../document/function/App/canvasToDataURL/canvasToDataURL-result-1.png?raw=true)
 
 ### Video
 

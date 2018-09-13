@@ -26,7 +26,7 @@ The user want to get value of parameter: <br />
 
 1. Call the function.
 
-    ![](valueFromURL-step-1.png?raw=true)
+    ![](../../../../document/function/Browser/valueFromURL/valueFromURL-step-1.png?raw=true)
 
 ### Result
 

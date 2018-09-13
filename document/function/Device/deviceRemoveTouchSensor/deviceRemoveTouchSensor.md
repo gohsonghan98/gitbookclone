@@ -23,15 +23,15 @@ The user want remove specific key of touch sensor in their device.
 
 1. Call the deviceRemoveTouchSensor function in a button event, define key to remove.
 
-    ![](deviceRemoveTouchSensor-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceRemoveTouchSensor/deviceRemoveTouchSensor-step-1.png?raw=true)
 
 2. In callback, add infoDialog function. 
 
-    ![](deviceRemoveTouchSensor-step-2.png?raw=true)
+    ![](../../../../document/function/Device/deviceRemoveTouchSensor/deviceRemoveTouchSensor-step-2.png?raw=true)
 
 ### Result
 
-![](deviceRemoveTouchSensor-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceRemoveTouchSensor/deviceRemoveTouchSensor-result-1.png?raw=true)
 
 ### Video
 

@@ -20,7 +20,7 @@ The user want to exit from current mobile app.
 
 1. Call the exitApp function. 
 
-    ![](exitApp-step-1.png?raw=true)
+    ![](../../../../document/function/Device/exitApp/exitApp-step-1.png?raw=true)
     
 ### Result
 

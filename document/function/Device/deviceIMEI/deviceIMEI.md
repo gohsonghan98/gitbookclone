@@ -20,16 +20,16 @@ The user want display device IMEI in console.
 
 1. Call the deviceIMEI function. 
 
-    ![](deviceIMEI-step-1.png?raw=true)
+    ![](../../../../document/function/Device/deviceIMEI/deviceIMEI-step-1.png?raw=true)
 
 2. In callback, add infoDialog function with content parameter as input. 
 
-    ![](deviceIMEI-step-2.png?raw=true)
+    ![](../../../../document/function/Device/deviceIMEI/deviceIMEI-step-2.png?raw=true)
 
 ### Result
 
 The IMEI of the device will be shown. <br />
-![](deviceIMEI-result-1.png?raw=true)
+![](../../../../document/function/Device/deviceIMEI/deviceIMEI-result-1.png?raw=true)
 
 ### Video
 

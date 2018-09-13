@@ -27,19 +27,19 @@ The user want scan barcode and display in a dialog.
 
 1. Call the barcodeScanner function in a button event.
 
-    ![](barcodeScanner-step-1.png?raw=true)
+    ![](../../../../document/function/Device/barcodeScanner/barcodeScanner-step-1.png?raw=true)
 
 2. In callback, add infoDialog function. 
 
-    ![](barcodeScanner-step-2.png?raw=true)
+    ![](../../../../document/function/Device/barcodeScanner/barcodeScanner-step-2.png?raw=true)
     
 ### Result
 
 When press on button, the barcode scanner will be activated. <br />
-![](barcodeScanner-result-1.png?raw=true)
+![](../../../../document/function/Device/barcodeScanner/barcodeScanner-result-1.png?raw=true)
 
 After scanned the barcode, the value will be displayed in a dialog box. <br />
-![](barcodeScanner-result-2.png?raw=true)
+![](../../../../document/function/Device/barcodeScanner/barcodeScanner-result-2.png?raw=true)
 
 ### Video
 

@@ -25,7 +25,7 @@ The user want to hide component from the screen.
 
 1. Call the function
 
-    ![](hideElement-step-1.png?raw=true)
+    ![](../../../../document/function/App/hideElement/hideElement-step-1.png?raw=true)
 
 ### Result
 

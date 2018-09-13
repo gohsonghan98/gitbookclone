@@ -25,7 +25,7 @@ The user want to make a not visible component to visible.
 
 1. Call the function
 
-    ![](showElement-step-1.png?raw=true)
+    ![](../../../../document/function/App/showElement/showElement-step-1.png?raw=true)
 
 ### Result
 
