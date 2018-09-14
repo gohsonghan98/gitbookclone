@@ -1,6 +1,5 @@
 ﻿# Count
 
-
 ### Description
 
 Counts all elements in an array.
@@ -23,7 +22,7 @@ The user wants to count all the data in an array.
 
 1. Call the function "count".
 
-     ![](count-step-1.png?raw=true)
+     ![](../../../../document/function/Array/Count/count-step-1.png?raw=true)
      
 2. Call the function "toArray" and define the value of array.<br>
    value1  : 2<br />
@@ -31,7 +30,7 @@ The user wants to count all the data in an array.
    value3  : 1<br />
    value4  : 1<br />
 
-     ![](count-step-2.png?raw=true)
+     ![](../../../../document/function/Array/count/count-step-2.png?raw=true)
 
 ### Result
 

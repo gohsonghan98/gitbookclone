@@ -1,6 +1,5 @@
 ﻿# Replace
 
-
 ### Description
 
 Locate a word or phrase and replace it with new text.
@@ -25,11 +24,11 @@ The user wants to replace some words into a new sentences.</br>
 ### Step
 
 1. Call the function.<br>
-    string: I am a student<br />
-    replace: student<br />
-    replacement: worker<br />
+   string: I am a student<br />
+   replace: student<br />
+   replacement: worker<br />
     
-   ![](replace-step-1.png?raw=true)
+   ![](../../../../document/function/String/replace/replace-step-1.png?raw=true)
 
 ### Result
 

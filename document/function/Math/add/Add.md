@@ -1,6 +1,5 @@
 ﻿# Add
 
-
 ### Description
 
 Addition of two numbers.
@@ -26,7 +25,7 @@ The user wants to add two values and get the total result.<br />
     value1:  1<br />
     value2: 10<br /> 
     
-    ![](add-step-1.png?raw=true)
+    ![](../../../../document/function/Math/add/add-step-1.png?raw=true)
 
 ### Result
 

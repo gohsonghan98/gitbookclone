@@ -24,30 +24,30 @@ The user wants to do a mapping for all the values in an array.
    <br>
    var: Vmap
    
-    ![](map-step-1.png?raw=true)
+    ![](../../../../document/function/Flow/map/map-step-1.png?raw=true)
     
-2. Call the function"toArray" and set the value for array.
+2. Call the function"toArray" and set the value    for    array.
    <br>
    value1: 11<br/>
    value2: 112<br/>
    value3: 1112<br/>
    value4: 11112<br/>
    
-     ![](map-step-2.png?raw=true)
+   ![](../../../../document/function/Flow/map/map-step-2.png?raw=true)
      
 3. Call the function"map" and "getVar".
-<br>
-var : getVar->Vmap <br />
+   <br>
+   var : getVar->Vmap <br />
      
-      ![](map-step-3.png?raw=true)
+   ![](../../../../document/function/Flow/map/map-step-3.png?raw=true)
       
-4. Add a console and display the input.
+4. Add a console and display the response from           console.
       
-      ![](map-step-4.png?raw=true)
+   ![](../../../../document/function/Flow/map/map-step-4.png?raw=true)
 
 ### Result
 
- ![](map-result-1.png?raw=true)
+![](../../../../document/function/Flow/map/map-result-1.png?raw=true)
 
 ### Video
 

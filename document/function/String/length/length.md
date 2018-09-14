@@ -1,6 +1,5 @@
 ﻿# Length
 
-
 ### Description
 
 Count the number of characters in the string.
@@ -25,7 +24,7 @@ The user wants to count the number of characters. </br>
     </br>
     string: AAAAAA<br />
     
-   ![](length-step-1.png?raw=true)
+   ![](../../../../document/function/String/length/length-step-1.png?raw=true)
 
 ### Result
 

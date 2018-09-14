@@ -19,7 +19,6 @@ The first value is equal or greater than the second value.
 
 The user wants to get the operator that returns true when the first value equal or greater than the second value.
 
-
 ### Step
 
 1. Call the function.
@@ -27,7 +26,7 @@ The user wants to get the operator that returns true when the first value equal 
    value1 : 15<br />
    value2 : 13<br />
 
-   ![](equalOrGreater-step-1.png?raw=true)
+   ![](../../../../document/function/Comparation/equalOrGreater/equalOrGreater-step-1.png?raw=true)
 
 ### Result
 

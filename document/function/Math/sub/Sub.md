@@ -1,6 +1,5 @@
 ﻿# Sub
 
-
 ### Description
 
 Substract two numbers.
@@ -27,7 +26,7 @@ The user wants to substract two values and get the total result.<br />
     value1 : 10<br />
     value2 :  5<br />
     
-    ![](sub-step-1.png?raw=true)
+    ![](../../../../document/function/Math/sub/sub-step-1.png?raw=true)
 
 ### Result
 

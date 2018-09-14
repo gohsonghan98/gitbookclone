@@ -1,7 +1,5 @@
 ﻿# Capitalize
 
- 
-
 ### Description
 
 Converts all the first characters to upper case.
@@ -26,7 +24,7 @@ The user wants to convert all the first letters to upper case.<br />
    <br />
     string: i am hungry<br />
 
-   ![](capitalize-step-1.png?raw=true)
+   ![](../../../../document/function/String/capitalize/capitalize-step-1.png?raw=true)
 
 ### Result
 

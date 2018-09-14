@@ -13,7 +13,7 @@ Allows to run a function regularly after set the interval of time.
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
 | 1 | delay | The delay before run. | Time | Yes  |
-| 2 | timeout | Time. | Time | Yes  |
+| 2 | timeout | Time | Time | Yes  |
 
 ### Scenario / Use Case
 
@@ -21,18 +21,18 @@ The user wants to display the value "11"every 2 seconds and the time out is 4 se
 
 ### Step
 
-1. Call the function "setInterval"and set the delay and timeout in milliseconds .
+1. Call the function "setInterval"and set the            delay and timeout in milliseconds .
    <br>
    delay: 2000<br>
    timeout: 4000<br>
   
-    ![](setInterval-step-1.png?raw=true)
+   ![](../../../../document/function/Flow/setInterval/setInterval-step-1.png?raw=true)
     
-2. Execute the callback coding after 2 seconds, add a console and set the value for display.
+2. Execute the callback coding after 2 seconds,    add    a console and set the value for response    from      console.
    <br>
-  value: 11<br>
+   value: 11<br>
    
-     ![](setInterval-step-2.png?raw=true)
+   ![](../../../../document/function/Flow/setInterval/setInterval-step-2.png?raw=true)
     
 ### Result
 

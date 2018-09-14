@@ -1,6 +1,5 @@
 ﻿# Multi
 
-
 ### Description
 
 Multiplication of two numbers.
@@ -27,7 +26,7 @@ The user wants to multiple two value and get the total result.<br />
     value1: 2<br />
     value2: 2<br />
     
-    ![](multi-step-1.png?raw=true)
+    ![](../../../../document/function/Math/multi/multi-step-1.png?raw=true)
 
 ### Result
 

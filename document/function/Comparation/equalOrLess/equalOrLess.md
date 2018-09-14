@@ -25,7 +25,7 @@ The user wants to get the operator that returns true when the value of first val
   <br> value1 :  1<br />
    value2 : 11<br />
 
-    ![](equalOrLess-step-1.png?raw=true)
+    ![](../../../../document/function/Comparation/equalOrLess/equalOrLess-step-1.png?raw=true)
 
 ### Result
 

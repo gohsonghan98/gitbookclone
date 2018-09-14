@@ -1,6 +1,5 @@
 ﻿# Pow
 
-
 ### Description
 
 Exponentiation of two numbers.
@@ -28,7 +27,7 @@ The user wants to get a number representing the given base taken to the power of
     base: 6<br />
     exponent: 2<br />
     
-    ![](pow-step-1.png?raw=true)
+    ![](../../../../document/function/Math/pow/pow-step-1.png?raw=true)
 
 ### Result
 

@@ -1,6 +1,5 @@
 ﻿# Sqr
 
-
 ### Description
 
 Multiplying a number by itself.
@@ -25,7 +24,7 @@ The user wants to multiple number by itself and get the total result.<br />
     <br />
     value: 5<br />
     
-    ![](sqr-step-1.png?raw=true)
+    ![](../../../../document/function/Math/sqr/sqr-step-1.png?raw=true)
 
 ### Result
 

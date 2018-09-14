@@ -1,6 +1,5 @@
 ﻿# padString
 
-
 ### Description
 
 Set the type of alignment for a string.
@@ -30,11 +29,11 @@ The user wants to centralize a string of length 10.
     len: 10<br />
     type: center<br />
         
- ![](padString-step-1.png?raw=true)
+   ![](../../../../document/function/String/padString/padString-step-1.png?raw=true)
 
 ### Result
 
- ![](padString-result-1.png?raw=true)
+ ![](../../../../document/function/String/padString/padString-result-1.png?raw=true)
 
 ### Video
 

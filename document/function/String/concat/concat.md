@@ -1,7 +1,5 @@
 ﻿# Concat
 
-
-
 ### Description
 
 Concatenation, group or joining two or more expressions together into a single string.
@@ -32,7 +30,7 @@ The user wants to concatenation the Postal Code and City into Address.</br>
     string2  : PostalCode<br />
     string3  : City<br />
 
-   ![](concat-step-1.png?raw=true)
+   ![](../../../../document/function/String/concat/concat-step-1.png?raw=true)
 
 ### Result
 

@@ -1,6 +1,5 @@
 ﻿# newArray
 
-
 ### Description
 
 Create a new array variable.
@@ -21,20 +20,20 @@ The user wants to create a new array variable.
 
 ### Step
 
-1. Call the function"newArray" and set the variable name.<br>
-var: listOfFruits<br />
+1. Call the function"newArray" and set the         variable name.<br>
+   var: listOfFruits<br />
     
-    ![](newArray-step-1.png?raw=true)
+    ![](../../../../document/function/Array/newArray/newArray-step-1.png?raw=true)
     
 2. Add a console and call the function "getVar"
 
-    ![](newArray-step-2.png?raw=true)
+    ![](../../../../document/function/Array/newArray/newArray-step-2.png?raw=true)
     
 ### Result
 
 User create a new array successfully.<br>
 
-![](newArray-result-1.png?raw=true)
+![](../../../../document/function/Array/newArray/newArray-result-1.png?raw=true)
 
 ### Video
 
