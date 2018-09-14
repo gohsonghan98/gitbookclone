@@ -22,7 +22,7 @@ The user wants to sort the value inside array in descending order.
 
 1. Call the function "sort"
 
-    ![](sort-step-1.png?raw=true)
+    ![](../../../../document/function/Array/sort/sort-step-1.png?raw=true)
 
 2. Define the value of array</br>
     value1  : 1<br />
@@ -30,11 +30,11 @@ The user wants to sort the value inside array in descending order.
     value3  : 3<br />
     value4  : 3<br />
 
-    ![](sort-step-2.png?raw=true)
+    ![](../../../../document/function/Array/sort/sort-step-2.png?raw=true)
 
 ### Result
 
-![](sort-result-1.png?raw=true)
+![](../../../../document/function/Array/sort/sort-result-1.png?raw=true)
 
 ### Video
 

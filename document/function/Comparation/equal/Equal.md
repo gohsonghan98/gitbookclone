@@ -26,7 +26,7 @@ The user wants to get the operator that returns true when the value of two numbe
    value1 : 11<br />
    value2 : 11<br />
 
-    ![](equal-step-1.png?raw=true)
+    ![](../../../../document/function/Comparation/equal/equal-step-1.png?raw=true)
 
 ### Result
 

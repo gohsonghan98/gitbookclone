@@ -25,16 +25,16 @@ The user wants to sum all the values inside the array and get the total result.
 
 1. Call the function "sum"
 
-    ![](sum-step-1.png?raw=true)
+    ![](../../../../document/function/Array/sum/sum-step-1.png?raw=true)
 
 2. Call the function"toArray" and set the value.
-</br>
-value1  : 11<br />
-value2  : 21<br />
-value3  : 11<br />
-value4  : 11<br />
+   </br>
+   value1  : 11<br />
+   value2  : 21<br />
+   value3  : 11<br />
+   value4  : 11<br />
 
-    ![](sum-step-2.png?raw=true)
+   ![](../../../../document/function/Array/sum/sum-step-2.png?raw=true)
 
 ### Result
 

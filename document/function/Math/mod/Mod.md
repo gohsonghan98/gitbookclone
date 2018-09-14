@@ -1,6 +1,5 @@
 ﻿# Mod
 
-
 ### Description
 
 Get the remainder of two numbers after division.
@@ -26,7 +25,7 @@ The user wants to get the mod value after division.<br />
     value1: 80<br />
     value2: 60<br />
     
-    ![](mod-step-1.png?raw=true)
+    ![](../../../../document/function/Math/mod/mod-step-1.png?raw=true)
 
 ### Result
 

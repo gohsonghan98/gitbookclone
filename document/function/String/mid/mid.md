@@ -1,6 +1,5 @@
 ﻿# Mid
 
-
 ### Description
 
 Returns a range of string starting at a specified position of words.
@@ -29,7 +28,7 @@ The user wants to get a specified number of characters from a string.</br>
     start: 1<br />
     length:2<br />
     
-     ![](mid-step-1.png?raw=true)
+    ![](../../../../document/function/String/mid/mid-step-1.png?raw=true)
 
 ### Result
 

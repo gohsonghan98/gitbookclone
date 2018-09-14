@@ -13,7 +13,8 @@ Get the Average value of an Array.
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
 | 1 | values | Array | Array | Yes  |
-| 2 | value1-10 | Number. | Integer | No __*__  |
+| 2 | value1-10 | Number | Integer | No __*__  |
+
 * Note: At least two fields must have value in order for this function to work.
 
 ### Scenario / Use Case
@@ -24,7 +25,7 @@ The user wants to get the average value.
 
 1. Call the function.
 
-    ![](avg-step-1.png?raw=true)
+    ![](../../../../document/function/Array/avg/avg-step-1.png?raw=true)
 
 ### Result
 

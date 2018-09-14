@@ -1,6 +1,5 @@
 ﻿# And
 
-
 ### Description
 
 Boolean returns value true if both operands is true and returns false otherwise. 
@@ -28,7 +27,7 @@ The user wants to return the true result and both expression is true.
     value1 : greater (value1:  3000 and value2:  1100)<br />
     value2 : true<br />
 
-    ![](and-step-1.png?raw=true)
+    ![](../../../../document/function/Logical/and/and-step-1.png?raw=true)
 
 ### Result
 

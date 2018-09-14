@@ -1,6 +1,5 @@
 ﻿# Right
 
-
 ### Description
 
 Extracts a specified number of characters from the right hand side of a string.
@@ -26,7 +25,7 @@ The user wants to display a String which containing a specified number of charac
     string: AAAABB<br />
     length: 4<br />
 
-   ![](right-step-1.png?raw=true)
+   ![](../../../../document/function/String/right/right-step-1.png?raw=true)
 
 ### Result
 

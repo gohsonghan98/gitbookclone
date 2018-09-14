@@ -20,22 +20,22 @@ The user wants to remove the value in an array.
 
 ### Step
 
-1. Call the function "newArray" and "push" (We assumed that the new array and the value of array have been created.)
-</br>
-var: listOfFruits<br />
-value : jackfruit<br>
-value : mango<br>
+1. Call the function "newArray" and "push" (We     assumed that the new array and the value of     array have been created.)
+   </br>
+   var: listOfFruits<br />
+   value : jackfruit<br>
+   value : mango<br>
 
-    ![](pop-step-1.png?raw=true)
+   ![](../../../../document/function/Array/pop/pop-step-1.png?raw=true)
     
 2. Call the function "pop" <br>
    var:listOfFruits<br />
     
-    ![](pop-step-2.png?raw=true)
+   ![](../../../../document/function/Array/pop/pop-step-2.png?raw=true)
     
 3.  Add a console for display the input.
   
-     ![](pop-step-3.png?raw=true)
+    ![](../../../../document/function/Array/pop/pop-step-3.png?raw=true)
 
 ### Result
 

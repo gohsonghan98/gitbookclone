@@ -1,6 +1,5 @@
 ﻿# Conditional
 
-
 ### Description
 
 Is the if-then statement, the program to execute a certain section of code only if one or more conditions being met.
@@ -21,21 +20,21 @@ The user wants to prove that the value 13 is greater than the value 1.</br>
 
 ### Step
 
-1. Call the function "greater" and set the value.<br>
-value1: 13<br/>
-value2:  1<br/>
+1. Call the function "greater" and set the               value.<br>
+   value1: 13<br/>
+   value2:  1<br/>
   
-   ![](conditional-step-1.png?raw=true)
+   ![](../../../../document/function/Flow/conditional/conditional-step-1.png?raw=true)
    
-2. Add a console and set the value if the condition is met so the program will execute a code from "yesCallback".<br>
-value : greater<br/>
+2. Add a console and set the value if the                condition is met so the program will execute    a     code from "yesCallback".<br>
+   value : greater<br/>
 
-   ![](conditional-step-2.png?raw=true)
+   ![](../../../../document/function/Flow/conditional/conditional-step-2.png?raw=true)
    
-3. Add a console and set the value if the condition is not met so the program will execute a code from "noCallback". <br>
-value : not greater<br/>
+3. Add a console and set the value if the                condition is not met so the program will              execute a code from "noCallback". <br>
+   value : not greater<br/>
    
-   ![](conditional-step-3.png?raw=true)
+   ![](../../../../document/function/Flow/conditional/conditional-step-3.png?raw=true)
 
 ### Result
 

@@ -1,7 +1,5 @@
 ﻿# Left
 
-
-
 ### Description
 
 Extracts a specified number of characters start from the left hand side of a string.
@@ -27,7 +25,7 @@ The user wants to display a specified number of characters from the left hand si
     string: 123456789<br />
     length : 6<br />
 
-   ![](left-step-1.png?raw=true)
+   ![](../../../../document/function/String/left/left-step-1.png?raw=true)
 
 ### Result
 

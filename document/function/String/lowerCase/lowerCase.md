@@ -1,6 +1,5 @@
 ﻿# Lower Case
 
-
 ### Description
 
 Convert the letters from upper case to lower case.
@@ -24,7 +23,7 @@ The user wants to convert the letters from upper case to lower case.</br>
 1. Call the function.<br>
     string: AbC<br />
 
-   ![](lowerCase-step-1.png?raw=true)
+   ![](../../../../document/function/String/lowerCase/lowerCase-step-1.png?raw=true)
 
 ### Result
 

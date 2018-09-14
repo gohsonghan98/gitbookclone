@@ -1,6 +1,5 @@
 ﻿# Sqrt
 
-
 ### Description
 
 Get the square root of a number.
@@ -24,7 +23,7 @@ The user wants to  square (the result of multiplying the number by itself) and g
 1. Call the function.<br>
     value: 10<br />
     
-      ![](sqrt-step-1.png?raw=true)
+   ![](../../../../document/function/Math/sqrt/sqrt-step-1.png?raw=true)
 
 ### Result
 

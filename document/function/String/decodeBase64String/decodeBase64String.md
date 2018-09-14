@@ -1,6 +1,5 @@
 ﻿# decodeBase64String
 
-
 ### Description
 
 Convert a base64 to string.
@@ -24,7 +23,7 @@ The user wants to decode a base64 string to string.<br />
 1. Call the function.<br>
     string : QUE=<br />
     
-   ![](decodeBase64String-step-1.png?raw=true)
+   ![](../../../../document/function/String/decodeBase64String/decodeBase64String-step-1.png?raw=true)
 
 ### Result
 

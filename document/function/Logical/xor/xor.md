@@ -1,6 +1,5 @@
 ﻿# Xor
 
-
 ### Description
 
 Boolean returns value true if both operands are differ(one is true, the other is false) and returns false otherwise.
@@ -27,7 +26,7 @@ The user wants the operator will be true and both expression is differ which one
     value1 : greater (value1:  3000 and value2:  5000)<br />
     value2 : true<br />
 
-   ![](xor-step-1.png?raw=true)
+   ![](../../../../document/function/Logical/xor/xor-step-1.png?raw=true)
 
 ### Result
 

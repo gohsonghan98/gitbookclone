@@ -1,6 +1,5 @@
 ﻿# hashingFunction
 
-
 ### Description
 
 Is a transformation of a string of characters into a usually shorter fixed-length value or key that represents the original string.
@@ -25,7 +24,7 @@ The user wants to transform a characters into a shorter fixed-length value for r
 1. Call the function.<br>
     string: abc<br />
     
-    ![](hashingFunction-step-1.png?raw=true)
+    ![](../../../../document/function/String/hashingFunction/hashingFunction-step-1.png?raw=true)
 
 ### Result
 

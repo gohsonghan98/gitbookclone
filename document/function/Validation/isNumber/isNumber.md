@@ -1,6 +1,5 @@
 ﻿# isNumber
 
-
 ### Description
 
 The method determines whether the specified value is a number or not.
@@ -24,7 +23,7 @@ The user wants to identify the value is number.
 
 1. Call the function.
 
-    ![](isNumber-step-1.png?raw=true)
+    ![](../../../../document/function/Validation/isNumber/isNumber-step-1.png?raw=true)
     
 ### Result
 

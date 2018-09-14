@@ -1,6 +1,5 @@
 ﻿# Increment
 
-
 ### Description
 
 Additional of a number with another number.
@@ -27,7 +26,7 @@ The user wants to increase the number.
     string: 1<br />
     by: 5
     
-   ![](Increment-step-1.png?raw=true)
+   ![](../../../../document/function/String/increment/increment-step-1.png?raw=true)
 
 ### Result
 

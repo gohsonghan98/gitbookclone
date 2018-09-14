@@ -1,6 +1,5 @@
 ﻿# Trim
 
-
 ### Description
 
 Remove whitespace from both sides of a string.
@@ -22,9 +21,9 @@ The user wants to make the words trim and neat.</br>
 ### Step
 
 1. Call the function.<br>
-    string:(space)ABB  C  DE<br />
+   string:(space)ABB  C  DE<br />
     
-   ![](trim-step-1.png?raw=true)
+   ![](../../../../document/function/String/trim/trim-step-1.png?raw=true)
 
 ### Result
 

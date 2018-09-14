@@ -1,6 +1,5 @@
 ﻿# findIndex
 
-
 ### Description
 
 To search for a specific word, number of an element in the array and display it.  
@@ -28,7 +27,7 @@ The user wants to search the character "H" in string.
     string: AAABBBCDEcGH<br />
     find: H
     
-   ![](findIndex-step-1.png?raw=true)
+   ![](../../../../document/function/String/findIndex/findIndex-step-1.png?raw=true)
 
 ### Result
 

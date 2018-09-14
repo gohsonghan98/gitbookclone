@@ -1,6 +1,5 @@
 ﻿# Or
 
-
 ### Description
 
 Boolean returns value true if either or both operands is true and returns false otherwise.
@@ -27,7 +26,7 @@ The user wants the operator will be true if the expression on either side of it 
     value1 : false <br />
     value2 : false <br />
 
-    ![](or-step-1.png?raw=true)
+    ![](../../../../document/function/Logical/or/or-step-1.png?raw=true)
     
 ### Result
 

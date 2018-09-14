@@ -1,6 +1,5 @@
 ﻿# encrypt
 
-
 ### Description
 
 Convert information or data into a code.
@@ -30,7 +29,7 @@ The user wants encrypt the data into code.
      iv: 16<br />
     value: 12121212<br />
     
-    ![](encrypt-step-1.png?raw=true)
+    ![](../../../../document/function/String/encrypt/encrypt-step-1.png?raw=true)
 
 ### Result
 

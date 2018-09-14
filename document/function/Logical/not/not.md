@@ -1,6 +1,5 @@
 ﻿# Not
 
-
 ### Description
 
 Is a Boolean operator that returns TRUE or 1 when the operand is FALSE or 0, and returns FALSE or 0 when the operand is TRUE or 1. 
@@ -22,17 +21,17 @@ The user wants the operator will be true and the logical Not operator will make 
 ### Step
 
 1. Call the function.<br>
-    condition : not <br />
-    value : true<br />
-    ![](not-step-1.png?raw=true)
+   condition : not <br />
+   value : true<br />
+   ![](../../../../document/function/Logical/not/not-step-1.png?raw=true)
     
-2. Set the condition for yesCallback and noCallback and add a console for display the output.
+2. Set the condition for yesCallback and                 noCallback and add a console for display the          response from console.
    <br>yesCallback : value=1<br />
    noCallback : value=0<br />
 
-    ![](not-step-2.png?raw=true)
+   ![](../../../../document/function/Logical/not/not-step-2.png?raw=true)
     
-    ![](not-step-3.png?raw=true)
+   ![](../../../../document/function/Logical/not/not-step-3.png?raw=true)
     
 ### Result
 

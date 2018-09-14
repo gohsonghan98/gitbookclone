@@ -21,21 +21,21 @@ The user wants to set the loop condition to run as begin from 1 to 12.
 
 ### Step
 
-1. Call the function "forLoop"and defines the condition for the loop to run.
+1. Call the function "forLoop"and defines the            condition for the loop to run.
    <br>
    start: 1<br>
    end : 12
    
-   ![](forLoop-step-1.png?raw=true)
+   ![](../../../../document/function/Flow/forLoop/forLoop-step-1.png?raw=true)
     
-2. Add a console and display the input.
+2. Add a console and display the response from           console.
    <br>
    
-    ![](forLoop-step-2.png?raw=true)
+    ![](../../../../document/function/Flow/forLoop/forLoop-step-2.png?raw=true)
     
 ### Result
 
-![](forLoop-result-1.png?raw=true)
+![](../../../../document/function/Flow/forLoop/forLoop-result-1.png?raw=true)
 
 ### Video
 

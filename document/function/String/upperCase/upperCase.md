@@ -1,6 +1,5 @@
 ﻿# Upper Case
 
-
 ### Description
 
 Convert the letters from lower case to upper case.
@@ -22,9 +21,9 @@ The user wants to convert the letters from lower case to upper case.
 ### Step
 
 1. Call the function.<br>
-    string: abc<br />
+   string: abc<br />
     
-    ![](upperCase-step-1.png?raw=true)
+    ![](../../../../document/function/String/upperCase/upperCase-step-1.png?raw=true)
 
 ### Result
 
