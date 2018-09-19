@@ -23,13 +23,13 @@ The user wants to replace all the existing records in the local table with the n
 
 ### Step
 
-1. Call the function "dataFromString", set            the dataset    and set    the function             "jsonDecode" to string.<br>
+1. Call the function "dataFromString", set the dataset and set the          function "jsonDecode" to string.<br>
    dataset: l_customer<br />
    string: jsonDecode<br/>
     
     ![](../../../../document/function/Dataset/dataFromString/dataFromString-step-1.png?raw=true)
     
-2. Call the function "toArray" and set the            function "toObject" to string and define    the    id and code.<br>
+2. Call the function "toArray" and set the function "toObject" to string    and define the id and code.<br>
    string: toObject<br />
    id: 1<br>
    code: C00013<br/>
