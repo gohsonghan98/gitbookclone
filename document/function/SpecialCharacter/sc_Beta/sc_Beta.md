@@ -14,7 +14,7 @@ Beta is the second letter of the Greek alphabet.
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for beta.
+The user wants to get the special character alphabet for beta.
 
 ### Step
 

@@ -14,7 +14,7 @@ Zeta (uppercase Ζ, lowercase ζ; ̂ta; Modern Greek: [ˈzita] zíta) is the six
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Zeta.
+The user wants to get the special character alphabet for Zeta.
 
 ### Step
 

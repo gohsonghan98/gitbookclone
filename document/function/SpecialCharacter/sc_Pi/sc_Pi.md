@@ -1,8 +1,8 @@
-﻿# sc_Alpha
+﻿# sc_Pi
 
 ### Description
 
-A letter of the alphabet.
+ Is the lowercase Greek letter π, and derived from the first letter of the Greek word perimetros.
 
 ### Flowchart
 
@@ -14,17 +14,17 @@ A letter of the alphabet.
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for Alpha.
+The user wants to get the special character alphabet for Pi.
 
 ### Step
 
 1. Call the function.
     
-    ![](../../../../document/function/SpecialCharacter/sc_Alpha/sc_Alpha-step-1.png?raw=true)
+    ![](../../../../document/function/SpecialCharacter/sc_Pi/sc_Pi-step-1.png?raw=true)
  
 ### Result
 
- Α
+ Π
  
 ### Video
 

@@ -14,7 +14,7 @@ Origin of the symbol. It's a lower case lambda ("λ"), as the upper case looks l
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Lambda.
+The user wants to get the special character alphabet for Lambda.
 
 ### Step
 

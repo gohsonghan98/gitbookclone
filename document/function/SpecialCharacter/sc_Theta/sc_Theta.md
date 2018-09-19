@@ -14,7 +14,7 @@ Theta (θ) is a letter from the Greek alphabet.
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Theta.
+The user wants to get the special character alphabet for Theta.
 
 ### Step
 

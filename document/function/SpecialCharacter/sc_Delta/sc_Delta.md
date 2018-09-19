@@ -14,7 +14,7 @@ Delta (uppercase Δ, lowercase δ or 𝛿; Greek: δέλτα délta, [ˈðelta])
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Delta.
+The user wants to get the special character alphabet for Delta.
 
 ### Step
 

@@ -14,7 +14,7 @@ Mu (uppercase Μ, lowercase μ; Ancient Greek μῦ [mŷː], Greek: μι or μυ
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Mu.
+The user wants to get the special character alphabet for Mu.
 
 ### Step
 

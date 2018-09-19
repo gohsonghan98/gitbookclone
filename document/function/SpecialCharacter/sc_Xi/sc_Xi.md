@@ -1,4 +1,4 @@
-﻿# sc_Alpha
+﻿# sc_Xi
 
 ### Description
 
@@ -14,17 +14,17 @@ A letter of the alphabet.
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for Alpha.
+The user wants to get the special character alphabet for Xi.
 
 ### Step
 
 1. Call the function.
     
-    ![](../../../../document/function/SpecialCharacter/sc_Alpha/sc_Alpha-step-1.png?raw=true)
+    ![](../../../../document/function/SpecialCharacter/sc_Xi/sc_Xi-step-1.png?raw=true)
  
 ### Result
 
- Α
+ Ξ
  
 ### Video
 

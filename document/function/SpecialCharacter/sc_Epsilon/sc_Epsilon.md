@@ -14,7 +14,7 @@ The uppercase Epsilon is not commonly used outside of the Greek language because
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Epsilon.
+The user wants to get the special character alphabet for Epsilon.
 
 ### Step
 
