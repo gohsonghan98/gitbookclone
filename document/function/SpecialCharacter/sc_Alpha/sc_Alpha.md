@@ -14,7 +14,7 @@ A letter of the alphabet.
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Alpha.
+The user wants to get the special character alphabet for Alpha.
 
 ### Step
 

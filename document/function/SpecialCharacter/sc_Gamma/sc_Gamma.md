@@ -14,7 +14,7 @@ Gamma (letter) Gamma (uppercase/lowercase Γ γ), is the letter of the Greek alp
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Gamma.
+The user wants to get the special character alphabet for Gamma.
 
 ### Step
 

@@ -14,7 +14,7 @@ Omicron (uppercase Ο, lowercase ο, literally "small o": όμικρον < ὂ �
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Omicron.
+The user wants to get the special character alphabet for Omicron.
 
 ### Step
 

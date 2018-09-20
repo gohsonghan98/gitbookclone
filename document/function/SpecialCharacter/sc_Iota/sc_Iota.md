@@ -14,7 +14,7 @@ Iota (/aɪˈoʊtə/; uppercase Ι, lowercase ι; Greek: ιώτα) is the ninth l
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Iota.
+The user wants to get the special character alphabet for Iota.
 
 ### Step
 

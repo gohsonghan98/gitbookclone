@@ -14,7 +14,7 @@ Kappa (uppercase Κ, lowercase κ or cursive ϰ; Greek: κάππα, káppa) is t
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Kappa.
+The user wants to get the special character alphabet for Kappa.
 
 ### Step
 

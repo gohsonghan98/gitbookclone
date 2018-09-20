@@ -14,7 +14,7 @@ Nu or ny is the 13th letter of the Greek alphabet.
 
 ### Scenario / Use Case
 
-The user wants to set the special character alphabet for Nu.
+The user wants to get the special character alphabet for Nu.
 
 ### Step
 
