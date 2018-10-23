@@ -26,7 +26,7 @@ The user wants encrypt the data into code.
 1. Call the function "encrypt" and define the value for type, key, iv and value.<br>
     type: aes256<br />
     key: sw234<br />
-     iv: 16<br />
+     iv: 2<br />
     value: 12121212<br />
     
     ![](../../../../document/function/String/encrypt/encrypt-step-1.png?raw=true)

@@ -2,7 +2,7 @@
 
 ### Description
 
-Delta (uppercase Δ, lowercase δ or 𝛿; Greek: δέλτα délta, [ˈðelta]) is the fourth letter of the Greek alphabet.
+Delta (uppercase Δ) is the fourth letter of the Greek alphabet.
 
 ### Flowchart
 

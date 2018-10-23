@@ -2,7 +2,7 @@
 
 ### Description
 
-Zeta (uppercase Ζ, lowercase ζ; ̂ta; Modern Greek: [ˈzita] zíta) is the sixth letter of the Greek alphabet.
+Zeta (uppercase Ζ) is the sixth letter of the Greek alphabet.
 
 ### Flowchart
 

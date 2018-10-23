@@ -2,7 +2,7 @@
 
 ### Description
 
-Area charts are one way to visually represent quantities that change over time. They can show how just one quantity changes, or show the changes in many quantities.
+Area charts are similar to line charts, but the area between the lines is filled with color.
 
 ### Flowchart
 

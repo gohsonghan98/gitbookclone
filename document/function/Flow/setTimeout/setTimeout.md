@@ -2,7 +2,7 @@
 
 ### Description
 
-Allows to run a function after the interval of time.
+Calls a function or evaluates an expression after a specified number of milliseconds.
 
 ### Flowchart
 
@@ -20,7 +20,7 @@ The user wants to display the infoDialog after 1 second.
 
 ### Step
 
-1. Call the function "setTimeout"and set the             value forss timeout.
+1. Call the function "setTimeout"and set the             value for timeout.
    <br>
    timeout: 1000<br>
   

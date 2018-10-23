@@ -2,7 +2,7 @@
 
 ### Description
 
- A chart similar to a line graph, but with the line forming a series of steps between data points.
+ A chart similar to a line graph, it uses vertical and horizontal lines to connect the data points.
 
 ### Flowchart
 

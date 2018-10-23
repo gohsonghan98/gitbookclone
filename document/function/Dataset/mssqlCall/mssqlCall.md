@@ -51,7 +51,7 @@ The user wants to call the mssql Web Service.
    ![](../../../../document/function/Dataset/mssqlCall/mssqlCall-step-3.png?raw=true)
    
    ![](../../../../document/function/Dataset/mssqlCall/mssqlCall-step-4.png?raw=true)<br>
-   ( As you can see the datalist have been generalise with the page name "Pagetbl_1".
+ 
    
 4. Call the function "mssqlCall"and define the connector, ent,              function and set the function"toObject"to data.
    <br>connector: mssql<br>

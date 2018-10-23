@@ -2,7 +2,7 @@
 
 ### Description
 
-Displays a dialog box to get input/info from the user.
+Display a dialog box to get input/info from the user.
 
 ### Flowchart
 
@@ -18,7 +18,7 @@ Displays a dialog box to get input/info from the user.
 
 ### Scenario / Use Case
 
-The user wants to display an input dialog for get the amount of the quantity.
+The user wants to display an input dialog for let the user to key in the quantity.
 
 ### Step
 
@@ -32,6 +32,7 @@ The user wants to display an input dialog for get the amount of the quantity.
 2. okCallback returns the input value if the             user clicks "OK" and set the variable.
    <br>
    var:vCorrectValue
+   value:input
    
    ![](../../../../document/function/Dialog/inputDialog/inputDialog-step-2.png?raw=true)
 

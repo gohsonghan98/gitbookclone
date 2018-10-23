@@ -2,7 +2,7 @@
 
 ### Description
 
-A diagram in which the numerical values of variables are represented by the height or length of lines or rectangles of equal width.
+Displayed horizontally or vertically and used for compare values to each other about different sub-groups and these are usually coloured or shaded differently to distinguish between them.
 
 ### Flowchart
 

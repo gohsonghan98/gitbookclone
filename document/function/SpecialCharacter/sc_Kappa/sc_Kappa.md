@@ -2,7 +2,7 @@
 
 ### Description
 
-Kappa (uppercase Κ, lowercase κ or cursive ϰ; Greek: κάππα, káppa) is the 10th letter of the Greek alphabet, used to represent the /k/ sound in Ancient and Modern Greek.
+Kappa (uppercase Κ) is the 10th letter of the Greek alphabet, used to represent the k sound in Ancient and Modern Greek.
 
 ### Flowchart
 
