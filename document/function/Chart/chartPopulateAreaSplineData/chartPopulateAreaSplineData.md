@@ -2,7 +2,7 @@
 
 ### Description
 
-Spline charts allow you to take a limited set of known data points and approximate intervening values.
+The area spline chart is the same as area, only the line is a spline instead of straight lines.
 
 ### Flowchart
 

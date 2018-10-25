@@ -27,6 +27,7 @@ The user wants to format a number.
 1. Call the function.
     </br>
     value : 40000 <br />
+    decimals : 2 <br />
     decimalSep : . <br />
     thousandSep : , <br />
     

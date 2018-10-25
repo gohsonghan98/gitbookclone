@@ -2,7 +2,7 @@
 
 ### Description
 
-Omicron (uppercase Ο, lowercase ο, literally "small o": όμικρον < ὂ μικρόν - ò mikrón, micron meaning 'small' in contrast to omega) is the 15th letter of the Greek alphabet.
+Omicron (uppercase Ο) is the 15th letter of the Greek alphabet.
 
 ### Flowchart
 

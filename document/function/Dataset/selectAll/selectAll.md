@@ -26,7 +26,7 @@ The user wants to display all the data in dataset "l_item".
   
    ![](../../../../document/function/Dataset/selectAll/selectAll-step-1.png?raw=true)
     
-2. Runs the callback function and add a console for    display the response from console.
+2. Executes the callback function and add a console for    display the response from console.
  
    ![](../../../../document/function/Dataset/selectAll/selectAll-step-2.png?raw=true)
     

@@ -2,7 +2,7 @@
 
 ### Description
 
-Is the if-then statement, the program to execute a certain section of code only if one or more conditions being met.
+Is the if-then statement, the program execute a certain section of code only if one or more conditions being met.
 
 ### Flowchart
 
@@ -26,7 +26,7 @@ The user wants to prove that the value 13 is greater than the value 1.</br>
   
    ![](../../../../document/function/Flow/conditional/conditional-step-1.png?raw=true)
    
-2. Add a console and set the value if the                condition is met so the program will execute    a     code from "yesCallback".<br>
+2. Add a console and set the value if the                condition is met then the program will execute    a     code from "yesCallback".<br>
    value : greater<br/>
 
    ![](../../../../document/function/Flow/conditional/conditional-step-2.png?raw=true)

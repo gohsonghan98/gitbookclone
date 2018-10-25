@@ -2,7 +2,7 @@
 
 ### Description
 
-Mu (uppercase Μ, lowercase μ; Ancient Greek μῦ [mŷː], Greek: μι or μυ—both [mi]) or my[1] is the 12th letter of the Greek alphabet.
+Mu (uppercase Μ) is the 12th letter of the Greek alphabet.
 
 ### Flowchart
 

@@ -68,7 +68,7 @@ The user wants to create a Line Chart.
                            <li>value4: RED </li> 
                            </ul>
                             
-    ![](../../../../document/function/Chart/chartPopulateLineData/chartPopulateLineData-step-4.png?raw=true)
+   ![](../../../../document/function/Chart/chartPopulateLineData/chartPopulateLineData-step-4.png?raw=true)
     
     <li>xCategories: toArray-></li>
                             <ul>

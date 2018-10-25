@@ -2,7 +2,7 @@
 
 ### Description
 
-Gamma (letter) Gamma (uppercase/lowercase Γ γ), is the letter of the Greek alphabet, used to represent the "g" sound in Ancient and Modern Greek.
+Gamma (letter) Gamma (uppercaseΓ ), is the letter of the Greek alphabet, used to represent the "g" sound in Ancient and Modern Greek.
 
 ### Flowchart
 

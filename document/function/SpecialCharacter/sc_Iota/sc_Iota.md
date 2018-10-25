@@ -2,7 +2,7 @@
 
 ### Description
 
-Iota (/aɪˈoʊtə/; uppercase Ι, lowercase ι; Greek: ιώτα) is the ninth letter of the Greek alphabet.
+Iota (/aɪˈoʊtə/; uppercase Ι) is the ninth letter of the Greek alphabet.
 
 ### Flowchart
 
@@ -20,7 +20,7 @@ The user wants to get the special character alphabet for Iota.
 
 1. Call the function.
     
-   ![](../../../../document/function/SpecialCharacter/sc_Iota/sc_lota-step-1.png?raw=true)
+  ![](../../../../document/function/SpecialCharacter/sc_Iota/sc_Iota-step-1.png?raw=true)
  
 ### Result
 

@@ -2,7 +2,7 @@
 
 ### Description
 
-Formspider gauge chart component (also known as dial chart or speedometer chart) uses a single needle to show information as a reading on a dial.
+Also known as dial chart or speedometer chart which uses a single needle to show information as a reading on a dial.This chart type is often used in executive dashboard reports to show key business indicators.
 
 ### Flowchart
 

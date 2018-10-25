@@ -2,7 +2,7 @@
 
 ### Description
 
-Origin of the symbol. It's a lower case lambda ("λ"), as the upper case looks like an "A" without the horizontal stroke.
+Lambda, Λ, λ is the 11th letter of the Greek alphabet, representing the sound /l/.
 
 ### Flowchart
 

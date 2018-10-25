@@ -2,7 +2,7 @@
 
 ### Description
 
-Create a new array variable.
+Create a new array.
 
 ### Flowchart
 
@@ -16,7 +16,7 @@ Create a new array variable.
 
 ### Scenario / Use Case
 
-The user wants to create a new array variable.
+The user wants to create a new array.
 
 ### Step
 

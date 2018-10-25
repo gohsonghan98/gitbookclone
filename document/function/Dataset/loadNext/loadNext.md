@@ -33,7 +33,7 @@ The user wants to load the next of the data after a specific number of the data 
 
 ### Result
 
-![](../../../../document/function/Dataset/loadNext/loadNext-result-1.png?raw=true) <br>
+![](../../../../document/function/Dataset/loadNext/loadNext-result-1.png?raw=true) <br>(Add a console and set the value "load next called" just let you more clear to see the different result between load data and load next function.)
 
 ![](../../../../document/function/Dataset/loadNext/loadNext-result-2.png?raw=true) <br>
 

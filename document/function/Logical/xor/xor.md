@@ -17,7 +17,7 @@ Boolean returns value true if both operands are differ(one is true, the other is
 
 ### Scenario / Use Case
 
-The user wants the operator will be true and both expression is differ which one is true and another one is false.
+The user wants the result return true which both expression is differ which one is true and another one is false.
 
 ### Step
 
@@ -30,7 +30,7 @@ The user wants the operator will be true and both expression is differ which one
 
 ### Result
 
-true ( The result return true because both of the arguments are differ.)
+true ( The result return true because both of the arguments are differ which one is false statement and another is true statement.)
 
 ### Video
 

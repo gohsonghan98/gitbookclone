@@ -44,7 +44,7 @@ The user wants to create a Spline Chart.
                             <li>value4: Nadine </li> 
                             </ul>
    
-    ![](../../../../document/function/Chart/chartPopulateSplineData/chartPopulateSplineData-step-2.png?raw=true)
+   ![](../../../../document/function/Chart/chartPopulateSplineData/chartPopulateSplineData-step-2.png?raw=true)
    
    </li><li>data: toArray -></li> 
                           <ul>
@@ -58,7 +58,7 @@ The user wants to create a Spline Chart.
                           <li>value2: ...... </li>
                           </ul>
    
-    ![](../../../../document/function/Chart/chartPopulateSplineData/chartPopulateSplineData-step-3.png?raw=true)
+   ![](../../../../document/function/Chart/chartPopulateSplineData/chartPopulateSplineData-step-3.png?raw=true)
    
    <li>xCategories: toArray-></li>
                             <ul>
@@ -68,13 +68,13 @@ The user wants to create a Spline Chart.
                             <li>value4: Cat D </li> 
                             </ul>
    
-    ![](../../../../document/function/Chart/chartPopulateSplineData/chartPopulateSplineData-step-4.png?raw=true)
+   ![](../../../../document/function/Chart/chartPopulateSplineData/chartPopulateSplineData-step-4.png?raw=true)
    
    <li>yCaption: Grade</li>
    <li>xCaption: Categories</li>
    <li>zoom: true</li>
    
-    ![](../../../../document/function/Chart/chartPopulateSplineData/chartPopulateSplineData-step-5.png?raw=true)
+   ![](../../../../document/function/Chart/chartPopulateSplineData/chartPopulateSplineData-step-5.png?raw=true)
    
 ### Result
 

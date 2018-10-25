@@ -2,7 +2,7 @@
 
 ### Description
 
-Displays a dialog box to get input/info from the user.
+Display a dialog box to get confirmation from the user.
 
 ### Flowchart
 
@@ -19,7 +19,7 @@ Displays a dialog box to get input/info from the user.
 
 ### Scenario / Use Case
 
-The user wants to display a confirm box for get the verify or accept something.
+The user wants to display a confirm box for get the verify or accept something from the user.
 
 ### Step
 

@@ -22,7 +22,7 @@ The user wants to calculate the difference between two dates.
 </br>
 ### Step
 
-1. Call the function "strToDate" and set the       date.
+1. Call the function "dateDiff" and "strToDate" and set the    date.
    </br>
    date: 2018/08/20<br />
    

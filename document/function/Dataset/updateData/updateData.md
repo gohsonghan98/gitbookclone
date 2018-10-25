@@ -22,16 +22,16 @@ The user wants to update the data from staging table.
 
 ### Step
 
-1. Create a table with a table name, field in         staging table and      create a dataset in         Services. (We assumed that the table ,             field and dataset have been created.)
+1. Create a table with a table name and field in         staging table and      create a dataset in         Services. (We assumed that the table ,             field and dataset have been created.)
    <br>
    table name: customer<br>
    Fields name: tel, name and add<br>
-   Dataset: customer_1
+   Dataset: customer_1<br>
    Set value: tel:111222333, name: abc, add:124,jalan tresa
 
-   ![](../../../../document/function/Dataset/updatedata/updatedata-step-1.png?raw=true)
+  ![](../../../../document/function/Dataset/updatedata/updatedata-step-1.png?raw=true)
         
-   ![](../../../../document/function/Dataset/updatedata/updatedata-step-2.png?raw=true)
+  ![](../../../../document/function/Dataset/updatedata/updatedata-step-2.png?raw=true)
 
 2. Call the function "updateData", define the         dataset & id and set    function "toObject"to      param.
    <br>
@@ -39,23 +39,23 @@ The user wants to update the data from staging table.
    _id: 4<br>
    param: toObject
    
-   ![](../../../../document/function/Dataset/updatedata/updatedata-step-3.png?raw=true)
+  ![](../../../../document/function/Dataset/updatedata/updatedata-step-3.png?raw=true)
    
 3. Define the tel.
    <br>
    tel: 123<br>
    
-   ![](../../../../document/function/Dataset/updatedata/updatedata-step-4.png?raw=true)
+  ![](../../../../document/function/Dataset/updatedata/updatedata-step-4.png?raw=true)
    
 4. Call the function "loadData" and set the dataset.
    <br>
    dataset: customer_1<br>
  
-   ![](../../../../document/function/Dataset/updatedata/updatedata-step-5.png?raw=true)
+  ![](../../../../document/function/Dataset/updatedata/updatedata-step-5.png?raw=true)
    
 5.  Add a console after callback for display the response from console.
 
-    ![](../../../../document/function/Dataset/updatedata/updatedata-step-6.png?raw=true)
+  ![](../../../../document/function/Dataset/updatedata/updatedata-step-6.png?raw=true)
   
 ### Result
 

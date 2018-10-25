@@ -39,11 +39,11 @@ The user wants to call the SOAP Web Service.
    
    ![](../../../../document/function/Dataset/soapCall/soapCall-step-3.png?raw=true)
    
-3. Define the toObject(parameter)which are            username and password and the                      component.    
+3. Define the toObject(parameter)which are            username and password and the                      component value.    
    username: componentValue (for defined the name in     textbox.)<br>
    component: txtUsername<br>
    
-   password: componentValue ( for defined the name in textbox.)<br>
+   password: componentValue ( for defined the password in textbox.)<br>
    component: txtPassword<br>
  
     ![](../../../../document/function/Dataset/soapCall/soapCall-step-4.png?raw=true)

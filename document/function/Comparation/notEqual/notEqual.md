@@ -2,7 +2,7 @@
 
 ### Description
 
-The data have do not have the same value/amount.
+The data do not have the same value/amount.
 
 ### Flowchart
 

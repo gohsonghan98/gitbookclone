@@ -2,7 +2,7 @@
 
 ### Description
 
-A pie chart (or a circle chart) is a circular statistical graphic which is divided into slices to illustrate numerical proportion. 
+A pie chart is a divided circle, in which each slice of the pie represents a part of the whole.
 
 ### Flowchart
 

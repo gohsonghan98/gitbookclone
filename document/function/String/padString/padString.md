@@ -49,11 +49,11 @@ The user wants to centralize a string of length 10.
  type: center<br />
  char: aa<br />
     
- ![](padString-step-2.png?raw=true)
+  ![](../../../../document/function/String/padString/padString-step-2.png?raw=true)
  
  
  Result:
  
-  ![](padString-result-2.png?raw=true)
+  ![](../../../../document/function/String/padString/padString-result-2.png?raw=true)
   
   (In this result, you can see that the char"aa" will display at both side of the string "AB"with the total length is 10. )
