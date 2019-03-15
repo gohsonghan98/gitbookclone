@@ -16,7 +16,7 @@ Is a Boolean operator that returns TRUE or 1 when the operand is FALSE or 0, and
 
 ### Scenario / Use Case
 
-The user wants the operator will be true and the logical Not operator will make it false and return 0.
+The user wants the operator to be true and the logical Not operator will make it false and return 0.
 
 ### Step
 
@@ -35,7 +35,7 @@ The user wants the operator will be true and the logical Not operator will make 
     
 ### Result
 
- The condition is not met and it will execute the argument of noCallback and return the result 0. 
+The condition is not true, therefore it will execute the noCallback function and return the result 0. )
 
 ### Video
 

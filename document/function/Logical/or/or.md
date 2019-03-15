@@ -17,7 +17,7 @@ Boolean returns value true if either or both operands is true and returns false 
 
 ### Scenario / Use Case
 
-The user wants the operator will be true if the expression on either side of it is true.
+The user wants the result return false which both expression is false.
 
 ### Step
 

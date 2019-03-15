@@ -1,8 +1,8 @@
 ﻿# forLoop
 
 ### Description
-
- To run the same code over and over again and each time with a different value.
+ 
+Loops are used to execute a set of statements repeatedly until a particular condition is satisfied.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@
 
 ### Scenario / Use Case
 
-The user wants to set the loop condition to run as begin from 1 to 12.
+The user wants to set the loop condition to run which starting from 1 to 12.
 
 ### Step
 

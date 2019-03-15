@@ -17,7 +17,7 @@ Exponentiation of two numbers.
 
 ### Scenario / Use Case
 
-The user wants to get a number representing the given base taken to the power of the given exponent.
+The user wants to exponent of two numbers and get the result.
 <br />
 
 ### Step

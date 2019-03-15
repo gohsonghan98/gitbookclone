@@ -21,7 +21,7 @@ __\* Note:__  At least two fields must have value in order for this function to 
 
 ### Scenario / Use Case
 
-The user wants to concatenation the Postal Code and City into Address.</br>
+The user wants to concatenation the Address,Postal Code and City.</br>
 
 ### Step
 

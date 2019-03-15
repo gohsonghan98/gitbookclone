@@ -21,7 +21,7 @@ The user wants to display all the data in an array format from local table.
 
 ### Step
 
-1. Call the function "dataFieldToArray"and set v    the dataset and field name.
+1. Call the function "dataFieldToArray"and set the dataset and field name.
    <br>
    dataset: l_customer<br>
    field: code<br>

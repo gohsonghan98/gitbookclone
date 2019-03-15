@@ -21,7 +21,7 @@ The user wants to join the string.
 
 ### Step
 
-1. Call the function "join"and call the                  "toArray". and set the separator.
+1. Call the function "join"and call the                  "toArray" and set the separator.
    <br>
    value : toArray<br>
    separator : ,

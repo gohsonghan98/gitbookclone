@@ -2,7 +2,7 @@
 
 ### Description
 
-Query languages are used to make queries in a database, and Microsoft Structured Query Language (SQL) is the standard.
+Query languages are used to make queries in a database, and Microsoft Structured Query Language (SQL) is used to query, insert, update and modify data.
 
 ### Flowchart
 
