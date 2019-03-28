@@ -1,8 +1,8 @@
-﻿# Avg
+# Avg
 
 ### Description
 
-Get the Average value of an Array.
+Get the average value of an array.
 
 ### Flowchart
 
