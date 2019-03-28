@@ -1,8 +1,8 @@
-﻿# equalOrLess
+# equalOrLess
 
 ### Description
 
-The first value is equal or less than the second value.
+The less than or equal to comparison operators.
 
 ### Flowchart
 
@@ -12,8 +12,8 @@ The first value is equal or less than the second value.
 
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
-| 1 | value1 | Character, number and words. | String | Yes  |
-| 2 | value2 | Character, number and words. | String | Yes   |
+| 1 | value1 | First value | Any | Yes  |
+| 2 | value2 | Second value | Any | Yes   |
 
 ### Scenario / Use Case
 

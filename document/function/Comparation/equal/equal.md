@@ -1,8 +1,8 @@
-﻿# Equal
+# Equal
 
 ### Description
 
-The data have the same value/amount.
+The equal to comparison operators.
 
 ### Flowchart
 
@@ -12,8 +12,8 @@ The data have the same value/amount.
 
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
-| 1 | value1 | Character, number and words. | String | Yes  |
-| 2 | value2 | Character, number and words. | String | Yes  |
+| 1 | value1 | First value | Any | Yes  |
+| 2 | value2 | Second value | Any | Yes  |
 
 ### Scenario / Use Case
 
