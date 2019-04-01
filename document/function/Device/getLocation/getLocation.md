@@ -17,7 +17,7 @@ Get the current location details (GPS coordinate) of the device.
 
 ### Scenario / Use Case
 
-The user want to detect the current location of mobile device.
+Users want to detect current location from current device.
 
 ### Step
 
@@ -27,18 +27,24 @@ The user want to detect the current location of mobile device.
 
     ![](../../../../document/function/Device/getLocation/getLocation-step-1.png?raw=true)
     
-2. In callback, add a console -> input function to view the result.
+2. In callback, add a console -> use input function to view the result.
 
     ![](../../../../document/function/Device/getLocation/getLocation-step-2.png?raw=true)
     
 ### Result
 
 User will see the result below in console: <br />
-__{__ latLng: "1.4369448999999999,103.84171429999999", <br />
-lat: 1.4369448999999999, <br />
-long: 103.84171429999999, <br />
-latitude: 1.4369448999999999, <br />
-longitude: 103.84171429999999, __…}__
+__{__ accuracy: 20 <br />
+altitude: null <br />
+altitudeAccuracy: null <br />
+heading: null <br />
+lat: 3.1319238 <br />
+latLng: "3.1319238,101.63117249999999" <br />
+latitude: 3.1319238 <br />
+long: 101.63117249999999 <br />
+longitude: 101.63117249999999 <br />
+speed: null <br />
+timestamp: 1554082377187 __}__
 
 ### Video
 
@@ -47,4 +53,4 @@ longitude: 103.84171429999999, __…}__
 
 ### Notes
 
-- N/A
+- timeout format is in millisecond (ms).
