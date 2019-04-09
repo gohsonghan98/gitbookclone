@@ -1,4 +1,4 @@
-﻿# dbDate
+# dbDate
 
 ### Description
 
@@ -17,7 +17,7 @@ Get the current date.
 
 ### Scenario / Use Case
 
-The user wants to get the current date.
+User want to get the current date.
 </br>
 
 ### Step
