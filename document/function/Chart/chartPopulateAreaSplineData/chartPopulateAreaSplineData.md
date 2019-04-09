@@ -1,8 +1,8 @@
-﻿# chartPopulateAreaSplineData
+# chartPopulateAreaSplineData
 
 ### Description
 
-The area spline chart is the same as area, only the line is a spline instead of straight lines.
+Area spline chart is designed for visualizing quantitative data. Area spline chart consists of filled area between x-axis and the smooth curve line that connects the data points.
 
 ### Flowchart
 
@@ -14,14 +14,14 @@ The area spline chart is the same as area, only the line is a spline instead of 
 | ------ | ------ | ------ |------ | ------ |
 | 1 | component | The name of the component that the details will be taken from. | String | Yes |
 | 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | Yes |
+| 3 | dataCaptions | dataCaptions | Array | No |
 | 4 | data | Number | Array | Yes |
 | 5 | dataColors | dataColors | Array | No |
-| 6 | xCategories | X-Axis category | Array | Yes |
-| 7 | yCaption | Y-Axis | String | Yes |
-| 8 | xCaption | X-Axis | String | Yes |
+| 6 | xCategories | X-Axis category | Array | No |
+| 7 | yCaption | Y-Axis | String | No |
+| 8 | xCaption | X-Axis | String | No |
 | 9 | showLabel | True or false | Boolean | No |
-| 10 | zoom | True or false | Boolean | Yes |
+| 10 | zoom | True or false | Boolean | No |
 
 ### Scenario / Use Case
 
