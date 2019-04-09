@@ -1,4 +1,4 @@
-﻿# dateDiff 
+# dateDiff 
 
 ### Description
 
@@ -18,7 +18,7 @@ Get the difference between two dates.
 
 ### Scenario / Use Case
 
-The user wants to calculate the difference between two dates.
+User want to calculate the difference between two dates.
 </br>
 ### Step
 
@@ -35,13 +35,12 @@ The user wants to calculate the difference between two dates.
 
 ### Result
 
-4(2018-08-20 - 2018-08-24)
+4 (2018-08-20 - 2018-08-24)
 
 ### Video
 
 - N/A
 
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
 
 ### Notes
 
