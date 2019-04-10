@@ -1,8 +1,8 @@
-﻿# toBoolean  
+# toBoolean  
 
 ### Description
 
-Converts a value to a boolean type.
+Convert a value to a boolean type.
 
 ### Flowchart
 
@@ -16,22 +16,11 @@ Converts a value to a boolean type.
 
 ### Scenario / Use Case
 
-The user wants to converts a value to boolean.
+The user wants to convert a value to boolean.
 
 ### Step
-
-1. Set the variable "vBoolean" and the                   value.<br>
-   var:vBoolean<br>
-   value : x<br>
-   
-    ![](../../../../document/function/Conversion/toBoolean/toBoolean-step-1.png?raw=true)
  
-2. Call the function "toBoolean" and set the       value.<br>
-   value : 0<br>
-   
-    ![](../../../../document/function/Conversion/toBoolean/toBoolean-step-2.png?raw=true)
- 
-3. Add a console for display the response from     console.
+1. Put the function inside the console for display the response from console.
  
     ![](../../../../document/function/Conversion/toBoolean/toBoolean-step-3.png?raw=true)
 

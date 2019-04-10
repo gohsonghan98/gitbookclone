@@ -1,9 +1,9 @@
-﻿# jsonDecode
+# jsonDecode
 
 
 ### Description
 
-Decodes a JSON string.
+Decode a JSON string.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@ Decodes a JSON string.
 
 ### Scenario / Use Case
 
-The user wants to decode the string to json.
+User want to decode json strings.
 <br>
 Gender : F<br />
 Name : Lili<br />

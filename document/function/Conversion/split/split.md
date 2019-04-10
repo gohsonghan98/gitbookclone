@@ -1,4 +1,4 @@
-﻿# Split
+# Split
 
 ### Description
 
@@ -11,7 +11,7 @@ Break the strings into parts.
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ |
+| ------ | ------ | ------ |------ | ------ | ------ |
 | 1 | value | Characters, number and words. | String | Yes  |
 | 2 | separator |Separates two or more things apart. | - | Yes  |( ){ } , [ ]	, ";"	, "." , ","  ,":"
 ### Scenario / Use Case

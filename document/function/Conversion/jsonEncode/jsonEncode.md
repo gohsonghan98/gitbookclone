@@ -1,4 +1,4 @@
-﻿# jsonEncode
+# jsonEncode
 
 ### Description
 
@@ -16,7 +16,7 @@ Returns the JSON representation of a value.
 
 ### Scenario / Use Case
 
-The user wants to encode the string to json.
+User want to encode from string to json.
 
 ### Step
 

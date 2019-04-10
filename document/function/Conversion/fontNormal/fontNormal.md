@@ -1,8 +1,8 @@
-﻿# fontNormal 
+# fontNormal 
 
 ### Description
 
-Converts a value to a normal font.
+Change font size to normal.
 
 ### Flowchart
 
@@ -14,7 +14,7 @@ Converts a value to a normal font.
 
 ### Scenario / Use Case
 
-The user wants to change the font size to normal.
+User want to change the font size to normal.
 
 ### Step
 

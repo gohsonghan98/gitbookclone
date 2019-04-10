@@ -1,8 +1,8 @@
-﻿# fontSmall  
+# fontSmall  
 
 ### Description
 
-Converts a value to a small font.
+Change font size to small.
 
 ### Flowchart
 
@@ -14,7 +14,7 @@ Converts a value to a small font.
 
 ### Scenario / Use Case
 
-The user wants to change the font size to small.
+User want to change the font size to small.
 
 ### Step
 
