@@ -1,4 +1,4 @@
-﻿# generateQRCode
+# generateQRCode
 
 ### Description
 
@@ -11,7 +11,7 @@ Create a trademark for a type of matrix barcode.
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ |
+| ------ | ------ | ------ |------ | ------ | ------ |
 | 1 | type | Type of QR Code |  | Yes  | <href><http://www.qrcode.com/en/codes/>"
 | 2 | value | Value for QR Code |  | Yes  |
 | 3 | imageSize | Size of image | Number | Yes  |

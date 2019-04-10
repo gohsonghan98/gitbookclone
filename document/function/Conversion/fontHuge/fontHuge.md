@@ -1,8 +1,8 @@
-﻿# fontHuge  
+# fontHuge  
 
 ### Description
 
-Converts a value to a huge font.
+Change font size to huge.
 
 ### Flowchart
 
@@ -14,7 +14,7 @@ Converts a value to a huge font.
 
 ### Scenario / Use Case
 
-The user wants to change the font size to huge.
+User want to change the font size to huge.
 
 ### Step
 

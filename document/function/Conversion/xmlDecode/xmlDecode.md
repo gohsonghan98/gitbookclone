@@ -1,4 +1,4 @@
-﻿# xmlDecode
+# xmlDecode
 
 ### Description
 
@@ -16,7 +16,7 @@ Decode the values in those XML string on the server side.
 
 ### Scenario / Use Case
 
-The user wants to decode the values in XML string.
+User want to decode from XML format to string.
 <br>
 <b>string:</b><br><?xml version="1.0" encoding="utf-8"?> <string xmlns="http://orangekloud.com/">[{"id":"1","code":"C20000","name":"Maxi-Teq","address":"300 Billings Drive","tel":"555-0110","term":"C.O.D"},{"id":"2","code":"C23900","name":"Parameter Technology","address":"908 Darby Road","tel":"555-0119","term":"C.O.D"}</string>
 <br />

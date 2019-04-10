@@ -1,4 +1,4 @@
-﻿# Join
+# Join
 
 ### Description
 
@@ -11,13 +11,13 @@ Combine all array element into a string.
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ |
+| ------ | ------ | ------ |------ | ------ | ------ |
 | 1 | value | Array. | Array | Yes |
 | 2 | separator | The separator value for the array. | - | Yes  |( ){ } , [ ]	, ";"	, "." , ","  ,":"
 
 ### Scenario / Use Case
 
-The user wants to join the string.
+User want to combine all the array elements into 1 string.
 
 ### Step
 

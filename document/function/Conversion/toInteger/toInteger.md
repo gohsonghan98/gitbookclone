@@ -1,8 +1,8 @@
-﻿# toInteger  
+# toInteger  
 
 ### Description
 
-Converts a value to a integer type.
+Convert a value to a integer type.
 
 ### Flowchart
 
@@ -16,7 +16,7 @@ Converts a value to a integer type.
 
 ### Scenario / Use Case
 
-The user wants to converts a value to integer.
+The user wants to convert a value to integer.
 
 ### Step
 

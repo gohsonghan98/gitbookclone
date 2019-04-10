@@ -1,8 +1,8 @@
-﻿# Round
+# Round
 
 ### Description
 
-Converts a value to making its value close to what it was. 
+Round the decimal values.
 
 ### Flowchart
 
@@ -16,7 +16,7 @@ Converts a value to making its value close to what it was.
 
 ### Scenario / Use Case
 
-The user wants to converts a value to  float type.
+User want to round the decimal values.
 
 ### Step
 
@@ -28,7 +28,7 @@ The user wants to converts a value to  float type.
  
 ### Result
 
-12.22
+12.22(this function will round a decimal values for two decimal places.)
     
 ### Video
 
