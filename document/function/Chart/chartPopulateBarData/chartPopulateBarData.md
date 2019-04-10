@@ -1,8 +1,8 @@
-﻿# chartPopulateBarData
+# chartPopulateBarData
 
 ### Description
 
-Displayed horizontally or vertically and used for compare values to each other about different sub-groups and these are usually coloured or shaded differently to distinguish between them.
+A bar chart is a chart presents categorical data with rectangular bars. The bars can be plotted vertically or horizontally by defining the "rotate" parameter. It is used for compare values to each other among different sub-groups and these are usually coloured or shaded differently to distinguish between them.
 
 ### Flowchart
 
@@ -14,16 +14,16 @@ Displayed horizontally or vertically and used for compare values to each other a
 | ------ | ------ | ------ |------ | ------ |
 | 1 | component | The name of the component that the details will be taken from. | String | Yes |
 | 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | Yes |
+| 3 | dataCaptions | dataCaptions | Array | No |
 | 4 | data | Number | Array | Yes |
 | 5 | dataColors | dataColors | Array | No |
-| 6 | xCategories | X-Axis category | Array | Yes |
-| 7 | yCaption | Y-Axis | String | Yes |
-| 8 | xCaption | X-Axis | String | Yes |
-| 9 | barRatio |  |  | Yes  |
-| 10 | showLabel | True or false | Boolean | Yes |
-| 11 | rotate | Rotation | - | Yes  |
-| 12 | zoom | True or false | Boolean | Yes |
+| 6 | xCategories | X-Axis category | Array | No |
+| 7 | yCaption | Y-Axis | String | No |
+| 8 | xCaption | X-Axis | String | No |
+| 9 | barRatio |  |  | No  |
+| 10 | showLabel | True or false | Boolean | No |
+| 11 | rotate | True or false. If true, the chart will be displayed horizontally. If false, the chart will be displayed vertically. | Boolean | No  |
+| 12 | zoom | True or false | Boolean | No |
 
 ### Scenario / Use Case
 
@@ -66,6 +66,7 @@ The user wants to create a Bar Chart.
                             <ul>
                             <li>value1: Cat A </li>
                             <li>value2: Cat B </li>
+                            <li>value3: ... </li>
                             </ul>
   
    ![](../../../../document/function/Chart/chartPopulateBarData/chartPopulateBarData-step-4.png?raw=true)
