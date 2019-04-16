@@ -1,4 +1,4 @@
-﻿# filterData
+# filterData
 
 ### Description
 
@@ -24,7 +24,7 @@ The user wants to display the data which name=Memory DDR RAM 8GB in dataset "l_i
 
 ### Step
 
-1. Call the function "filterData"and define the dataset. 
+1. Call the function "filterData" and define the dataset. 
    <br>
    dataset: l_item<br>
   

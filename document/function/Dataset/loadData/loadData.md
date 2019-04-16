@@ -1,8 +1,8 @@
-﻿# loadData
+# loadData
 
 ### Description
 
-Loads the data from local storage, staging database or 3rd party connector.
+Load the data from local storage, staging database or 3rd party connector.
 
 ### Flowchart
 
