@@ -1,8 +1,8 @@
-# HNSPublishMessage
+# HNSSubscribeTopic
 
 ### Description
 
-To send notifaction to other users and include some messages.
+
 
 ### Flowchart
 
@@ -14,13 +14,13 @@ To send notifaction to other users and include some messages.
 
 ### Scenario / Use Case
 
-The user want to notify other users.
+
 
 ### Step
 
 1. Call the function. <br />
     
-    ![](../../../../document/function/Device/HNSPublishMessage/publishMessage-step-1.png?raw=true)
+    ![](../../../../document/function/Device/HNSPushNotification/push-notify-step-1.png?raw=true)
     
 ### Result
 
