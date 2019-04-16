@@ -1,8 +1,8 @@
-﻿# chartPopulateGaugeData
+# chartPopulateGaugeData
 
 ### Description
 
-Also known as dial chart or speedometer chart which uses a single needle to show information as a reading on a dial.This chart type is often used in executive dashboard reports to show key business indicators.
+Gauge chart, also known as dial chart or speedometer chart which uses a single needle to show information as a reading on a dial. This chart type is often used in executive dashboard reports to show key business indicators.
 
 ### Flowchart
 
@@ -14,8 +14,8 @@ Also known as dial chart or speedometer chart which uses a single needle to show
 | ------ | ------ | ------ |------ | ------ |
 | 1 | component | The name of the component that the details will be taken from. | String | Yes |
 | 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | height | Height | Number | Yes |
-| 4 | dataCaptions | dataCaptions | Array | Yes |
+| 3 | height | Height | Number | No |
+| 4 | dataCaptions | dataCaptions | Array | No |
 | 5 | data | Number | Array | Yes |
 
 ### Scenario / Use Case
@@ -29,7 +29,7 @@ The user wants to create a Gauge Chart.
    <ul>
    <li>component: chData</li>
    <li>height: 200</li>
-   <li>daaCaptions: Speed</li>
+   <li>dataCaptions: Speed</li>
   
    ![](../../../../document/function/Chart/chartPopulateGaugeData/chartPopulateGaugeData-step-1.png?raw=true)
    

@@ -1,8 +1,8 @@
-﻿# chartPopulateScatterPlotData
+# chartPopulateScatterPlotData
 
 ### Description
 
- A graph of plotted points that show the relationship between two sets of data.
+A scatter plot is a graph of plotted points that show the relationship between two sets of data.
 
 ### Flowchart
 
@@ -14,13 +14,13 @@
 | ------ | ------ | ------ |------ | ------ |
 | 1 | component | The name of the component that the details will be taken from. | String | Yes |
 | 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | Yes |
+| 3 | dataCaptions | dataCaptions | Array | No |
 | 4 | data | Number | Array | Yes |
 | 5 | dataColors | dataColors | Array | No |
-| 6 | xCategories | X-Axis category | Array | Yes |
-| 7 | yCaption | Y-Axis | String | Yes |
-| 8 | xCaption | X-Axis | String | Yes |
-| 9 | zoom | True or false | Boolean | Yes |
+| 6 | xCategories | X-Axis category | Array | No |
+| 7 | yCaption | Y-Axis | String | No |
+| 8 | xCaption | X-Axis | String | No |
+| 9 | zoom | True or false | Boolean | No |
 
 ### Scenario / Use Case
 
@@ -28,7 +28,7 @@ The user wants to create a Scatter Plot Chart.
 
 ### Step
 
-1. Call the function "chartPopulateScatterPlotData" and define the value    for component, dataCaptions, data, xCategories, yCaption, xCaption,      and zoom.
+1. Call the function "chartPopulateScatterPlotData" and define the value for component, dataCaptions, data, xCategories, yCaption, xCaption, and zoom.
    <br>
    <ul>
    <li>component: chData</li>

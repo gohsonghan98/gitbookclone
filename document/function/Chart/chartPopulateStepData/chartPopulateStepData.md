@@ -1,8 +1,8 @@
-﻿# chartPopulateStepData
+# chartPopulateStepData
 
 ### Description
 
- A chart similar to a line graph, it uses vertical and horizontal lines to connect the data points.
+ A Step chart is a Line chart that does not use the shortest distance to connect two data points. Instead, it uses vertical and horizontal lines to connect the data points in a series forming a step-like progression.
 
 ### Flowchart
 
@@ -14,14 +14,14 @@
 | ------ | ------ | ------ |------ | ------ |
 | 1 | component | The name of the component that the details will be taken from. | String | Yes |
 | 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | Yes |
+| 3 | dataCaptions | dataCaptions | Array | No |
 | 4 | data | Number | Array | Yes |
 | 5 | dataColors | dataColors | Array | No |
-| 6 | xCategories | X-Axis category | Array | Yes |
-| 7 | yCaption | Y-Axis | String | Yes |
-| 8 | xCaption | X-Axis | String | Yes |
+| 6 | xCategories | X-Axis category | Array | No |
+| 7 | yCaption | Y-Axis | String | No |
+| 8 | xCaption | X-Axis | String | No |
 | 9 | showLabel | True or false | Boolean | No |
-| 10 | zoom | True or false | Boolean | Yes |
+| 10 | zoom | True or false | Boolean | No |
 
 ### Scenario / Use Case
 
