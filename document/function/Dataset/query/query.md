@@ -1,4 +1,4 @@
-﻿# Query  
+# Query  
 
 ### Description
 
@@ -11,7 +11,7 @@ A query is a request for data or information from a database table or combinatio
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ |
+| ------ | ------ | ------ |------ | ------ | ------ |
 | 1 | dataset | Name of the dataset to be read in local table. | String | Yes |
 | 2 | query | A request for data or information from a database table.  | String | Yes | <a href:></a> </a> https://www.javatpoint.com/mysql-queries</a>
 
@@ -21,7 +21,7 @@ The user wants to update the data for table tbl_sqllite_customer by using the qu
 
 ### Step
 
-1. Create the SQLiteTable in Services and fill     the info such as Name    and fields.Call the       function "insert"for insert data into table    before you update.Define the dataset, set the    toObject to dt and      define code and name.
+1. Create the SQLiteTable in Services and fill     the info such as Name and fields. Call the function "insert" for insert data into table before you update.Define the dataset, set the toObject to dt and define code and name.
    <br>
    Name: tbl_sqllite_customer<br>
    fields: code and name<br>
@@ -66,7 +66,7 @@ The user wants to update the data for table tbl_sqllite_customer by using the qu
 
 insert
 
-1. Call the function "insert" and define the       dataset and set the function "toObject"to       data & define the code and name.<br>( We        assumed you have created the SQLiteTable in     Services and fill the info such as Name and     fields. )
+1. Call the function "insert" and define the       dataset and set the function "toObject" to       data & define the code and name.<br>( We        assumed you have created the SQLiteTable in     Services and fill the info such as Name and     fields. )
    <br>
    Dataset: tbl_sqllite_customer<br>
    dt: toObject<br>

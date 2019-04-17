@@ -1,8 +1,8 @@
-﻿# deleteByMulti
+# deleteByMulti
 
 ### Description
 
-Removes multiple property from an object.
+Remove multiple records from an object.
 
 ### Flowchart
 
@@ -22,12 +22,12 @@ The user wants to delete the field id=25 and name=ABC from dataset "l_customer".
 
 ### Step
 
-1. Call the function "deleteByMulti"and define the dataset.
+1. Call the function "deleteByMulti" and define the dataset.
    <br>
    dataset: l_customer<br>
    
 2. Set toArray and toObject function to filter and define the         value of object.
-   <br> filter:toArray-->toObject<br>
+   <br> filter: toArray --> toObject<br>
         id: 25<br>
         name: A1A2A3A4<br>
          

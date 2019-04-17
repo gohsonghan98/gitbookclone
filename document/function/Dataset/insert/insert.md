@@ -1,4 +1,4 @@
-﻿# Insert 
+# Insert 
 
 ### Description
 
@@ -21,7 +21,7 @@ The user wants to insert the id=23 into the dataset "l_customer".
 
 ### Step
 
-1. Call the function "insert"and define the dataset    and dt.
+1. Call the function "insert" and define the dataset    and dt.
    <br>
    dataset: l_customer<br>
    
