@@ -1,8 +1,8 @@
-﻿# hashingFunction
+# hashingFunction
 
 ### Description
 
-Is a transformation of characters into a usually shorter fixed-length value or key that represents the original string.
+A hash function is any function that can be used to map data of arbitrary size onto data of a fixed size. The values returned by a hash function are called hash values, hash codes, digests, or simply hashes.
 
 ### Flowchart
 
@@ -11,24 +11,25 @@ Is a transformation of characters into a usually shorter fixed-length value or k
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | type |  Message-digest algorithm | String | No | md5 and sha256 |
+| ------ | ------ | ------ |------ | ------ | ----- |
+| 1 | type |  Cryptographic hash function | String | Yes | md5 and sha256 |
 | 2 | value | Character and words. | String | Yes |
 
 ### Scenario / Use Case
 
-The user wants to transform a characters into a shorter fixed-length value for represents the original string.
+The user wants to transform a string into a 128-bit hash value by using md5 hash function.
 
 ### Step
 
 1. Call the function.<br>
-   value: md5<br />
+	type: md5<br>
+   value: abcd<br />
     
     ![](../../../../document/function/String/hashingFunction/hashingFunction-step-1.png?raw=true)
 
 ### Result
 
-"1bc29b36f623ba82aaf6724fd3b16718"
+e2fc714c4727ee9395f324cd2e7f331f
 
 ### Video
 

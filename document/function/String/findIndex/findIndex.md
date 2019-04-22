@@ -1,8 +1,8 @@
-﻿# findIndex
+# findIndex
 
 ### Description
 
-To search for a specific word, number of an element in the array and display it.  
+It returns index of the first element in a given array that matches the provided search key/testing function. Otherwise -1 is returned.
 
 ### Flowchart
 
@@ -17,12 +17,12 @@ To search for a specific word, number of an element in the array and display it.
 
 ### Scenario / Use Case
 
-The user wants to search the character "H" in string.
+The user wants get the index of character "H" in a given string.
 <br />
 
 ### Step
 
-1. Call the function.
+1. Call the function "findIndex".
     <br />
     string: AAABBBCDEcGH<br />
     find: H
@@ -31,7 +31,7 @@ The user wants to search the character "H" in string.
 
 ### Result
 
-The user will get a number 11 which means the alphabet "H"is on the number 11th.
+The user will get the index of alphabet "H" = 11.
 
 ### Video
 
