@@ -20,7 +20,7 @@ Get the attribute value of an object / array variable.
 
 ### Scenario / Use Case
 
-The user wants to create a global variable that share accord the app.
+The user wants to use a value of an attribute from global variable which had been declared.
 
 ### Step
 

@@ -19,7 +19,7 @@ Create a global variable along with its value.
 
 ### Scenario / Use Case
 
-The user wants to create a global variable that share accord the app.
+The user wants to create a global variable that can be accessed or used in any function in the app.
 
 ### Step
 

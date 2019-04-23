@@ -33,7 +33,7 @@ The user view all the attribute/ details of a component.
 
 ### Result
 
-In the consolve, the details of component:
+In the console, the details of component:
 
 ![](../../../../document/function/App/getComponent/getComponent-result-1.png?raw=true)
 
