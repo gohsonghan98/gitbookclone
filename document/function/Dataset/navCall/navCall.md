@@ -2,7 +2,7 @@
 
 ### Description
 
-Is a business management software (ERP) designed for small and medium-sized enterprises. As an ERP solution, it aims to automate key business functions in financials, operations, and human resources.
+Is a function that are needed when to use
 
 ### Flowchart
 
