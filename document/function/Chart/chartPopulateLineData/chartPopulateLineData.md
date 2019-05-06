@@ -1,4 +1,4 @@
-﻿# chartPopulateLineData
+# chartPopulateLineData
 
 ### Description
 
@@ -14,14 +14,14 @@ A line chart is a type of chart which displays information as a series of data p
 | ------ | ------ | ------ |------ | ------ |
 | 1 | component | The name of the component that the details will be taken from. | String | Yes |
 | 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | Yes |
+| 3 | dataCaptions | dataCaptions | Array | No |
 | 4 | data | Number | Array | Yes |
-| 5 | dataColors | dataColors | Array | Yes |
-| 6 | xCategories | X-Axis category | Array | Yes |
-| 7 | yCaption | Y-Axis | String | Yes |
-| 8 | xCaption | X-Axis | String | Yes |
-| 9 | showLabel | True or false | Boolean | Yes |
-| 10 | zoom | True or false | Boolean | Yes |
+| 5 | dataColors | dataColors | Array | No |
+| 6 | xCategories | X-Axis category | Array | No |
+| 7 | yCaption | Y-Axis | String | No |
+| 8 | xCaption | X-Axis | String | No |
+| 9 | showLabel | True or false | Boolean | No |
+| 10 | zoom | True or false | Boolean | No |
 
 ### Scenario / Use Case
 
@@ -29,7 +29,7 @@ The user wants to create a Line Chart.
 
 ### Step
 
-1. Call the function "chartPopulateLineData" and define the value for    component, dataCaptions, data, dataColors, xCategories, yCaption,    xCaption, showLabel and zoom.
+1. Call the function "chartPopulateLineData" and define the value for component, dataCaptions, data, dataColors, xCategories, yCaption, xCaption, showLabel and zoom.
    <br>
    <ul>
    <li>component: chData</li>
@@ -64,7 +64,7 @@ The user wants to create a Line Chart.
                            <ul>
                            <li>value1: BLACK </li>
                            <li>value2: PINK  </li>
-                           <li>value3: BLACK  </li>
+                           <li>value3: BLUE  </li>
                            <li>value4: RED </li> 
                            </ul>
                             

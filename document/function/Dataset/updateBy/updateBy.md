@@ -1,4 +1,4 @@
-﻿# updateBy
+# updateBy
 
 ### Description
 
@@ -24,7 +24,7 @@ The user wants to update the code from E1234567 to E1234 in dataset "l_item".
 
 ### Step
 
-1. Call the function "updateBy"and define the         dataset, by,operator and value.
+1. Call the function "updateBy" and define the         dataset, by,operator and value.
    <br>
    dataset: l_item<br>
    by: code<br>

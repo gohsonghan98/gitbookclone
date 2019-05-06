@@ -1,4 +1,4 @@
-﻿# updateByMulti
+# updateByMulti
 
 ### Description
 
@@ -23,12 +23,12 @@ The user wants to update the name from ABC to A1A2A3A4 and tel from 1234567 to 1
 
 ### Step
 
-1. Call the function "updateByMulti"and define the dataset.
+1. Call the function "updateByMulti" and define the dataset.
    <br>
    dataset: l_customer<br>
    
 2. Set toArray and toObject function to filter and define the             value of object.
-   <br> filter:toArray-->toObject<br>
+   <br> filter: toArray --> toObject<br>
         id: 25<br>
         code: C12345<br>
          

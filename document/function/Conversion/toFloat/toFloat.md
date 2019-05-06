@@ -1,8 +1,8 @@
-﻿# toFloat
+# toFloat
 
 ### Description
 
-Converts a value to a float type.
+Convert a value to a float type.
 
 ### Flowchart
 
@@ -16,7 +16,7 @@ Converts a value to a float type.
 
 ### Scenario / Use Case
 
-The user wants to converts a value to  float type.
+User want to convert a value to float type.
 
 ### Step
 

@@ -22,11 +22,11 @@ user wants to open a link in mobile web browser
 
 1. Call Function "openLink"
 
-     ![](../../../../document/function/App/openlink/openLink.png?raw=true)
+     ![](../../../../document/function/App/openlink/openLink-Step-1.png?raw=true)
 
 2. Fill up the input parameter
 
-	![](../../../../document/function/App/openlink/completedOpenLink.png?raw=true)
+	![](../../../../document/function/App/openlink/openLink-Step-2.png?raw=true)
 
 ### Result
 

@@ -13,12 +13,13 @@ Return the location details (GPS coordinate) of the device if detect changes.
 | No | Name | Description | Data Type | Required | Example |
 | ------ | ------ | ------ |------ | ------ | ------ |
 | 1 | timeout | Connection time out period in millisecond | Integer | Yes | 1000, 2000, ...
+| 2 | maximumAge | maximumAge period in millisecond | Integer | No | 100
 | 3 | enableHighAccuracy | Enable High Accuracy | Boolean | No |
-| 3 | enableHighAccuracy | Enable High Accuracy | Boolean | No |
+| 4 | enableHighAccuracy | Enable High Accuracy | Boolean | No |
 
 ### Scenario / Use Case
 
-The user want to get the current location of mobile device if the location changed.
+Users want to get the current location of mobile device if the location are changed.
 
 ### Step
 

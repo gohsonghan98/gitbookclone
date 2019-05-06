@@ -26,18 +26,18 @@ The user wants to identify the html code for selected component
 1. Call Function "Console"
 2. Call Function "ComponentElement"
 
-     ![](../../../../document/function/App/componentElement/componentElement.png?raw=true)
+     ![](../../../../document/function/App/componentElement/componentElement-Step-1.png?raw=true)
 
 3. fill up the input parameters
 
-	![](../../../../document/function/App/componentElement/completed_componentElement.png?raw=true)
+	![](../../../../document/function/App/componentElement/componentElement-Step-2.png?raw=true)
 
 
 ### Result
 
 result can be seen in the console of the web browser.
 
-![](../../../../document/function/App/componentElement/result_componentElement.png?raw=true)
+![](../../../../document/function/App/componentElement/componentElement-Results-1.png?raw=true)
 
 ### Video
 

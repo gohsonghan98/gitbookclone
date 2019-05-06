@@ -1,4 +1,4 @@
-﻿# generateBarcode
+# generateBarcode
 
 ### Description
 
@@ -11,7 +11,7 @@ Create a a machine-readable code in the form of numbers and a pattern of paralle
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ |
+| ------ | ------ | ------ |------ | ------ | ------|
 | 1 | type | Type of barcode. |  | No  | <href><https://www.scandit.com/types-barcodes-choosing-right-barcode/>
 | 2 | fontSize |  Size of the font. |  | No  |
 | 3 | height | Height of the barcode. | Number | Yes  |

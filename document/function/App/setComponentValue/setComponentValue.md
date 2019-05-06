@@ -27,21 +27,21 @@ example chanaging a lable caption
 
 1. Add a lable and a button 
 
-	![](../../../../document/function/App/setComponentValue/lable.png?raw=true)
+	![](../../../../document/function/App/setComponentValue/setComponentValue-Step-1.png?raw=true)
 
 2. Call Function "setComponentValue"
 
-     ![](../../../../document/function/App/setComponentValue/setcomponentvalue.png?raw=true)
+     ![](../../../../document/function/App/setComponentValue/setComponentValue-Step-2.png?raw=true)
      
 3. Fill up the parameters
 
-	![](../../../../document/function/App/setComponentValue/completedSetComponentValue.png?raw=true)
+	![](../../../../document/function/App/setComponentValue/setComponentValue-Step-3.png?raw=true)
 
 ### Result
 
 Lable's caption changed
 
-![](../../../../document/function/App/setComponentValue/changedvalue.png?raw=true)
+![](../../../../document/function/App/setComponentValue/setComponentValue-Result-1.png?raw=true)
 
 
 ### Video

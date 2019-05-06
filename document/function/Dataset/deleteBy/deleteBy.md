@@ -1,8 +1,8 @@
-﻿# deleteBy
+# deleteBy
 
 ### Description
 
-Removes a specific property from an object.
+Remove a specific record from an object.
 
 ### Flowchart
 
@@ -22,7 +22,7 @@ The user wants to delete the id=7 from dataset "l_customer".
 
 ### Step
 
-1. Call the function "deleteBy"and define the dataset,  by, and             value.
+1. Call the function "deleteBy" and define the dataset,  by, and             value.
    <br>
    dataset: l_customer<br>
    by: id<br>

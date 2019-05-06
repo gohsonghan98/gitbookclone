@@ -1,8 +1,8 @@
-﻿# formatNumber
+# formatNumber
 
 ### Description
 
-Format a number.
+Change format number.
 
 ### Flowchart
 
@@ -11,7 +11,7 @@ Format a number.
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ |
+| ------ | ------ | ------ |------ | ------ | ------ |
 | 1 | value | Number | Integer | Yes  |
 | 2 | decimals | Number | Integer | Yes  |
 | 3 | decimalSep | The decimal separator.| String | No | '.' , ','
@@ -19,7 +19,7 @@ Format a number.
 
 ### Scenario / Use Case
 
-The user wants to format a number.
+User want to change format number.
 </br>
 
 ### Step

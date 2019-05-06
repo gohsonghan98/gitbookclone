@@ -1,23 +1,24 @@
-﻿# FormatDate
+# FormatDate
 
 ### Description
 
-Set the format for the date.
+Set format for the date.
 
 ### Flowchart
 
 - N/A 
 
+
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ |
+| ------ | ------ | ------ |------ | ------ | ------ |
 | 1 | date | A date value | Date | Yes |
 | 2 | format | The way in which something is arranged or set out. | Date | Yes | Y.m.d H:m:s (**list of format) |
 
 ### Scenario / Use Case
 
-The user wants to format the date.
+User want to change the date format.
 </br>
 
 ### Step

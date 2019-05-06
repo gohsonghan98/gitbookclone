@@ -1,4 +1,4 @@
-﻿# decrypt
+# decrypt
 
 ### Description
 
@@ -11,11 +11,11 @@ The conversion of encrypted data into its original form.
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | type |  Advanced Encryption Standard. | String | No | aes and aes256 |
-| 2 | key | The key you want to encrypt. | String | Yes |
+| ------ | ------ | ------ |------ | ------ | ----- |
+| 1 | type |  Advanced Encryption Standard. | String | No | aes / aes256 |
+| 2 | key | The key you want to decrypt. | String | Yes |
 | 3 | iv | An initialization vector (IV) is an arbitrary number that can be used along with a secret key for data encryption. | Integer | Yes |
-| 4 | value | The value need to be encrypt. | String | Yes |
+| 4 | value | The value need to be decrypt. | String | Yes |
 
 ### Scenario / Use Case
 

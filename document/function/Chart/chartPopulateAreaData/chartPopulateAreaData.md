@@ -1,8 +1,8 @@
-﻿# chartPopulateAreaData
+# chartPopulateAreaData
 
 ### Description
 
-Area charts are similar to line charts, but the area between the lines is filled with color.
+Area chart displays quantitative data. It is based on line chart, but the area between axis and lines are filled with colors.
 
 ### Flowchart
 
@@ -14,14 +14,14 @@ Area charts are similar to line charts, but the area between the lines is filled
 | ------ | ------ | ------ |------ | ------ |
 | 1 | component | The name of the component that the details will be taken from. | String | Yes |
 | 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | Yes |
+| 3 | dataCaptions | dataCaptions | Array | No |
 | 4 | data | Number | Array | Yes |
 | 5 | dataColors | dataColors | Array | No |
-| 6 | xCategories | X-Axis category | Array | Yes |
-| 7 | yCaption | Y-Axis | String | Yes |
-| 8 | xCaption | X-Axis | String | Yes |
+| 6 | xCategories | X-Axis category | Array | No |
+| 7 | yCaption | Y-Axis | String | No |
+| 8 | xCaption | X-Axis | String | No |
 | 9 | showLabel | True or false | Boolean | No |
-| 10 | zoom | True or false | Boolean | Yes |
+| 10 | zoom | True or false | Boolean | No |
 
 ### Scenario / Use Case
 

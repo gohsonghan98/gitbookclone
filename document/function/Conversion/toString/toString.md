@@ -1,4 +1,4 @@
-﻿# toString
+# toString
 
 ### Description
 
@@ -16,7 +16,7 @@ Converts a value to a string type.
 
 ### Scenario / Use Case
 
-The user wants to converts a value to string.
+User want to convert a value to string.
 
 ### Step
 
@@ -28,7 +28,7 @@ The user wants to converts a value to string.
     
 ### Result
 
-"abc"(The toString function will convert a number to a string with a "" from abc convert to "abc")
+"123"(The toString function will convert a number to a string with a "" from abc convert to "123")
     
 ### Video
 

@@ -1,8 +1,8 @@
-﻿# addDate
+# addDate
 
 ### Description
 
-Adds a day to a specific date.
+Add days to the specific date.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@ Adds a day to a specific date.
 
 ### Scenario / Use Case
 
-The user wants to add a date.
+The user want to add days to the specific date.
 </br>
 
 ### Step

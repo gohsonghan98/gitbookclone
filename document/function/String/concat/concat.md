@@ -1,8 +1,8 @@
-﻿# Concat
+# Concat
 
 ### Description
 
-Concatenation, group or joining two or more expressions together into a single string.
+Concatenate, group or joining two or more expressions together into a single string.
 
 ### Flowchart
 
@@ -14,18 +14,18 @@ Concatenation, group or joining two or more expressions together into a single s
 | ------ | ------ | ------ |------ | ------ |
 | 1 | string1 | Characters, words and number. | String | No __*__ |
 | 2 | string2 | Characters, words and number. | String | No __*__ |
-| 3 | string3 | Characters, words and number. | String | No __*__|
-| 4 | string4 | Characters, words and number. | String | No __*__|
+| 3 | string3 | Characters, words and number. | String | No __*__ |
+| 4 | string4 | Characters, words and number. | String | No __*__ |
 
 __\* Note:__  At least two fields must have value in order for this function to work.
 
 ### Scenario / Use Case
 
-The user wants to concatenation the Address,Postal Code and City.</br>
+The user wants to concatenate the Address, Postal Code and City.</br>
 
 ### Step
 
-1. Call the function.<br>
+1. Call the function 'concat' in the console.<br>
     string1  : Address<br />
     string2  : PostalCode<br />
     string3  : City<br />

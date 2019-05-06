@@ -1,4 +1,4 @@
-﻿# encodeBase64String
+# encodeBase64String
 
 ### Description
 
@@ -16,12 +16,12 @@ Convert a string to base64.
 
 ### Scenario / Use Case
 
-The user wants to encode a string.<br />
+The user wants to encode a string to base64.<br />
 
 ### Step
 
 1. Call the function.<br>
-   string: AA=<br />
+   string: AA<br />
 
    ![](../../../../document/function/String/encodeBase64String/encodeBase64String-step-1.png?raw=true)
 
