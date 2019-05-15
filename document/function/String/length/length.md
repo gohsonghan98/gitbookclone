@@ -1,4 +1,4 @@
-﻿# Length
+# Length
 
 ### Description
 
@@ -16,7 +16,7 @@ Count the number of characters in the string.
 
 ### Scenario / Use Case
 
-The user wants to count the number of characters. </br>
+The user wants get the count of characters in a string. </br>
 
 ### Step
 
@@ -28,7 +28,7 @@ The user wants to count the number of characters. </br>
 
 ### Result
 
-The user get the number of length is 6.
+The user gets the length of the string = 6.
 
 ### Video
 

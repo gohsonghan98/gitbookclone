@@ -1,8 +1,8 @@
-﻿# Increment
+# Increment
 
 ### Description
 
-Additional of a number with another number.
+Addition of a number with another number.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@ Additional of a number with another number.
 
 ### Scenario / Use Case
 
-The user wants to increase the number.
+The user wants to increase the number by a value.
 
 ### Step
 
