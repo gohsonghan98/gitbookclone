@@ -1,8 +1,8 @@
-﻿# Mid
+# Mid
 
 ### Description
 
-Returns a range of string starting at a specified position of words.
+Returns a range of characters starting at a specified position in a given string.
 
 ### Flowchart
 
@@ -32,7 +32,7 @@ The user wants to get a specified number of characters from a string.</br>
 
 ### Result
 
-"BC" (It is because when we set the start is 1,and the length is 2, the system will starting display the string from the first character with come out the length 2 character.)
+"BC" (index in an array start from 0, therefore when the user specify start at 1, it would start from the second character of a string)
 
 ### Video
 
