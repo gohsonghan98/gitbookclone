@@ -1,4 +1,4 @@
-﻿# Replace
+# Replace
 
 ### Description
 
@@ -11,7 +11,7 @@ Locate a word or phrase and replace it with new text.
 ### Input / Parameters
 
 | No | Name | Description | Data Type | Required |Example
-| ------ | ------ | ------ |------ | ------ |
+| ------ | ------ | ------ |------ | ------ | ----- |
 | 1 | string| Character, number and words. | String | Yes  |
 | 2 | replace | Search value to be replaced. | String  | Yes |
 | 3 | replacement | Replacement value | String  | Yes |
@@ -19,7 +19,7 @@ Locate a word or phrase and replace it with new text.
 
 ### Scenario / Use Case
 
-The user wants to replace some words into a new sentences.</br>
+The user wants to replace some words in a string.</br>
 
 ### Step
 

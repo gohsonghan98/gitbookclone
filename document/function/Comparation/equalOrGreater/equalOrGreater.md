@@ -2,7 +2,7 @@
 
 ### Description
 
-The greater than or equal to comparison operators.
+The equal or greater than comparison operators. The result will return true or false.
 
 ### Flowchart
 
@@ -12,13 +12,12 @@ The greater than or equal to comparison operators.
 
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
-| 1 | value1 | First value | any | Yes  |
-| 2 | value2 | Second value | any | Yes  |
+| 1 | value1 | First value | Any | Yes  |
+| 2 | value2 | Second value | Any | Yes  |
 
 ### Scenario / Use Case
 
-The user wants to get the operator that returns true when the first value equal or greater than the second value.
-
+The user wants to check if value 1 is equal or greater than value 2.
 ### Step
 
 1. Call the function.

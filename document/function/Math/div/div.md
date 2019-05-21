@@ -1,4 +1,4 @@
-﻿# Div
+# Div
 
 ### Description
 
@@ -14,7 +14,7 @@ Division of two numbers.
 | ------ | ------ | ------ |------ | ------ |
 | 1 | value1 | Dividend. | Integer | Yes  |
 | 2 | value2 | Divisor. | Integer | Yes  |
-| 3 | integer | Quotient in integer. | Boolean | No|
+| 3 | integer | Determine whether the result of the division to be an integer(whole number) or can be a fraction. | Boolean | No|
 
 ### Scenario / Use Case
 
@@ -32,7 +32,7 @@ The user wants to divide two numbers and get the total result.<br />
 
 ### Result
 
-Quotient is 5.5
+Result of the division = 5.5
 
 ### Video
 

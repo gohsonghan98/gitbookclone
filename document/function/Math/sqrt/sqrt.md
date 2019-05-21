@@ -1,4 +1,4 @@
-﻿# Sqrt
+# Sqrt
 
 ### Description
 
@@ -16,18 +16,18 @@ Get the square root of a number.
 
 ### Scenario / Use Case
 
-The user wants to  square (the result of multiplying the number by itself) and get the total result.<br />
+The user wants to get the square root of a number.<br />
 
 ### Step
 
 1. Call the function.<br>
-    value: 10<br />
+    value: 64<br />
     
    ![](../../../../document/function/Math/sqrt/sqrt-step-1.png?raw=true)
 
 ### Result
 
-3.1622776601683795
+8
 
 ### Video
 

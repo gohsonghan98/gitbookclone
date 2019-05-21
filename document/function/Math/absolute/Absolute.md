@@ -1,8 +1,8 @@
-﻿# Absolute
+# Absolute
 
 ### Description
 
-Remove any negative sign in front of a number.
+Absolute is used to return the absolute value (non-negative value) of a number.
 
 ### Flowchart
 
@@ -16,31 +16,21 @@ Remove any negative sign in front of a number.
 
 ### Scenario / Use Case
 
-The user wants to remove negative sign in front of a number.
+The user wants to convert the number to an absolute number.
 
 ### Step
 
-1. Call the function "multi" to get the negative value.
+1. Add a console and call the function "absolute", set a negative number as value.
    </br>
-   value1 : 1<br>
-   value2 : -1<br>
+   value : -5<br>
 
    ![](../../../../document/function/Math/absolute/absolute-step-1.png?raw=true)
-    
-2. Call the function "absolute" and set the value to negative         <br>
-   value: multi--> <br>
-   value1: 1<br>
-   value2: -1<br />
-   
-   ![](../../../../document/function/Math/absolute/absolute-step-2.png?raw=true)
-    
-3. Add a console for display the input.
-  
-   ![](../../../../document/function/Math/absolute/absolute-step-3.png?raw=true)
+ 
 
 ### Result
 
- "1"
+ "5" <br>
+ (The number has been converted to an absolute value.)
 
 ### Video
 

@@ -1,4 +1,4 @@
-﻿# Trim
+# Trim
 
 ### Description
 
@@ -21,7 +21,7 @@ The user wants to make the words trim and neat.</br>
 ### Step
 
 1. Call the function.<br>
-   string:(space)ABB  C  DE<br />
+   string:(space)ABB  C  DE(space)<br />
     
    ![](../../../../document/function/String/trim/trim-step-1.png?raw=true)
 

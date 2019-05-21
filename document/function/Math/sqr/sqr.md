@@ -1,8 +1,8 @@
-﻿# Sqr
+# Sqr
 
 ### Description
 
-Multiplying a number by itself.
+A square number is an integer that is the square of an integer, in other words, multiplying a number by itself.
 
 ### Flowchart
 
@@ -16,7 +16,7 @@ Multiplying a number by itself.
 
 ### Scenario / Use Case
 
-The user wants to multiple number by itself and get the total result.<br />
+The user wants to multiple a number by itself and get the total result.<br />
 
 ### Step
 

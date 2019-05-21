@@ -2,7 +2,7 @@
 
 ### Description
 
-The less than comparison operator.
+The less than comparison operator. The result will return true or false.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@ The less than comparison operator.
 
 ### Scenario / Use Case
 
-The user wants to get the operator that returns true when the first number is smaller than the second number.
+The user wants to check if value 1 is less than value 2.
 
 ### Step
 

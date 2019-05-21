@@ -1,8 +1,8 @@
-﻿# Pow
+# Pow
 
 ### Description
 
-Exponentiation of two numbers.
+Exponentiation of two numbers. The power (or exponent) of a number says how many times to use the number in a multiplication. But power can also mean the result of using an exponent.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@ Exponentiation of two numbers.
 
 ### Scenario / Use Case
 
-The user wants to exponent of two numbers and get the result.
+The user wants to get the exponentiation of 2 numbers.
 <br />
 
 ### Step
@@ -31,7 +31,8 @@ The user wants to exponent of two numbers and get the result.
 
 ### Result
 
-36
+36 <br>
+(6 * 6 = 36)
 
 ### Video
 

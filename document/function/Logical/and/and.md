@@ -1,4 +1,4 @@
-﻿# And
+# And
 
 ### Description
 
@@ -17,7 +17,7 @@ Boolean returns value true if both operands is true and returns false otherwise.
 
 ### Scenario / Use Case
 
-The user wants to return the true result and both expression is true.
+The user wants to check if value 1 AND value 2 are both true.
 </br>
 
 ### Step
@@ -31,7 +31,7 @@ The user wants to return the true result and both expression is true.
 
 ### Result
 
-true ( The result return true because both of the arguments are true.)
+true ( Since 3000 is greater than 1100, value1 will return true. The result return true because both of the arguments are true.)
 
 ### Video
 
