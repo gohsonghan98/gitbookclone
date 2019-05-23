@@ -2,7 +2,7 @@
 
 ### Description
 
-Generate Random number 
+Generate Random number within a range.
 
 ### Flowchart
 
@@ -12,24 +12,24 @@ Generate Random number
 
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
-| 1 | Min| minimum range | Int | Yes | 
-| 2 | Max| Maximum range | Int | Yes | 
+| 1 | min| Minimum value | Int | Yes | 
+| 2 | max| Maximum value | Int | Yes | 
 
 
 ### Scenario / Use Case
 
-user wants get the previous page name
+User wants to generate a random number within a range.
 
 ### Step
 
-1. Call the function "Console" then add function "generateRandomNumber". Add the range Minimum and Maximum for the number to be generated
+1. Call the function "Console" and add function "generateRandomNumber". Insert the Minimum and Maximum values for the number to be generated.
 
 
     ![](../../../../document/function/Browser/generateRandomNumber/generateRandomNum-step-1.png?raw=true)
 
 ### Result
 
-user can view randomly generated number
+User can view randomly generated number.
 
 ![](../../../../document/function/Browser/generateRandomNumber/generatedRandomNum-results-1.png?raw=true)
 

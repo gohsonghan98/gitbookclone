@@ -1,8 +1,8 @@
-﻿# sc_pi
+# sc_pi
 
 ### Description
 
-Pi (lowercase π ) is the sixteenth letter of the Greek alphabet.
+Pi (lowercase π) is the sixteenth letter of the Greek alphabet.
 
 ### Flowchart
 

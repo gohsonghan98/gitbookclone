@@ -1,8 +1,8 @@
-﻿# sc_Rho
+# sc_Rho
 
 ### Description
 
-Rho. Rho (/roʊ/; uppercase Ρ, lowercase ρ or ϱ; Greek: ῥῶ) is the 17th letter of the Greek alphabet.
+Rho (/roʊ/; uppercase Ρ, lowercase ρ or ϱ; Greek: ῥῶ) is the 17th letter of the Greek alphabet.
 
 ### Flowchart
 

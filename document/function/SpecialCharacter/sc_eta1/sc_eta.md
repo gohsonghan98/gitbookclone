@@ -1,4 +1,4 @@
-﻿# sc_eta
+# sc_eta
 
 ### Description
 

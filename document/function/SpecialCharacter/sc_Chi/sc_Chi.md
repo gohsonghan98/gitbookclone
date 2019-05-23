@@ -1,8 +1,8 @@
-﻿# sc_Chi
+# sc_Chi
 
 ### Description
 
-Chi is the 22nd letter of the Greek alphabet, pronounced /kaɪ/ or /kiː/ in English.
+Chi (uppercase Χ) is the 22nd letter of the Greek alphabet, pronounced /kaɪ/ or /kiː/ in English.
 
 ### Flowchart
 

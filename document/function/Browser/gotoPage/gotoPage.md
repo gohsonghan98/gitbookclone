@@ -2,7 +2,7 @@
 
 ### Description
 
-Redirect to a diffrent page
+Redirect to a different page.
 
 ### Flowchart
 
@@ -12,12 +12,12 @@ Redirect to a diffrent page
 
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
-| 1 | p | add the page name | String | Yes | 
+| 1 | p | Page name to be redirect | String | Yes | 
 
 
 ### Scenario / Use Case
 
-user wants to goto a diffrent page from pgBrowser to pgApps
+User wants to redirect the screen from pgBrowser to pgApps.
 
 ### Step
 

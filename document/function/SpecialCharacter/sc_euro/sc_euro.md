@@ -1,4 +1,4 @@
-﻿# sc_euro
+# sc_euro
 
 ### Description
 
@@ -14,7 +14,7 @@ The euro sign (€) is the currency sign used for the euro, the official currenc
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for euro.
+The user wants to get the symbol for euro.
 
 ### Step
 

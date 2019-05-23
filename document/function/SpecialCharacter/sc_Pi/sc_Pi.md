@@ -1,8 +1,8 @@
-﻿# sc_Pi
+# sc_Pi
 
 ### Description
 
- Is the lowercase Greek letter π, and derived from the first letter of the Greek word perimetros.
+Pi is the lowercase Greek letter π, and derived from the first letter of the Greek word perimetros.
 
 ### Flowchart
 

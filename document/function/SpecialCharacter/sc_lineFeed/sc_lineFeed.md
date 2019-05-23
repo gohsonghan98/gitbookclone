@@ -1,4 +1,4 @@
-﻿# sc_lineFeed
+# sc_lineFeed
 
 ### Description
 
@@ -14,7 +14,7 @@ Newline (frequently called line ending, end of line (EOL), line feed, or line br
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for lineFeed.
+The user wants to set line feed at the end of a string and start a new line.
 
 ### Step
 

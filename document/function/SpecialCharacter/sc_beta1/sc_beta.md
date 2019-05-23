@@ -1,4 +1,4 @@
-﻿# sc_beta
+# sc_beta
 
 ### Description
 

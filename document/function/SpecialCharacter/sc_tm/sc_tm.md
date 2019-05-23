@@ -1,4 +1,4 @@
-﻿# sc_tm
+# sc_tm
 
 ### Description
 
@@ -14,7 +14,7 @@ An unregistered trademark which a mark used to promote or brand goods.
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for tm.
+The user wants to get the symbol for tm.
 
 ### Step
 

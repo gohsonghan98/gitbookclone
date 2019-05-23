@@ -1,8 +1,8 @@
-﻿# sc_Theta
+# sc_Theta
 
 ### Description
 
-Theta (θ) is a letter from the Greek alphabet.
+Theta (uppercase θ) is a letter from the Greek alphabet.
 
 ### Flowchart
 

@@ -1,8 +1,8 @@
-﻿# sc_kappa
+# sc_kappa
 
 ### Description
 
-Kappa ( lowercase κ ) is the 10th letter of the Greek alphabet.
+Kappa (lowercase κ) is the 10th letter of the Greek alphabet.
 
 ### Flowchart
 

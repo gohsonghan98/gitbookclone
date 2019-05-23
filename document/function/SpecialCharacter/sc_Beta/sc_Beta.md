@@ -1,8 +1,8 @@
-﻿# sc_Beta
+# sc_Beta
 
 ### Description
 
-Beta is the second letter of the Greek alphabet.
+Beta (uppercase B) is the second letter of the Greek alphabet.
 
 ### Flowchart
 

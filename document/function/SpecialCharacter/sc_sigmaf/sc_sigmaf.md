@@ -1,8 +1,8 @@
-﻿# sc_sigmaf
+# sc_sigmaf
 
 ### Description
 
-Sigmaf (lowercase ς) is the the Greek small letter final sigma.
+Sigmaf (lowercase in word-final position ς) is the the Greek small letter final sigma.
 
 ### Flowchart
 

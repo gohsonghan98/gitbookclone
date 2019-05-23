@@ -1,8 +1,8 @@
-﻿# sc_Xi
+# sc_Xi
 
 ### Description
 
-A letter of the alphabet.
+Xi (uppercase Ξ) is the 14th letter of the Greek alphabet.
 
 ### Flowchart
 
