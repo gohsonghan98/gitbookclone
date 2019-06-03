@@ -1,8 +1,8 @@
-﻿# sc_Lambda
+# sc_Lambda
 
 ### Description
 
-Lambda, Λ, λ is the 11th letter of the Greek alphabet, representing the sound /l/.
+Lambda (uppercase Λ) is the 11th letter of the Greek alphabet, representing the sound /l/.
 
 ### Flowchart
 

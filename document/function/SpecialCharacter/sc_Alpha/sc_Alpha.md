@@ -1,8 +1,8 @@
-﻿# sc_Alpha
+# sc_Alpha
 
 ### Description
 
-A letter of the alphabet.
+Alpha (uppercase Α) is the first letter of the Greek alphabet.
 
 ### Flowchart
 

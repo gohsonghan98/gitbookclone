@@ -1,8 +1,8 @@
-﻿# sc_Epsilon
+# sc_Epsilon
 
 ### Description
 
-The uppercase Epsilon is not commonly used outside of the Greek language because of its similarity to the Latin letter E.
+Epsilon (uppercase Ε) is the fifth letter of the Greek alphabet.
 
 ### Flowchart
 
@@ -14,7 +14,7 @@ The uppercase Epsilon is not commonly used outside of the Greek language because
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for Epsilon.
+User wants to get the special character alphabet for Epsilon.
 
 ### Step
 

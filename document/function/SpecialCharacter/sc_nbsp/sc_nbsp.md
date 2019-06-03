@@ -1,4 +1,4 @@
-﻿# sc_nbsp
+# sc_nbsp
 
 ### Description
 
@@ -14,7 +14,7 @@
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for nbsp.
+The user wants to add a non-breaking space nbsp in between 2 strings.
 
 ### Step
 

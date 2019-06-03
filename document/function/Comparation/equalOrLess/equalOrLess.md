@@ -2,7 +2,7 @@
 
 ### Description
 
-The less than or equal to comparison operators.
+The equal or less than comparison operators. The result will return true or false.
 
 ### Flowchart
 
@@ -17,12 +17,12 @@ The less than or equal to comparison operators.
 
 ### Scenario / Use Case
 
-The user wants to get the operator that returns true when the value of first value equal or less than the second value.
+The user wants to check if value 1 is equal or less than value 2.
 
 ### Step
 
-1. Call the function.
-  <br> value1 :  1<br />
+1. Call the function.<br>
+	value1 :  1<br />
    value2 : 11<br />
 
     ![](../../../../document/function/Comparation/equalOrLess/equalOrLess-step-1.png?raw=true)

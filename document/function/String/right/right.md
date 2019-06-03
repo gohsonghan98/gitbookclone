@@ -1,4 +1,4 @@
-﻿# Right
+# Right
 
 ### Description
 
@@ -17,7 +17,7 @@ Extracts a specified number of characters from the right hand side of a string.
 
 ### Scenario / Use Case
 
-The user wants to display a string which containing a specified number of characters from the right side.</br>
+The user wants to display a specified number of characters from the right hand side of a string.</br>
 
 ### Step
 

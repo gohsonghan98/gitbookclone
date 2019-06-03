@@ -1,4 +1,4 @@
-﻿# sc_chi
+# sc_chi
 
 ### Description
 

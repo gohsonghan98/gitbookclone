@@ -1,4 +1,4 @@
-﻿# sc_reg
+# sc_reg
 
 ### Description
 
@@ -14,7 +14,7 @@ A registered trademark is a recognizable sign, design, or expression which ident
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for reg.
+The user wants to get the symbol for register.
 
 ### Step
 

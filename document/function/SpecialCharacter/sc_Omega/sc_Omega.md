@@ -1,8 +1,8 @@
-﻿# sc_Omega
+# sc_Omega
 
 ### Description
 
-Omega is the 24th and last letter of the Greek alphabet.
+Omega (uppercase Ω) is the 24th and last letter of the Greek alphabet.
 
 ### Flowchart
 

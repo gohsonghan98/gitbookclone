@@ -2,7 +2,7 @@
 
 ### Description
 
-Generate random ID
+Generate a random ID.
 
 ### Flowchart
 
@@ -14,11 +14,11 @@ Generate random ID
 
 ### Scenario / Use Case
 
-user wants to generate an Id
+User wants to generate an id.
 
 ### Step
 
-1. Call the "Console" function then add the "MakeId".
+1. Call the "Console" function and add "MakeId".
 
     ![](../../../../document/function/Browser/makeId/makeid-step-1.png?raw=true)
 

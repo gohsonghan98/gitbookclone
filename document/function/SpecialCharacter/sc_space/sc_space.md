@@ -1,4 +1,4 @@
-﻿# sc_space
+# sc_space
 
 ### Description
 
@@ -14,7 +14,7 @@ In writing, a space ( ) is a blank area that separates words, sentences, syllabl
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for space.
+The user wants to add a space between the strings.
 
 ### Step
 

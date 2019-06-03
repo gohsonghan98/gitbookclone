@@ -1,8 +1,8 @@
-﻿# sc_Nu
+# sc_Nu
 
 ### Description
 
-Nu or ny is the 13th letter of the Greek alphabet.
+Nu or ny (uppercase Ν) is the 13th letter of the Greek alphabet.
 
 ### Flowchart
 

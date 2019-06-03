@@ -1,4 +1,4 @@
-﻿# sc_pound
+# sc_pound
 
 ### Description
 
@@ -14,7 +14,7 @@ The pound sign (£) is the symbol for the pound sterling—the currency of the U
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for pound.
+The user wants to get the symbol for pound.
 
 ### Step
 

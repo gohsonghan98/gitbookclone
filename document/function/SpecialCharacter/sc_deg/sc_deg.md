@@ -1,9 +1,8 @@
-﻿# sc_deg
+# sc_deg
 
 ### Description
 
-The degree symbol (°) is a typographical symbol that is used
-dealing with angles, operate with temperature and use for Celsius degree. 
+The degree symbol (°) is a typographical symbol that is used, among other things, to represent degrees of arc (e.g. in geographic coordinate systems), hours (in the medical field), degrees of temperature, alcohol proof, or diminished quality in musical harmony.
 
 ### Flowchart
 
@@ -15,7 +14,7 @@ dealing with angles, operate with temperature and use for Celsius degree.
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for sc_deg.
+The user wants to get the symbol for degree.
 
 ### Step
 

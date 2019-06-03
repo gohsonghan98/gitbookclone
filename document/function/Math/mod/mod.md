@@ -1,4 +1,4 @@
-﻿# Mod
+# Mod
 
 ### Description
 
@@ -12,24 +12,24 @@ Get the remainder of two numbers after division.
 
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
-| 1 | value1 | Number | Integer | Yes  |
-| 2 | value2 | Number | Integer | Yes  |
+| 1 | value1 | Dividend | Integer | Yes  |
+| 2 | value2 | Divisor | Integer | Yes  |
 
 ### Scenario / Use Case
 
-The user wants to get the mod value after division.<br />
+The user wants to get the remainder value of the division.<br />
 
 ### Step
 
 1. Call the function.<br>
     value1: 80<br />
-    value2: 60<br />
+    value2: 15<br />
     
     ![](../../../../document/function/Math/mod/mod-step-1.png?raw=true)
 
 ### Result
 
-20
+The remainder of the division = 5
 
 ### Video
 

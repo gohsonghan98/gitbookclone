@@ -1,8 +1,8 @@
-﻿# sc_phi
+# sc_phi
 
 ### Description
 
-Phi ( lowercase φ ) is the 21st letter of the Greek alphabet.
+Phi (lowercase φ) is the 21st letter of the Greek alphabet.
 
 ### Flowchart
 

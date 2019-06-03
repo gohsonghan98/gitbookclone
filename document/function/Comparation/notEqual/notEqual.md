@@ -2,7 +2,7 @@
 
 ### Description
 
-The not equal comparison operator.
+The not equal comparison operator. The result will return true or false.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@ The not equal comparison operator.
 
 ### Scenario / Use Case
 
-The user wants to get the operator that returns true when the value of two number is not same.
+The user wants to check if value 1 is not equal to value 2.
 
 ### Step
 

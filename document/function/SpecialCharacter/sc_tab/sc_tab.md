@@ -1,4 +1,4 @@
-﻿# sc_tab
+# sc_tab
 
 ### Description
 
@@ -14,7 +14,7 @@ The tab key on a keyboard is used to advance the cursor to the next tab stop.
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for tab.
+The user wants to add a tab before the string.
 
 ### Step
 

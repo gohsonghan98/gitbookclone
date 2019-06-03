@@ -1,8 +1,8 @@
-﻿# Not
+# Not
 
 ### Description
 
-Is a Boolean operator that returns TRUE or 1 when the operand is FALSE or 0, and returns FALSE or 0 when the operand is TRUE or 1. 
+NOT operator is a Boolean operator that returns TRUE or 1 when the operand is FALSE or 0, and returns FALSE or 0 when the operand is TRUE or 1. Essentially, the operator reverses the logical value associated with the expression on which it operates.
 
 ### Flowchart
 
@@ -16,26 +16,17 @@ Is a Boolean operator that returns TRUE or 1 when the operand is FALSE or 0, and
 
 ### Scenario / Use Case
 
-The user wants the operator to be true and the logical Not operator will make it false and return 0.
+The user wants to reverse a "false" logical value and make it to "true".
 
 ### Step
 
-1. Call the function.<br>
-   condition : not <br />
-   value : true<br />
+1. Add a console and call the function. Set the value to "false".<br>
+   value : false<br />
    ![](../../../../document/function/Logical/not/not-step-1.png?raw=true)
-    
-2. Set the condition for yesCallback and                 noCallback and add a console for display the          response from console.
-   <br>yesCallback : value=1<br />
-   noCallback : value=0<br />
-
-   ![](../../../../document/function/Logical/not/not-step-2.png?raw=true)
-    
-   ![](../../../../document/function/Logical/not/not-step-3.png?raw=true)
     
 ### Result
 
-The condition is not true, therefore it will execute the noCallback function and return the result 0. )
+When it is NOT "false", the function will reverse the logical value and return "true" as result.
 
 ### Video
 

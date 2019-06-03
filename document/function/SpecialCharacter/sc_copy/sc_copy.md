@@ -1,4 +1,4 @@
-﻿# sc_copy
+# sc_copy
 
 ### Description
 
@@ -14,7 +14,7 @@ Copyright is a legal right which existing in many countries that grants the crea
 
 ### Scenario / Use Case
 
-The user wants to get the special character alphabet for copy.
+The user wants to get the symbol for copyright.
 
 ### Step
 

@@ -2,7 +2,7 @@
 
 ### Description
 
-The greater than comparison operator.
+The greater than comparison operator. The result will return true or false.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@ The greater than comparison operator.
 
 ### Scenario / Use Case
 
-The user wants to get the operator that returns true when the first number is larger than the second number.
+The user wants to check if value 1 is greater than value 2.
 
 ### Step
 

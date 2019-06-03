@@ -1,4 +1,4 @@
-﻿# Or
+# Or
 
 ### Description
 
@@ -17,7 +17,7 @@ Boolean returns value true if either or both operands is true and returns false 
 
 ### Scenario / Use Case
 
-The user wants the result return false which both expression is false.
+The user wants to check if either of the values is true.
 
 ### Step
 
@@ -30,7 +30,8 @@ The user wants the result return false which both expression is false.
     
 ### Result
 
-false 
+false <br>
+(Both values are false, so the result returns false.)
 
 ### Video
 

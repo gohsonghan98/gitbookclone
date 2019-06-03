@@ -1,8 +1,8 @@
-﻿# sc_Psi
+# sc_Psi
 
 ### Description
 
-Psi is the 23rd letter of the Greek alphabet and has a numeric value of 700.
+Psi (uppercase Ψ) is the 23rd letter of the Greek alphabet and has a numeric value of 700.
 
 ### Flowchart
 

@@ -1,8 +1,8 @@
-﻿# Xor
+# Xor
 
 ### Description
 
-Boolean returns value true if both operands are differ(one is true, the other is false) and returns false otherwise.
+The output of an XOR gate is true only when exactly one of its inputs is true. If both of an XOR gate's inputs are false, or if both of its inputs are true, then the output of the XOR gate is false.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@ Boolean returns value true if both operands are differ(one is true, the other is
 
 ### Scenario / Use Case
 
-The user wants the result return true which both expression is differ which one is true and another one is false.
+The user wants the result return true which both expression is differ, which one is true and another one is false.
 
 ### Step
 
@@ -30,7 +30,7 @@ The user wants the result return true which both expression is differ which one 
 
 ### Result
 
-true ( The result return true because both of the arguments are differ which one is false statement and another is true statement.)
+true (Since 3000 is not greater than 5000, value1 will return false. The result returns true because both of the arguments are differ which value1 is false statement and value2 is true statement.)
 
 ### Video
 

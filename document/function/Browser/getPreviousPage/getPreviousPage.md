@@ -2,7 +2,7 @@
 
 ### Description
 
-Get the previous page 
+Get the previous page.
 
 ### Flowchart
 
@@ -15,17 +15,17 @@ Get the previous page
 
 ### Scenario / Use Case
 
-user wants get the previous page name
+User wants retrieve the previous page name.
 
 ### Step
 
-1. Call the function "Console" then add function "GetPreviousPage".
+1. Call the function "Console" and add function "GetPreviousPage".
 
     ![](../../../../document/function/Browser/getPreviousPage/getPreviousPage-Step-1.png?raw=true)
 
 ### Result
 
-user can view the previous page name in the console
+User can view the previous page name in the console.
 
 ![](../../../../document/function/Browser/getPreviousPage/getPreviousPage-Results-1.png?raw=true)
 

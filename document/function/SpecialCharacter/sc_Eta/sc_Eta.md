@@ -1,8 +1,8 @@
-﻿# sc_Eta
+# sc_Eta
 
 ### Description
 
-The seventh letter of the Greek alphabet.
+Eta (uppercase Η) is the seventh letter of the Greek alphabet.
 
 ### Flowchart
 

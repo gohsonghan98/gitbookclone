@@ -1,8 +1,8 @@
-﻿# sc_Upsilon
+# sc_Upsilon
 
 ### Description
 
-These characters are used only as mathematical symbols.
+Upsilon (uppercase Υ) is the 20th letter of the Greek alphabet.
 
 ### Flowchart
 

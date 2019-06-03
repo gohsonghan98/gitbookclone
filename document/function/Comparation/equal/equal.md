@@ -2,7 +2,7 @@
 
 ### Description
 
-The equal to comparison operators.
+The equal to comparison operators. The result will return true or false.
 
 ### Flowchart
 
@@ -17,7 +17,7 @@ The equal to comparison operators.
 
 ### Scenario / Use Case
 
-The user wants to get the operator that returns true when the value of two number is same.
+The user wants to check the if value 1 is equal to value 2.
 
 ### Step
 
