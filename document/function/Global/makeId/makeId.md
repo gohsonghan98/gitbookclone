@@ -29,7 +29,7 @@ User will get a series of number eg 1534990333586678.
 ### Video
 
 - N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
 
 ### Notes
+
 - N/A
