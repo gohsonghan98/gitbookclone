@@ -1,6 +1,6 @@
 # Function Name
 
-## Description	
+## Description
 
 Explains the function. What it does and what is used for?
 
@@ -20,6 +20,10 @@ Example below:
 
 Display and explain the output of the function.
 
+### Default Output
+
+The main output of the function.
+
 Example below:
 
 | Description | Output Type |
@@ -31,6 +35,10 @@ Example below:
         "filePath": "{filePath}"
     }
 ```
+
+### Parameter Output: {parameter-name}
+
+The parameter output of the function.
 
 ## Video
 
