@@ -1,37 +1,61 @@
 # Function Name
 
--
+## Description	
 
-### Description	
+Explains the function. What it does and what is used for?
 
-Explain the function.
-
-### Flowchart	
-
-Diagram of what the function.
-
-### Input / Parameters	
+## Input / Parameter
 
 Display and explain the values passed to the function in a table form.
 
-### Scenario / Use Case
+Example below:
 
-Explain the case study.
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| text | The text with a specific format to be drawn in the canvas. See text format after this table. | String | - | - | No |
+| font | The name of the font to be used. | String | monospace | monospace, ocrb | No | 
+| canvasWidth | The width of the canvas. | Number | 576 | - | No | 
 
-### Step
+## Output
 
-Steps to use the function in number format.
-Include screenshots.
+Display and explain the output of the function.
+
+Example below:
+
+| Description | Output Type |
+| ------ | ------ |
+| Returns the base64 value | String |
+
+```js
+    {
+        "filePath": "{filePath}"
+    }
+```
+
+## Video
+
+[![Video]({image-path}?raw=true)]({url-link})
+
+## Example
+
+Share a scenario, like a user requirements.
+
+### Steps
+
+Show the steps and share some screenshots.
+
+1. .....
+
+![]({image-path}?raw=true)
 
 ### Result
 
-Screenshot the final result in the phone/emulator.
+Explain the output.
 
+![]({image-path}?raw=true)
 
-### Video
+## Links
 
-Video Link.
+Additional information through links.
 
-### Notes
-
-Extra stuff / usage suggestion.
+- [E-Learing]({url-link})
