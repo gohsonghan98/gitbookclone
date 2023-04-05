@@ -1,9 +1,9 @@
 
-# barcodeScanner
+# fileGetDetails
 
 ### Description
 
-Activate barcode scanner using camera of device.
+Get deatil information of the given file path.
 
 ### Flowchart
 
@@ -13,8 +13,9 @@ Activate barcode scanner using camera of device.
 
 | No | Name | Description | Data Type | Required |
 | ------ | ------ | ------ |------ | ------ |
-| 1 | callback | Success Callback | functionList | Yes | 
-| 2 | errCallback | Error Callback | functionList | Yes | 
+| 1 | filePath | File Path | String | Yes | 
+| 2 | callback | Success Callback | functionList | Yes | 
+| 3 | errCallback | Error Callback | functionList | Yes | 
 
 ### Scenario / Use Case
 
