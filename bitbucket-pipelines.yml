@@ -1,0 +1,13 @@
+# Workflow Configurations
+clone:
+  enabled: false
+
+pipelines:
+  branches:
+    dev:
+      - step:
+          name: Deploy To Dev Server
+          deployment: dev
+          trigger: automatic
+          script:
+            - ssh $SSH "cd /home/eMOBIQ/web/emobiq/dev/emobiq-documentation; git pull origin dev;"
