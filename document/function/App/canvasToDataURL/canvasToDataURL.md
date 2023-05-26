@@ -16,7 +16,7 @@ Convert the value in signature component to dataURL eg data:__[__&lt;mediatype&g
 
 ### Scenario / Use Case
 
-The user want get the value of signature component and send to the server for processing.
+The user want get the value of the signature component and send to the server for processing.
 
 ### Step
 
@@ -36,7 +36,7 @@ The user want get the value of signature component and send to the server for pr
     
 ### Result
 
-In the console of browser, user can see the dataURL of signature component.
+Return Type: String
 
 ![](../../../../document/function/App/canvasToDataURL/canvasToDataURL-result-1.png?raw=true)
 

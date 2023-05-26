@@ -2,7 +2,7 @@
 
 ### Description
 
-Generate canvas from a file.
+Convert a file data to a canvas, canvas are mainly used for printing.
 
 ### Flowchart
 
@@ -10,14 +10,14 @@ Generate canvas from a file.
 
 ### Input / Parameters
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | type | Name of component | String | Yes |
-| 2 | value | Width of canvas | String | Yes | 
-| 3 | fileType | Height of canvas | String | Yes | 
-| 4 | documentSize | Extra objects to canvas | Object | Yes | 
-| 5 | callback | Success Callback | functionList | Yes | 
-| 5 | errCallback | Error Callback | functionList | Yes | 
+| Name | Description | Data Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| type | The data type of the 'value'. | String | base64 | base64 | No |
+| value | The data of the file. | Any | - | - | Yes | 
+| fileType | The type of the file. | String | image | image, pdf | No | 
+| documentSize | If the 'fileType' is 'pdf', this parameter is used to scale the size appropriately. | String / Number | - | a4, {Any  Number} | No | 
+| callback | When the function was triggered successfully. | Function List | No | 
+| errorCallback | When the function trigger failed successfully. | Function List | No | 
 
 ### Scenario / Use Case
 
