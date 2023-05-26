@@ -2,40 +2,39 @@
 
 ### Description
 
-Generate the canvas by providing a specific format, including waiting for the images to load.
+Generate a canvas by following a specific format including images, canvas are mainly used for printing.
 
 ### Flowchart
 
 - N/A
 
-<!--![Flowchart](componentValue-flowchart.png?raw=true)-->
-
 ### Input / Parameters
-'text': 'longText', 
-                'font': 'string', 
-                'size': 'string', 
-                'canvasWidth': 'integer', 
-                'marginTop': 'integer', 
-                'marginLeft': 'integer', 
-                'marginRight': 'integer', 
-                'marginBottom': 'integer',
-                'rotateDegree': 'integer', 
-                'callback': 'functionList', 
-                'errCallback': 'functionList' 
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | text | Text | String |  |
-| 2 | font | Font name | String |  | 
-| 3 | size | Size of canvas | String |  | 
-| 4 | canvasWidth | Width of canvas | Integer |  | 
-| 5 | marginTop | Margin top value | Integer |  | 
-| 6 | marginLeft | Margin left value | Integer |  | 
-| 7 | marginRight | Margin right value | Integer |  | 
-| 8 | marginBottom | Margin bottom value | Integer |  | 
-| 9 | rotateDegree | Rotation degree| Integer |  | 
-| 10 | callback | Success Callback | functionList | Yes | 
-| 11 | errorCallback | Error Callback | functionList | Yes | 
+| Name | Description | Data Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| text | The text with a specific format to be drawn in the canvas. See text format after this table. | String | - | - | No |
+| font | The name of the font to be used. | String | monospace | monospace, ocrb | No | 
+| size | The size of the font to be used with the suffix 'px' for pixel. | String | 23px | - | No | 
+| canvasWidth | The width of the canvas. | Number | 576 | - | No | 
+| marginTop | The margin top value of the canvas. | Number | 0 | - | No | 
+| marginLeft | The margin left value of the canvas. | Number | 0 | - | No | 
+| marginRight | The margin right value of the canvas. | Number | 0 | - | No | 
+| marginBottom | The margin bottom value of the canvas. | Number | 0 | - | No | 
+| callback | When the function was triggered successfully. | Function List | - | - | No | 
+| errCallback | When the function trigger failed successfully. | Function List | - | - | No | 
+
+Text Format
+- Bold: ```[b]```The text to apply bold.```[/b]```
+- Italic: ```[i]```The text to apply italic.```[/i]```
+- Image: ```[img x={number} y={number} width={number} height={number}]```The image to be rendered, a base64 or url.```[/img]```
+- Font: ```[font={monospace|ocrb}]```The text to apply the font.```[/font]```
+- Size: ```[size={number}]```The text to apply the size.```[/size]```
+- Linespace: ```[linespace={number}]```The text to apply the linespace.```[/linespace]```
+- Alignment: ```[alignment={left|right}]```The text to apply the alignment, where it will start.```[/alignment]```
+- Underline: ```[u]```The text to apply underline.```[/u]```
+- Strikethrough: ```[s]```The text to apply strikethrough.```[/s]```
+
+See 'setPrintStyle' function to simplify the formatting.
 
 ### Scenario / Use Case
 

@@ -2,24 +2,22 @@
 
 ### Description
 
-Generate the canvas.
+Generate a new canvas based on an existing canvas, canvas are mainly used for printing.
 
 ### Flowchart
 
 - N/A
 
-<!--![Flowchart](componentValue-flowchart.png?raw=true)-->
-
 ### Input / Parameters
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | canvas | Name of component | String | Yes |
-| 2 | canvasWidth | Width of canvas | String | Yes | 
-| 3 | canvasHeight | Height of canvas | String | Yes | 
-| 4 | extra | Extra objects to canvas | Object | Yes | 
-| 5 | callback | Success Callback | functionList | Yes | 
-| 6 | errCallback | Error Callback | functionList | Yes | 
+| Name | Description | Data Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| canvas | An existing canvas to be copied over to the new canvas. | Canvas | - | - | No |
+| canvasWidth | Width of the new canvas. | Number | 300 | - | No | 
+| canvasHeight | Height of the new canvas. | Number | 300 | - | No | 
+| extra | Additional data to be used in the callbacks. | Any | - | - | No | 
+| callback | When the function was triggered successfully. | Function List | - | - | No | 
+| errCallback | When the function trigger failed successfully. | Function List | - | - | No | 
 
 ### Scenario / Use Case
 

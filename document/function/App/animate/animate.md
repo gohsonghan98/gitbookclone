@@ -1,42 +1,76 @@
 # animate
 
-### Description
+## Description
 
-Animate the image.
+An animation lets a component gradually change from one style to another. 
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Data Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | Name of componnent to animate. | String | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | ID of the component to animate. | String | - | - | Partial (Yes if no 'component'.) | 
+| type | Not applicable for now. | String | - | - | No | 
+| startPositionY | Starting y-axis position of the animation. | Number | 0 | - | No | 
+| endPositionY | Ending y-axis position of the animation. | Number | 0 | - | No | 
+| rotationDegree | Rotation degree of the animation. | Number | 2 | - | No | 
 
-<!--![Flowchart](componentValue-flowchart.png?raw=true)-->
+## Output
 
-### Input / Parameters
+### Return
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | Name of component | String | Yes |
-| 2 | componentId | Id of component | String | Yes | 
-| 3 | type | Id of component | String | Yes | 
-| 4 | startPositionY | Start position Y-axis | number | Yes | 
-| 5 | endPositionY | End position Y-axis | number | Yes | 
-| 6 | rotationDegree | number | String | Yes | 
+| Description | Output Type |
+| ------ | ------ |
+| If the component was animated. | Boolean |
 
-### Scenario / Use Case
 
-- N/A
+| Description | Output Type |
+| ------ | ------ |
+| Contains the information below. | Object |
 
-### Step
+```js
+    {
+        "filePath": "{This contains the url.}",
+        "fileName": "{}",
+    }
+```
 
-- N/A
+### Parameter Output: 
+
+#### yes
+
+| Description | Output Type |
+| ------ | ------ |
+| If the component was animated. | Boolean |
+
+
+| Description | Output Type |
+| ------ | ------ |
+| Contains the information below. | objec |
+
+```js
+    {
+        "filePath": "{This contains the url.}",
+        "fileName": "{}",
+    }
+```
+
+#### errorCallback
+
+## Video
+
+Coming Soon.
+
+## Example
+
+Coming Soon.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

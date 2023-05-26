@@ -2,7 +2,7 @@
 
 ### Description
 
-Get current canvas height.
+Retrieve the height of the canvas.
 
 ### Flowchart
 
@@ -10,9 +10,9 @@ Get current canvas height.
 
 ### Input / Parameters
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | canvas | Canvas name | String | Yes |
+| Name | Description | Data Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| canvas | A canvas where the height is retrieved. | Canvas | - | - | No |
 
 ### Scenario / Use Case
 
