@@ -2,7 +2,7 @@
 
 ## Description
 
-Explains the function. What it does and what is used for?
+Explains the function. What it does and what is it used for?
 
 ## Input / Parameter
 
@@ -19,6 +19,7 @@ Example below:
 | canvasWidth | The width of the canvas. | Number | 576 | - | No | 
 
 Text Format
+
 - Bold: ```[b]```The text to apply bold.```[/b]```
 - Italic: ```[i]```The text to apply italic.```[/i]```
 - Image: ```[img x={number} y={number} width={number} height={number}]```The image to be rendered, a base64 or url.```[/img]```
@@ -33,39 +34,41 @@ Text Format
 
 Display and explain the output of the function.
 
-### Default Output
-
-The main output of the function.
-
 Example below:
 
 | Description | Output Type |
 | ------ | ------ |
-| Returns the base64 value | String |
+| Returns the base64 value | Object |
 
-```js
-    {
-        "filePath": "{filePath}"
-    }
-```
+### Object
 
-### Parameter Output: {parameter-name}
+| Key | Description | Output Type |
+| ------ | ------ | ------ |
+| filePath | The base64 value. | String |
 
-The parameter output of the function.
+## Callback
 
-#### successCallback
+Display and explain the callbacks available for the function.
 
-```js
-    {
-        "filePath": "{filePath}"
-    }
-```
+Example below:
 
-#### errorCallback
+### successCallback
+
+Explain what this callback is for?
+
+| Description | Output Type |
+| ------ | ------ |
+| Returns the base64 value | Object |
+
+#### Object
+
+| Key | Description | Output Type |
+| ------ | ------ | ------ |
+| filePath | The base64 value. | String |
 
 ## Video
 
-[![Video]({image-path}?raw=true)]({url-link})
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
 
@@ -77,13 +80,13 @@ Show the steps and share some screenshots.
 
 1. .....
 
-![]({image-path}?raw=true)
+<!-- Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
 Explain the output.
 
-![]({image-path}?raw=true)
+<!-- Format: ![]({image-path}?raw=true) -->
 
 ## Links
 
