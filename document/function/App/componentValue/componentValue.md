@@ -1,28 +1,35 @@
 # componentValue
 
-### Description
+## Description
 
-Get the value of the component.
+Get the value of the component and be able to display in another component.
 
-### Flowchart
+## Input / Parameter
 
-![Flowchart](../../../../document/function/App/componentValue/componentValue-flowchart-1.png?raw=true)
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component that the value is retrieved from. | String | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | The id of the component that the value is retrieved from. | String | - | - | Partial (Yes if no 'component'.) |
 
-### Input / Parameters
+__\* Note:__ Either component or componentId must have value in order for this function to work.
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component. | String | No __*__ | 
-| 2 | componentId | The id of the component | String | No __*__ |
-| 2 | value | The value | String | Yes |
+## Output
 
-__\* Note:__ Either No 1 or No 2 must have value in order for this function to work.
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The value of the component is returned. | String |
+
+## Video
+
+[![Video](../../../../document/function/App/componentValue/componentValue-video-1.png?raw=true)](https://www.youtube.com/watch?v=yZepFLILR4E)
+
+## Example
 
 The user wants to get the value from a text box component and display it in a label.
 
-### Step
+### Steps
 
 1. Drag and drop the following components: an edit text "txtName", a label "lblValue" and a button "btnGetValue" in a page.
 
@@ -38,10 +45,4 @@ The value in edit text will be display in the caption of the label.
 
 ![](../../../../document/function/App/componentValue/componentValue-result-1.png?raw=true)
 
-### Video
-
-[![Video](../../../../document/function/App/componentValue/componentValue-video-1.png?raw=true)](https://www.youtube.com/watch?v=yZepFLILR4E)
-
-### Notes
-
-- N/A
+## Links

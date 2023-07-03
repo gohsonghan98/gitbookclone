@@ -1,43 +1,57 @@
 # share
 
-### Description
+## Description
 
-Share the information to external application.
+Share the information from an app to an external application.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| subject | The subject of the information. | String | - | - | No |
+| message | The message to be shared. | String | - | - | No | 
+| url | The url to be shared. | String | - | - | Yes | 
+| files | Array of files. | String / Array? | - | - | Yes |
+| chooserTitle | Choose the title of the dialog. | String | - | - | Yes |
+| appPackageName | The name of the package. | String | - | - | Yes |
+| iPadCoordinates | The coordinates of iPad popup. | String | - | - | Yes |
+| callback | Function to carry out if information is successfully shared. | functionList | - | - | No |
+| errorCallback | Function to carry out if information is not shared successfully. | functionList | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | subject | Subject | string | No |
-| 2 | message | Message | string | No | 
-| 3 | url | Url | string | Yes | 
-| 4 | files | Array mode of files | string | Yes | 
-| 5 | chooserTitle | Choose dialog title | string | Yes | 
-| 6 | appPackageName | Add package | string | Yes | 
-| 7 | iPadCoordinates | Ipad popup coordinate | string | Yes | 
-| 8 | callback | Success callback | functionList | No | 
-| 9 | errorCallback | Error callback | functionList | No | 
+### Default Output?
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Returns the base64 value | String |
 
-- N/A
+```js
+    {
+        "filePath": "{filePath}"
+    }
+```
 
-### Step
+### Parameter Output: {parameter-name}
 
-- N/A
+#### successCallback?
+
+#### errorCallback?
+
+## Video
+
+Coming Soon.
+
+## Example
+
+The user wants to share information from the app to an external application.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

@@ -1,37 +1,53 @@
 # inactivityTimeout
 
-### Description
+## Description
 
 Detect if a user is inactive/not using the mobile.
 
-### Flowchart
-
-- N/A
-
 ### Input / Parameters
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | currentPageOnly | Snippet | boolean | Yes |
-| 2 | timeout | Time | integer | Yes | 
-| 3 | callback | Functions to do after | functionList | Yes | 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| currentPageOnly | A snippet. | Boolean | - | - | Yes |
+| timeout | The time limit that a user can stay idle for before being considered inactive. | Integer | - | - | Yes |
+| callback | Functions to do after timeout. | functionList | - | - | Yes |
 
-### Scenario / Use Case
+## Output
 
-- N/A
+### Default Output
 
-### Step
+| Description | Output Type |
+| ------ | ------ |
+| Checks if a user is inactive. | Boolean |
 
-- N/A
+### Parameter Output: {parameter-name}
+
+#### yes??
+
+| Description | Output Type |
+| ------ | ------ |
+| Contains the information below. | Object |
+
+```js
+    {
+        "filePath": "{This contains the url.}",
+        "fileName": "{}",
+    }
+```
+## Video
+
+Coming Soon.
+
+## Example
+
+The user wants to check the status when the screen goes to timeout.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

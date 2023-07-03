@@ -1,28 +1,34 @@
 # getVarAttr
 
-### Description
+## Description
 
-Get the attribute value of an object / array variable.
+Get the attribute value of an object or array variable.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The name of the variable. | String | - | - | Yes |
+| attr | The attribute of the variable to be obtained. | String | - | - | Yes |
+| default | The default value of the variable. | String | - | - | Yes |
 
-<!--![Flowchart](componentValue-flowchart.png?raw=true)-->
+## Output
 
-### Input / Parameters
+### Default Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | Name of variable | String | Yes |
-| 2 | value | Value | String | Yes | 
-| 2 | default | Default value | String | Yes | 
+| Description | Output Type |
+| ------ | ------ |
+| Returns the value of the attribute of the variable. | String |
 
-### Scenario / Use Case
+## Video
 
-The user wants to use a value of an attribute from global variable which had been declared.
+Coming Soon.
 
-### Step
+## Example
+
+The user wants to retrieve a value of an attribute from a global variable which had been declared.
+
+### Steps
 
 1. Assuming you have followed the "setVar" fuction in help document, call the function.
 
@@ -30,13 +36,6 @@ The user wants to use a value of an attribute from global variable which had bee
 
 ### Result
 
-In console, user can the string "CodeABC". If user variable "vObject" have no value, it will display "No Value".
+If the "code" attribute of the user variable "vObject" has no value, the console will display "No Value".
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)
--->
-
-### Notes
-- N/A
+## Links

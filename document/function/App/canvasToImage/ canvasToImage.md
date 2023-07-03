@@ -4,11 +4,7 @@
 
 Convert the value in signature component to image component
 
-### Flowchart
-
-- N/A
-
-### Input / Parameters
+### Input / Parameter
 
 | No | Name | Description | Data Type | Required | 
 | ------ | ------ | ------ |------ | ------ | 

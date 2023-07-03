@@ -1,37 +1,38 @@
 # remComponentElAttr
 
-### Description
+## Description
 
 Remove component element attribute.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component. | String | - | - | Yes |
+| componentId | The id of the component. | String | - | - | Yes | 
+| attr | The component element attribute to be removed. | String | - | - | Yes | 
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | Component name | string | Yes |
-| 2 | componentId | Component ID | string | Yes | 
-| 3 | attr | Attribute to remove | string | Yes | 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Checks that the component element attribute has been removed. | Boolean |
 
-- N/A
+## Video
 
-### Step
+Coming Soon.
 
-- N/A
+## Example
+
+The user wants to remove an attribute from a button component.
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

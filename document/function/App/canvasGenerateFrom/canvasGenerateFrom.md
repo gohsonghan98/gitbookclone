@@ -4,11 +4,7 @@
 
 Convert a file data to a canvas, canvas are mainly used for printing.
 
-### Flowchart
-
-- N/A
-
-### Input / Parameters
+### Input / Parameter
 
 | Name | Description | Data Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -19,22 +15,62 @@ Convert a file data to a canvas, canvas are mainly used for printing.
 | callback | When the function was triggered successfully. | Function List | No | 
 | errorCallback | When the function trigger failed successfully. | Function List | No | 
 
-### Scenario / Use Case
+## Output
 
-- N/A
+### Default Output
 
-### Step
+| Description | Output Type |
+| ------ | ------ |
+| If the canvas was generated. | Boolean |
 
-- N/A
+
+| Description | Output Type |
+| ------ | ------ |
+| Contains the information below. | Object |
+
+```js
+    {
+        "filePath": "{This contains the url.}",
+        "fileName": "{}",
+    }
+```
+
+### Parameter Output
+
+#### yes
+
+| Description | Output Type |
+| ------ | ------ |
+| If the component was animated. | Boolean |
+
+
+| Description | Output Type |
+| ------ | ------ |
+| Contains the information below. | Object |
+
+```js
+    {
+        "filePath": "{This contains the url.}",
+        "fileName": "{}",
+    }
+```
+
+#### errorCallback
+
+## Video
+
+Coming Soon.
+
+## Example
+
+Coming Soon.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

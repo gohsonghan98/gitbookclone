@@ -1,37 +1,45 @@
 # nfcWrite
 
-### Description
+## Description
 
 Write data to Near Field Communication (NFC) devices.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| message | The message to write to NFC device. | String | - | - | Yes |
+| callback | Function to carry out if writing data to NFC device is successful. | functionList | - | - | Yes | 
+| errorCallback | Function to carry out if writing data to NFC device is unsuccessful. | functionlist | - | - | Yes | 
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | message | Message to write | string | Yes |
-| 2 | callback | Success Callback | functionList | Yes | 
-| 3 | errorCallback | Error Callback | functionList | Yes | 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Checks that the message has been written to the NFC device. | Boolean |
 
-- N/A
+### Parameter Output: {parameter-name}
 
-### Step
+#### callback?
 
-- N/A
+#### errorCallback?
+
+## Video
+
+Coming Soon.
+
+## Example
+
+The user wants to write a message to a NFC device.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

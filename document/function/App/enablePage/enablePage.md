@@ -1,36 +1,37 @@
 # enablePage
 
-### Description
+## Description
 
-Make the page clickable.
+Enable the ability to click a page.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| - | - | - | - | - | - |
 
-### Input / Parameters
+## Output
 
-- N/A
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Checks that the page is clickable. | Boolean |
 
-The user want to make the page clickable after it is disabled.
+## Video
 
-### Step
+Coming Soon.
 
-1. Call the function
+## Example
 
-    ![](../../../../document/function/App/enablePage/enablePage-step-1.png?raw=true)
+The user wants to make the page clickable again after it was disabled.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-The page can be clicked.
+The page is now clickable.
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

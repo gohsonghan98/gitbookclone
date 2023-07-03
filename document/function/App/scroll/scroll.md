@@ -1,37 +1,42 @@
 # scroll
 
-### Description
+## Description
 
-Scrolling from one component to another in the same scrollable container.
-### Flowchart
+Ability to scroll from one component to another in the same long page.
 
-- N/A
+## Input / Parameter
 
-### Input / Parameters
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component to start scrolling from. | String | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | The id of the component to start scrolling from. | String | - | - | Partial (Yes if no 'component'.) | 
+| toComponent | The name of the component to scroll to. | String | - | - | Partial (Yes if no 'toComponentId'.) | 
+| toComponentId | The id of the component to scroll to. | String | - | - | Partial (Yes if no 'toComponent'.) |
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | From component name | string | Yes |
-| 2 | componentId | From component ID | string | Yes | 
-| 3 | toComponent | To componennt name | string | Yes | 
-| 4 | toComponentId | To componennt Id | string | Yes | 
+__\* Note:__ Either component or componentId and toComponent or toComponentId must have value in order for this function to work.
 
-### Scenario / Use Case
+## Output
 
-- N/A
+### Default Output
 
-### Step
+| Description | Output Type |
+| ------ | ------ |
+| Checks if the page scrolls to the correct component. | Boolean |
 
-- N/A
+## Video
+
+Coming Soon.
+
+## Example
+
+The user wanted to scroll from one component to another on the same page.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

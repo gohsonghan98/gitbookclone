@@ -1,30 +1,38 @@
 # chartPopulateGaugeData
 
-### Description
+## Description
 
-Gauge chart, also known as dial chart or speedometer chart which uses a single needle to show information as a reading on a dial. This chart type is often used in executive dashboard reports to show key business indicators.
+A gauge chart, also known as dial chart or speedometer chart, uses a single needle to show information as a reading on a dial. This chart type is often used in executive dashboard reports to show key business indicators.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the Chart component to take details from. | String | - | - | Yes |
+| componentId | The id of the Chart component to take details from. | String | - | - | No | 
+| height | The height of the chart. | Number | - | - | No |
+| dataCaptions | The legend for each data. | Array | - | - | No | 
+| data | The data values for each legend. | Array | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component that the details will be taken from. | String | Yes |
-| 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | height | Height | Number | No |
-| 4 | dataCaptions | dataCaptions | Array | No |
-| 5 | data | Number | Array | Yes |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The gauge chart with details specified. | - |
 
-The user wants to create a Gauge Chart.
+## Video
 
-### Step
+Coming Soon.
 
-1. Call the function "chartPopulateGaugeData" and define the value for      component, height, dataCaptions, and data. 
+## Example
+
+The user wants to create a gauge chart.
+
+### Steps
+
+1. Call the function "chartPopulateGaugeData" and define the value for component, height, dataCaptions, and data. 
    <br>
    <ul>
    <li>component: chData</li>
@@ -36,17 +44,13 @@ The user wants to create a Gauge Chart.
    <li>data: 50</li>
    
    ![](../../../../document/function/Chart/chartPopulateGaugeData/chartPopulateGaugeData-step-2.png?raw=true)
- 
+
 ### Result
+
+The gauge chart with the details specified by the user will be returned.
 
  ![](../../../../document/function/Chart/chartPopulateGaugeData/chartPopulateGaugeData-result-1.png?raw=true)
 
-### Video
+## Links
 
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+Coming Soon.

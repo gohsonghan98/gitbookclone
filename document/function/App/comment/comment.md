@@ -1,39 +1,39 @@
 # comment
 
-### Description
+## Description
 
-To be used as a note for developer
+A note for developers to refer to during development stage.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| value | The comment or note to be made. | String | - | - | Yes
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | value | The value as a comment or note | String | yes |
+### Default Output
 
+| Description | Output Type |
+| ------ | ------ |
+| The comment written in the value input box. | String |
 
-### Scenario / Use Case
+## Video
 
-The user wants to add a note while development 
+Coming Soon.
 
-### Step
+## Example
+
+The user wants to add a note for developers to address while they develop the app. 
+
+### Steps
 
 1. Call Function "comment"
 
      ![](../../../../document/function/App/comment/comment-Step-1.png?raw=true)
 
-
 ### Result
 
-A guideline for developers to view a development note 
+A highlighted node appears in the event flow with the value entered as the comment.
 
-### Video
-
-- N/A
-
-### Notes
-
-- You can use comment function as a note for development
+## Links

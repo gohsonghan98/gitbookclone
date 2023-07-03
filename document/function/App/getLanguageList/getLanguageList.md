@@ -1,22 +1,32 @@
 # getLanguageList
 
-### Description
+## Description
 
 Get the list of languages predefined in language settings.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| - | - | - | - | - | - |
 
-### Input / Parameters
+## Output
 
-- N/A
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Returns the list of langauges predefined in the language settings. | Array |
 
-User want to get the list of languages in the App.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to get the list of languages in the App.
+
+### Steps
 
 1. Call the function.
 
@@ -25,18 +35,11 @@ User want to get the list of languages in the App.
 2. In callback add a console -> input function to view the result
 
     ![](../../../../document/function/App/getLanguageList/getLanguageList-step-2.png?raw=true)
-    
+
 ### Result
 
-User get the list of language in an array.
+The list of languages is retrieved in an array.
  
 ![](../../../../document/function/App/getLanguageList/getLanguageList-result-1.png?raw=true)
-    
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-- N/A
+## Links

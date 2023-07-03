@@ -1,26 +1,39 @@
 ﻿# newArray
 
-### Description
+## Description
 
 Create a new array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The name of the new array. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | The name of the variable. | String | Yes |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Returns the new array. | Object? |
+
+```js
+    {
+        "filePath": "{filePath}"
+    }
+```
+
+## Video
+
+Coming Soon.
+
+## Example
 
 The user wants to create a new array.
+### Steps
 
-### Step
-
-1. Call the function"newArray" and set the         variable name.<br>
+1. Call the function"newArray" and set the variable name.<br>
    var: listOfFruits<br />
     
     ![](../../../../document/function/Array/newArray/newArray-step-1.png?raw=true)
@@ -28,19 +41,11 @@ The user wants to create a new array.
 2. Add a console and call the function "getVar"
 
     ![](../../../../document/function/Array/newArray/newArray-step-2.png?raw=true)
-    
+
 ### Result
 
 User create a new array successfully.<br>
 
 ![](../../../../document/function/Array/newArray/newArray-result-1.png?raw=true)
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

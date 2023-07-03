@@ -1,25 +1,33 @@
 # equalOrLess
 
-### Description
+## Description
 
-The equal or less than comparison operators. The result will return true or false.
+The equal to or less than comparison operator. It checks whether the first value is greater than or equal to the second value. The result will return boolean values, true or false.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| value1 | The first value to check. | Number | - | - | Yes |
+| value2 | The second value to check against. | Number | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | value1 | First value | Any | Yes  |
-| 2 | value2 | Second value | Any | Yes   |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Returns true or false. | Boolean |
 
-The user wants to check if value 1 is equal or less than value 2.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to check if a value is less than or equal to another value.
+
+### Steps
 
 1. Call the function.<br>
 	value1 :  1<br />
@@ -29,14 +37,8 @@ The user wants to check if value 1 is equal or less than value 2.
 
 ### Result
 
-true
+The result that will be returned is 'true'.
 
-### Video
+## Links
 
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+Coming Soon.

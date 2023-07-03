@@ -1,24 +1,32 @@
 # Open Link
-### Description
 
-To open a link on mobile web browser
+## Description
 
-### Flowchart
+Open a link in a new tab in a mobile web browser.
 
-- N/A
+## Input / Parameter
 
-### Input / Parameters
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| link | The link to be opened. | String | - | - | Yes |
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | Link | add the link | String | yes |
+## Output
 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Checks whether the link has been opened. | Boolean |
 
-user wants to open a link in mobile web browser 
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to open a link in the mobile web browser.
+
+### Steps
 
 1. Call Function "openLink"
 
@@ -30,12 +38,6 @@ user wants to open a link in mobile web browser
 
 ### Result
 
-a link will be open in the mobile browser 
+The link will be opened in a new tab in the mobile browser.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

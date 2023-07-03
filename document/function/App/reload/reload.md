@@ -1,24 +1,32 @@
 # reload
 
-### Description
+## Description
 
-Refresh/ reload the current page.
+Refresh the current page.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| - | - | - | - | - | - |
 
-<!--![Flowchart](componentValue-flowchart.png?raw=true)-->
+## Output
 
-### Input / Parameters
+### Default Output
 
-- N/A
+| Description | Output Type |
+| ------ | ------ |
+| Checks that the page has been reloaded. | Boolean |
 
-### Scenario / Use Case
+## Video
 
-The user wants to reload the current page.
+Coming Soon.
 
-### Step
+## Example
+
+The user wants to refresh the current page that he is on.
+
+### Steps
 
 1. Call the function.
 
@@ -26,13 +34,6 @@ The user wants to reload the current page.
 
 ### Result
 
-The page will be reloaded.
+The page has been refreshed.
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)
--->
-
-### Notes
-- N/A
+## Links

@@ -1,27 +1,36 @@
-﻿# Unshift
+﻿# unshift
 
-### Description
+## Description
 
-Adds new items to the beginning of an array, and returns the new length.
+Adds new elements to the beginning of an array and returns the updated array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The name of the array. | String | - | - | Yes |
+| data | ? | String | - | - | Yes |
+| value | Element to be added to the the array. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | The name of the variable. | String | Yes |
-| 2 | value | String | String | Yes | 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The updated array with the items added. | Array |
 
-The user wants to adds new items to the beginning of an array.
+## Video
 
-### Step
+Coming Soon.
 
-1. Call the function "newArray" and "push" (We assumed that the new       array and the value of array have been created.)
+## Example
+
+The user wants to add new items to the beginning of an array.
+
+### Steps
+
+1. Call the function "newArray" and "push" (We assumed that the new array and the value of array have been created.)
    </br>
    var: listOfFruits<br />
    value : Apple<br>
@@ -33,7 +42,7 @@ The user wants to adds new items to the beginning of an array.
    
    ![](../../../../document/function/Array/unshift/unshift-step-3.png?raw=true)
 
-2. Call the function"unshift" and set the value.
+2. Call the function "unshift" and set the value.
    </br>
    var: listOfFruits<br />
    value: Papaya<br>
@@ -46,14 +55,6 @@ The user wants to adds new items to the beginning of an array.
 
 ### Result
 
-["Papaya", "Apple", "Orange"]
+The updated array with the new elements added will be returned. In this example, the return is ["Papaya", "Apple", "Orange"].
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

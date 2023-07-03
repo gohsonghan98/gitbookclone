@@ -1,28 +1,36 @@
 # chartPopulatePieData
 
-### Description
+## Description
 
-A pie chart is a circular statistical graphic which is divided into slices, in which each slice of the pie represents a part of the whole.
+A pie chart is a circular statistical graph which is divided into slices, where each slice of the pie represents a part of the whole.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the Chart component to take details from. | String | - | - | Yes |
+| componentId | The id of the Chart component to take details from. | String | - | - | No | 
+| dataCaptions | The legend for each data. | Array | - | - | No | 
+| data | The data values for each legend. | Array | - | - | Yes |
+| dataColors | The colors to be set for each legend. | Array | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component that the details will be taken from. | String | Yes |
-| 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | No |
-| 4 | data | Number | Array | Yes |
-| 5 | dataColors | dataColors | Array | No |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The pie chart with details specified. | - |
 
-The user wants to create a Pie Chart.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to create a pie chart.
+
+### Steps
 
 1. Call the function "chartPopulatePieData" and define the value for component, dataCaptions, and data.
    <br>
@@ -62,17 +70,13 @@ The user wants to create a Pie Chart.
                           </ul>
   
    ![](../../../../document/function/Chart/chartPopulatePieData/chartPopulatePieData-step-3.png?raw=true)
-    
+
 ### Result
 
+The pie chart with the details specified by the user will be returned.
+
  ![](../../../../document/function/Chart/chartPopulatePieData/chartPopulatePieData-result-1.png?raw=true)
- 
-### Video
 
-- N/A
+## Links
 
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+Coming Soon.

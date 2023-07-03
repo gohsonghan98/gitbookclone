@@ -4,11 +4,7 @@
 
 Generate a canvas by following a specific format including images, canvas are mainly used for printing.
 
-### Flowchart
-
-- N/A
-
-### Input / Parameters
+### Input / Parameter
 
 | Name | Description | Data Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -36,22 +32,62 @@ Text Format
 
 See 'setPrintStyle' function to simplify the formatting.
 
-### Scenario / Use Case
+## Output
 
-- N/A
+### Default Output
 
-### Step
+| Description | Output Type |
+| ------ | ------ |
+| If the canvas was generated. | Boolean |
 
-- N/A
+
+| Description | Output Type |
+| ------ | ------ |
+| Contains the information below. | Object |
+
+```js
+    {
+        "filePath": "{This contains the url.}",
+        "fileName": "{}",
+    }
+```
+
+### Parameter Output
+
+#### yes
+
+| Description | Output Type |
+| ------ | ------ |
+| If the component was animated. | Boolean |
+
+
+| Description | Output Type |
+| ------ | ------ |
+| Contains the information below. | Object |
+
+```js
+    {
+        "filePath": "{This contains the url.}",
+        "fileName": "{}",
+    }
+```
+
+#### errorCallback
+
+## Video
+
+Coming Soon.
+
+## Example
+
+Coming Soon.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

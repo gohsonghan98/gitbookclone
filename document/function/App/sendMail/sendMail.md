@@ -1,30 +1,38 @@
 #  sendMail
 
-### Description
+## Description
 
-Send in app email.
+Send an email through the app.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| config | The configuration of the email to be sent. | Object | - | - | Yes |
+| from | The name of the sender. | Object | - | - | Yes |
+| to | The name of the recipient. | Array | - | - | Yes |
+| cc | The carbon copy. | Array | - | - | No |
+| bcc | The blind carbon copy. | Array | - | - | No |
+| data | The contents of the email. | Object | - | - | Yes |
+| attachment | The file(s) to be attached. | String/Array? | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required | 
-| ------ | ------ | ------ |------ | ------ | 
-| 1 | config | The configuration of email. | Object | Yes | 
-| 2 | from | The sender. | Object | Yes | 
-| 3 | to | The recipient. | Array | Yes | 
-| 4 | cc | The carbon copy. | Array | No | 
-| 5 | bcc | The blind carbon copy. | Array | No | 
-| 6 | data | The content of email. | Object | Yes | 
-| 7 | attachment | The file attachment | String??? | No | 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Returns a the email structure. | String |
 
-The user want to send an email via the app.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to send an email via the app.
+
+### Steps
 
 1. Call the sendMail function, add toObject function in "config" parameter as below:
 
@@ -53,16 +61,10 @@ The user want to send an email via the app.
 5. For "data" paremeter, add toObject function then add fields "subject" "body". 
 
     ![](../../../../document/function/App/sendMail/sendMail-step-7.png?raw=true)
-    
+
 ### Result
 
 Email Received:
 ![](../../../../document/function/App/sendMail/sendMail-result-1.png?raw=true)
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links
