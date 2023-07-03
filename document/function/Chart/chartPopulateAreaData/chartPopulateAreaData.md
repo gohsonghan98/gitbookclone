@@ -1,35 +1,43 @@
 # chartPopulateAreaData
 
-### Description
+## Description
 
-Area chart displays quantitative data. It is based on line chart, but the area between axis and lines are filled with colors.
+An area chart displays quantitative data. It contains multiple line charts corresponding to the names defined in the legend. The area between the x-axis and lines are filled with color.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the Chart component to take details from. | String | - | - | Yes |
+| componentId | The id of the Chart component to take details from. | String | - | - | No | 
+| dataCaptions | The legend for each data. | Array | - | - | No | 
+| data | The data values for each legend. | Array | - | - | Yes |
+| dataColors | The colors to be set for each legend. | Array | - | - | No |
+| xCategories | Labels for the categories on the x-axis. | Array | - | - | No |
+| yCaption | The label for the x-axis. | String | - | - | No |
+| xCaption | The label for the y-axis. | String | - | - | No |
+| showLabel | To show or hide label. | Boolean | - | - | No |
+| zoom | To zoom or not to zoom. | Boolean | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component that the details will be taken from. | String | Yes |
-| 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | No |
-| 4 | data | Number | Array | Yes |
-| 5 | dataColors | dataColors | Array | No |
-| 6 | xCategories | X-Axis category | Array | No |
-| 7 | yCaption | Y-Axis | String | No |
-| 8 | xCaption | X-Axis | String | No |
-| 9 | showLabel | True or false | Boolean | No |
-| 10 | zoom | True or false | Boolean | No |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The area chart with details specified. | - |
 
-The user wants to create a Area Chart.
+## Video
 
-### Step
+Coming Soon.
 
-1. Call the function "chartPopulateAreaData" and define the value           for component, dataCaptions, data, xCategories, yCaption, xCaption,      and zoom.
+## Example
+
+The user wants to create an area chart.
+
+### Steps
+
+1. Call the function "chartPopulateAreaData" and define the value for component, dataCaptions, data, xCategories, yCaption, xCaption, and zoom.
    <br>
    <ul>
    <li>component: chData</li>
@@ -75,17 +83,13 @@ The user wants to create a Area Chart.
    <li>zoom: true</li>
    
    ![](../../../../document/function/Chart/chartPopulateAreaData/chartPopulateAreaData-step-5.png?raw=true)
-   
-   
+
 ### Result
 
+The area chart with the details specified by the user will be returned.
+
 ![](../../../../document/function/Chart/chartPopulateAreaData/chartPopulateAreaData-result-1.png?raw=true)
-### Video
 
-- N/A
+## Links
 
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+Coming Soon.

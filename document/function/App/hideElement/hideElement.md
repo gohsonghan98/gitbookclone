@@ -1,27 +1,35 @@
 # hideElement
 
-### Description
+## Description
 
-Make a component hidden / not visible in the screen.
+Hide a component on the screen.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component. | String | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | The id of the component. | String | - | - | Partial (Yes if no 'component'.) |
 
-### Input / Parameters
+__\* Note:__ Either component or componentId must have value in order for this function to work.
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component. | String | No __*__ | 
-| 2 | componentId | The id of the component | String | No __*__ |
+## Output
 
-__\* Note:__ Either No 1 or No 2 must have value in order for this function to work.
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Checks whether component is hidden. | Boolean |
 
-The user want to hide component from the screen.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to hide a button component on the screen.
+
+### Steps
 
 1. Call the function
 
@@ -29,13 +37,6 @@ The user want to hide component from the screen.
 
 ### Result
 
-A component will be invisible in the mobile screen.
+The button will no longer be visible on the mobile screen.
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

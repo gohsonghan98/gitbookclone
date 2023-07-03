@@ -1,25 +1,32 @@
 # setLanguage
 
-### Description
+## Description
 
-Set the default language of the app based on the languages setup in language settings.
+Set a default language for the app from the pre-defined languages in language settings.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| lang | The name of the language to be set as default. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | lang | Name of the language. | String | Yes | 
+### Default Output
 
+| Description | Output Type |
+| ------ | ------ |
+| The new language that has been set. | String |
 
-### Scenario / Use Case
+## Video
 
-The user override the default language (English) of their App.
+Coming Soon.
 
-### Step
+## Example
+
+The user wants to change the default language (English) of their App.
+
+### Steps
 
 1. Go to language setting tab add language "chinese", add label "Language" and assign chinese word for the label as below:
 
@@ -37,18 +44,10 @@ The user override the default language (English) of their App.
 
     ![](../../../../document/function/App/setLanguage/setLanguage-step-4.png?raw=true)
 
-
 ### Result
 
 The word "Language" will be changed to "语言选择". <br />
 
 ![](../../../../document/function/App/setLanguage/setLanguage-result-1.png?raw=true)
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- In the language setting, the word used for mapping is case sensitive.
+## Links

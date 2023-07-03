@@ -1,35 +1,43 @@
 # newObject
 
-### Description
+## Description
 
-Create the new object.
+Create a new object.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The string of data required to create an object. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | String data to create object | String |   |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The new object created. | Object |
 
-- N/A
+```js
+    {
+        "filePath": "{filePath}"
+    }
+```
 
-### Step
+## Video
 
-- N/A
+Coming Soon.
+
+## Example
+
+The user wants to create a new object.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

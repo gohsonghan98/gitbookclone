@@ -1,26 +1,40 @@
 # Pop
 
-### Description
+## Description
 
-Delete value inside an array.
+Delete the last value inside an array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The name of the array. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | The name of the variable. | String | Yes |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The updated array of values. | Object |
 
-The user wants to remove the value in an array.
+```js
+    {
+        "filePath": "{filePath}"
+    }
+```
 
-### Step
+## Video
 
-1. Call the function "newArray" and "push" (We     assumed that the new array and the value of     array have been created.)
+Coming Soon.
+
+## Example
+
+The user wants to remove the last value in an array.
+
+### Steps
+
+1. Call the function "newArray" and "push" (We assumed that the new array and the value of array have been created.)
    </br>
    var: listOfFruits<br />
    value : jackfruit<br>
@@ -45,14 +59,5 @@ The user wants to remove the value in an array.
 The remaining value as shown below:
 
    ![](../../../../document/function/Array/pop/pop-step-4.png?raw=true)
-	
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

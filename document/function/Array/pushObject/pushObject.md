@@ -1,37 +1,45 @@
 # pushObject
 
-### Description
+## Description
 
-Push object into provided array.
+Add an object to an array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The array of values. | String | - | - | Yes |
+| key | The index of the array to add the object to. | String | - | - | Yes |
+| value | The value of the object to add to the array. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | Array data | String |   |
-| 2 | key | Index of array to push value | String |   |
-| 3 | value | String to add | String |   |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The updated array with the object added. | Object |
 
-- N/A
+```js
+    {
+        "filePath": "{filePath}"
+    }
+```
 
-### Step
+## Video
 
-- N/A
+Coming Soon.
+
+## Example
+
+The user wants to add an object to an array.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

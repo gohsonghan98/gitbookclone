@@ -1,48 +1,52 @@
 # Component Element
 
 
-### Description
+## Description
 
-To allow developers to identify the HTML code for the component selected
+Retrieve HTML code for a selected component for developer's reference.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component to retrieve HTML code from. | String | - | - | Yes |
+| componentId | The id of the component to retrieve HTML code from. | String | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | Component | - | String | yes |
-| 2 | Component Id | - | String | yes |
+### Default Output
 
+| Description | Output Type |
+| ------ | ------ |
+| The HTML code of the selected component. | String |
 
-### Scenario / Use Case
+### Parameter Output: {parameter-name}
 
-The user wants to identify the html code for selected component
+The parameter output of the function.
 
-### Step
+## Video
+
+Coming Soon.
+
+## Example
+
+The user wants to identify the HTML code for a component, such as a button.
+
+### Steps
 
 1. Call Function "Console"
 2. Call Function "ComponentElement"
 
      ![](../../../../document/function/App/componentElement/componentElement-Step-1.png?raw=true)
 
-3. fill up the input parameters
+3. Fill up the input parameters
 
 	![](../../../../document/function/App/componentElement/componentElement-Step-2.png?raw=true)
 
-
 ### Result
 
-result can be seen in the console of the web browser.
+The HTML code can be seen in the console of the web browser.
 
 ![](../../../../document/function/App/componentElement/componentElement-Results-1.png?raw=true)
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

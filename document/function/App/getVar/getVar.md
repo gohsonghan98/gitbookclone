@@ -1,27 +1,33 @@
 # getVar
 
-### Description
+## Description
 
 Get the value of a global variable.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The name of the variable. | String | - | - | Yes |
+| default | The default value of the variable. | String | - | - | No |
 
-<!--![Flowchart](componentValue-flowchart.png?raw=true)-->
+## Output
 
-### Input / Parameters
+### Default Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | Name of variable | String | Yes |
-| 2 | default | Default Value | String | No | 
+| Description | Output Type |
+| ------ | ------ |
+| Returns the value of the global variable. | String |
 
-### Scenario / Use Case
+## Video
+
+Coming Soon.
+
+## Example
 
 The user wants to get the value of a variable.
 
-### Step
+### Steps
 
 1. Call the function.
 
@@ -29,13 +35,6 @@ The user wants to get the value of a variable.
 
 ### Result
 
-In console, user can the string "Single". If user variable "vSingle" have no value, it will display "No Value".
+If the user variable "vSingle" has no value, the console will display "No Value".
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)
--->
-
-### Notes
-- N/A
+## Links

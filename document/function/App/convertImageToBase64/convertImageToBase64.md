@@ -1,37 +1,62 @@
 # convertImageToBase64
 
-### Description
+## Description
 
-Converting image to base64 .
+Converting image to base64 format.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| image | The name of the image to be converted. | Object | - | - | Yes |
+| extra | Extra string to be added. | String | - | - | No |
+| callBack | Callback functions with reference to parameter. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | image | Name of image | Object | Yes |
-| 2 | extra | Extra string | String | Yes | 
-| 3 | callback | Callback functions | String | Yes | 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Check whether the image is converted. | Boolean |
 
-- N/A
+### Parameter Output: {parameter-name}
 
-### Step
+#### yes
 
-- N/A
+| Description | Output Type |
+| ------ | ------ |
+| If the component was animated. | Boolean |
+
+
+| Description | Output Type |
+| ------ | ------ |
+| Contains the information below. | Object |
+
+```js
+    {
+        "filePath": "{This contains the url.}",
+        "fileName": "{}",
+    }
+```
+
+#### errorCallback
+
+
+## Video
+
+Coming Soon.
+
+## Example
+
+Coming Soon.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

@@ -1,26 +1,33 @@
 #  pullToRefresh
 
-### Description
+## Description
 
-Pull the panel and reload the screen.
+Pull a panel component to trigger a screen to reload.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| class | The style class to be refreshed.? | String | - | - | Yes |
+| maxTime | The maximum time to load the screen. | Integer | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required | 
-| ------ | ------ | ------ |------ | ------ | 
-| 1 | class | Style class. | String | Yes | 
-| 2 | maxTime | Maximum time. | Integer | No | 
+### Default Output
 
+| Description | Output Type |
+| ------ | ------ |
+| Checks if the screen has reloaded. | Boolean |
 
-### Scenario / Use Case
+## Video
 
-The user want do some operations / processing by pulling the panel.
+Coming Soon.
 
-### Step
+## Example
+
+The user wants to refresh the screen by pulling a panel component.
+
+### Steps
 
 1.  In page event "Load",  add pullToRefresh function.
 
@@ -37,16 +44,10 @@ The user want do some operations / processing by pulling the panel.
 4.  Define "pull" for Style Class on Panel Inspector.
 
     ![](../../../../document/function/App/pullToRefresh/pullToRefresh-step-4.png?raw=true)
-    
+
 ### Result
 
 After user pull on red color panel, the pullToRefresh function will be triggered.
 ![](pullToRefresh-result-5.png?raw=true)
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

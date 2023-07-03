@@ -1,28 +1,36 @@
 # setComponentLink
 
-### Description
+## Description
 
-Add a hyperlink to a component. 
+Add a hyperlink to a component which will open in a new tab in the web browser. 
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component. | String | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | The id of the component. | String | - | - | Partial (Yes if no 'component'.) |
+| link | The url of the website to open when the component is clicked. | String | - | - | Yes |
 
-### Input / Parameters
+__\* Note:__ Either component or componentId must have value in order for this function to work.
 
-| No | Name | Description | Data Type | Required | Example |
-| ------ | ------ | ------ |------ | ------ | ------ |
-| 1 | component | The name of the component. | String | No __*__ | 
-| 2 | componentId | The id of the component | String | No __*__ |
-| 3 | link | The url of website | String | Yes |
+## Output
 
-__\* Note:__ Either No 1 or No 2 must have value in order for this function to work.
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Checks if url is opened upon clicking on the component. | Boolean |
 
-The user wants to get the value from a text box component and display it in a label.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to open a hyperlink by clicking on the label component.
+
+### Steps
 
 1. Draw a label component & button component
 
@@ -34,11 +42,6 @@ The user wants to get the value from a text box component and display it in a la
 
 ### Result
 
-User will be redirect to https://emobiq.com after click on the label.
+The user will be redirected to https://emobiq.com after click on the label.
 
-### Video
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-- N/A
+## Links

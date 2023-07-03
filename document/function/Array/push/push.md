@@ -1,60 +1,65 @@
 # Push
 
-### Description
+## Description
 
-Add new value into an array.
+Add a new value to an array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The name of the array. | String | - | - | Yes |
+| value | The value to be added to the array. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | The name of the variable. | String | Yes |
-| 1 | value | Value of the variable. | String | Yes |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The updated array of values. | Object |
 
-The user wants to add new value into the array.
+```js
+    {
+        "filePath": "{filePath}"
+    }
+```
 
-### Step
+## Video
 
-1. Call the function "newArray" and set the        variable name.
+Coming Soon.
+
+## Example
+
+The user wants to add a new value to the array.
+
+### Steps
+
+1. Call the function "newArray" and set the variable name.
    </br>
    var: listOfFruits<br />
 
     ![](../../../../document/function/Array/push/push-step-1.png?raw=true)
     
-2. Call the function "push" and define the         value.<br>
+2. Call the function "push" and define the value.<br>
    value: mango
     
    ![](../../../../document/function/Array/push/push-step-2.png?raw=true)
 
-3. Call the function "push" and define the         value.<br>
+3. Call the function "push" and define the value.<br>
    value: jackfruits
     
     ![](../../../../document/function/Array/push/push-step-3.png?raw=true)
    
-4. Add a console and call the function             "getVar" to view the values in "listOfFruits" array.<br>
+4. Add a console and call the function "getVar" to view the values in "listOfFruits" array.<br>
    value = getVar = listOfFruits
    
     ![](../../../../document/function/Array/push/push-step-4.png?raw=true)
-    
-    
+
 ### Result
 
-"mango" and "jackfruits" are added to the array successfully.
+The values "mango" and "jackfruits" are added to the array successfully.
 
 ![](../../../../document/function/Array/push/push-result-1.png?raw=true)
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

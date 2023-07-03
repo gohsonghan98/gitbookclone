@@ -1,27 +1,33 @@
 # setVar
 
-### Description
+## Description
 
-Create a global variable along with its value.
+Create a global variable with a value associated to it.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The name of the variable to create. | String | - | - | Yes |
+| value | The value associated to the variable. | String | - | - | Yes |
 
-<!--![Flowchart](componentValue-flowchart.png?raw=true)-->
+## Output
 
-### Input / Parameters
+### Default Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | Name of variable | String | Yes |
-| 2 | value | Value | String | Yes | 
+| Description | Output Type |
+| ------ | ------ |
+| Checks if the variable is created? | String |
 
-### Scenario / Use Case
+## Video
+
+Coming Soon.
+
+## Example
 
 The user wants to create a global variable that can be accessed or used in any function in the app.
 
-### Step
+### Steps
 
 1. Call the function, create a variable of single value.
 
@@ -37,11 +43,4 @@ In console, user can type emobiqApp._GVar to view all the global variable.
 
 ![](../../../../document/function/App/setVar/setVar-result-1.png?raw=true)
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)
--->
-
-### Notes
-- N/A
+## Links

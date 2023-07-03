@@ -1,36 +1,38 @@
 # findArrayIndex
 
-### Description
+## Description
 
-Find the specific string within another string.
+Find the index of a specific string within an array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | An array of values. | String/ Array? | - | - | Yes |
+| value | The string to search. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | Array data | String |   |
-| 2 | values | String to search | String |   |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The index of the string in the array. | Number |
 
-- N/A
+## Video
 
-### Step
+Coming Soon.
 
-- N/A
+## Example
+
+The user wants to obtain the index of a specific string in an array of values.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

@@ -1,36 +1,37 @@
 # disablePage
 
-### Description
+## Description
 
-Make the page not clickable.
+Disable the ability to click a page.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| - | - | - | - | - | - |
 
-### Input / Parameters
+## Output
 
-- N/A
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Check that the page is not clickable. | Boolean |
 
-The user want to make the page unable to click.
+## Video
 
-### Step
+Coming Soon.
 
-1. Call the function
+## Example
 
-    ![](../../../../document/function/App/disablePage/disablePage-step-1.png?raw=true)
+The user wants to have a page that is not clickable.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-The page cannot be clicked.
+The page will no longer be clickable.
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

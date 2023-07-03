@@ -1,31 +1,39 @@
 # chartPopulateDonutData
 
-### Description
+## Description
 
-A donut chart is essentially a Pie Chart with an area of the centre cut out. This empty space can be used to display additional data.
+A donut chart displays quantitative data in a similar way to a pie chart, except it has an area of the centre cut out. This empty space can be used to display additional data or the title of the chart.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the Chart component to take details from. | String | - | - | Yes |
+| componentId | The id of the Chart component to take details from. | String | - | - | No | 
+| title | Title of the chart. | String | - | - | No |
+| dataCaptions | The legend for each data. | Array | - | - | No | 
+| data | The data values for each legend. | Array | - | - | Yes |
+| dataColors | The colors to be set for each legend. | Array | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component that the details will be taken from. | String | Yes |
-| 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | title | Title of the chart. | String | No |
-| 4 | dataCaptions | dataCaptions | Array | No |
-| 5 | data | Number | Array | Yes |
-| 6 | dataColors | dataColors | Array | No |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The donut chart with details specified. | - |
 
-The user wants to create a Donut Chart.
+## Video
 
-### Step
+Coming Soon.
 
-1. Call the function "chartPopulateDonutData" and define the value          for component, title, dataCaptions, and data.
+## Example
+
+The user wants to create a donut chart.
+
+### Steps
+
+1. Call the function "chartPopulateDonutData" and define the value for component, title, dataCaptions, and data.
    <br>
    <ul>
    <li>component: chData</li>
@@ -64,18 +72,13 @@ The user wants to create a Donut Chart.
                           </ul>
                             
    ![](../../../../document/function/Chart/chartPopulateDonutData/chartPopulateDonutData-step-3.png?raw=true)
-  
+
 ### Result
 
+The donut chart with the details specified by the user will be returned.
+
  ![](../../../../document/function/Chart/chartPopulateDonutData/chartPopulateDonutData-result-1.png?raw=true)
-   
- 
-### Video
 
-- N/A
+## Links
 
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/Ad
+Coming Soon.

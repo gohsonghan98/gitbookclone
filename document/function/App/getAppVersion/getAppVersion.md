@@ -1,22 +1,32 @@
 # getAppVersion
 
-### Description
+## Description
 
-The build version of the App.
+Retrieve the build version of the App.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| - | - | - | - | - | - |
 
-### Input / Parameters
+## Output
 
-- N/A
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The build version of the App. | String |
 
-The user wants get version of the App.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to get the version of the App.
+
+### Steps
 
 1. Call the function.
 
@@ -26,11 +36,4 @@ The user wants get version of the App.
 
 App version number eg 1.0
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-- the app version will only increased if user click on relase build. 
-- user can use functions: console -> getAppVersion to get the version of the app
+## Links

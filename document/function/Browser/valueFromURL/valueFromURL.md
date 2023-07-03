@@ -1,27 +1,33 @@
 # valueFromURL
 
-### Description
+## Description
 
-Get the value of parameter in URL.
+Get the value of a URL parameter.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| url | The Uniform Resource Locator. | String | - | - | Yes |
+| parameter | A URL parameter whose value is set dynamically in a page's URl. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | url | Uniform Resource Locator | String | Yes | 
-| 2 | parameter | URL Parameters are parameters whose values are set dynamically in a page's URL | String | Yes |
+### Default Output
 
+| Description | Output Type |
+| ------ | ------ |
+| The URL parameter specified. | String |
 
-### Scenario / Use Case
+## Video
 
-The user want to get value of parameter "appID" in a given URL. <br />
+Coming Soon.
 
+## Example
 
-### Step
+The user wants to get the value of parameter "appID" in a URL. 
+
+### Steps
 
 1. Call the function. <br>
 <b>url</b>: https://emobiq.com/edit/?appid=documentationTesting#/design <br />
@@ -31,12 +37,6 @@ The user want to get value of parameter "appID" in a given URL. <br />
 
 ### Result
 
-The console return the value "documentationTesting", which is the appID for the URL.
+The console returns the value "documentationTesting", which is the appID for the URL.
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-- N/A
+## Links

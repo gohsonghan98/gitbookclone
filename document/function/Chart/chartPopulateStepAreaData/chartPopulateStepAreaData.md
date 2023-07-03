@@ -1,33 +1,41 @@
 # chartPopulateStepAreaData
 
-### Description
+## Description
 
-A step area chart is an area chart in which points are connected by horizontal and vertical line segments, looking like steps of a staircase. The area between the line segments and the X-axis is filled with color or a pattern.
+A step area chart is an area chart where the points are connected by horizontal and vertical lines in a series, forming a step-like progression. The area between the the x-axis and the line segments is filled with color.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the Chart component to take details from. | String | - | - | Yes |
+| componentId | The id of the Chart component to take details from. | String | - | - | No | 
+| dataCaptions | The legend for each data. | Array | - | - | No | 
+| data | The data values for each legend. | Array | - | - | Yes |
+| dataColors | The colors to be set for each legend. | Array | - | - | No |
+| xCategories | The labels for the categories on the x-axis. | Array | - | - | No |
+| yCaption | The label for the x-axis. | String | - | - | No |
+| xCaption | The label for the y-axis. | String | - | - | No |
+| showLabel | To show or hide label. | Boolean | - | - | No |
+| zoom | To zoom or not to zoom. | Boolean | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component that the details will be taken from. | String | Yes |
-| 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | No |
-| 4 | data | Number | Array | Yes |
-| 5 | dataColors | dataColors | Array | No |
-| 6 | xCategories | X-Axis category | Array | No |
-| 7 | yCaption | Y-Axis | String | No |
-| 8 | xCaption | X-Axis | String | No |
-| 9 | showLabel | True or false | Boolean | No |
-| 10 | zoom | True or false | Boolean | No |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The step area chart with details specified. | - |
 
-The user wants to create a Step Area Chart.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to create a step area chart.
+
+### Steps
 
 1. Call the function "chartPopulateStepAreaData" and define the value       for component, dataCaptions, data, xCategories, yCaption, xCaption,      and zoom.
    <br>
@@ -77,18 +85,13 @@ The user wants to create a Step Area Chart.
    <li>zoom: true</li>
    
    ![](../../../../document/function/Chart/chartPopulateStepAreaData/chartPopulateStepAreaData-step-5.png?raw=true)
-   
-   
+
 ### Result
 
+The step area chart with the details specified by the user will be returned.
+
  ![](../../../../document/function/Chart/chartPopulateStepAreaData/chartPopulateStepAreaData-result-1.png?raw=true)
-   
-### Video
 
-- N/A
+## Links
 
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+Coming Soon.

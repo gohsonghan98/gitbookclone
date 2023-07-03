@@ -1,24 +1,32 @@
 ﻿# Count
 
-### Description
+## Description
 
-Counts all elements in an array.
+Count the number of elements in an array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| values | The array of values. | Array | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | values | Array | Array | Yes |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The total number of elements in the array. | Number |
 
-The user wants to count all the data in an array.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to count all the elements in an array.
+
+### Steps (**not updated)
 
 1. Call the function "count".
 
@@ -34,14 +42,6 @@ The user wants to count all the data in an array.
 
 ### Result
 
-4
+The total number of elements in the array will be returned. In this case, the returned value will be 4.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

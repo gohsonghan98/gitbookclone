@@ -1,37 +1,45 @@
 # nfcStopRead
 
-### Description
+## Description
 
 Stop detecting and reading from Near Field Communication (NFC) devices.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| nfc | The NFC device to stop reading from. | String | - | - | Yes |
+| sCallback | The function to carry out if stop reading from NFC device is successful. | functionList | - | - | Yes | 
+| eCallback | The function to carry out if stop reading from NFC device is unsuccessful. | functionList | - | - | Yes | 
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | nfc | NFC component | string | Yes |
-| 2 | sCallback | Success Callback | functionList | Yes | 
-| 3 | eCallback | Error Callback | functionList | Yes | 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Checks that the NFC device is not being read from. | Boolean |
 
-- N/A
+### Parameter Output: {parameter-name}
 
-### Step
+#### successCallback
 
-- N/A
+#### errorCallback
+
+## Video
+
+Coming Soon.
+
+## Example
+
+The user wants to stop reading from the NFC device.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

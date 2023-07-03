@@ -4,11 +4,7 @@
 
 Convert the value in signature component to dataURL eg data:__[__&lt;mediatype&gt;__]__[_;base64_]_,&lt;data&gt; 
 
-### Flowchart
-
-- N/A
-
-### Input / Parameters
+### Input / Parameter
 
 | No | Name | Description | Data Type | Required | Example |
 | ------ | ------ | ------ |------ | ------ | ------ |

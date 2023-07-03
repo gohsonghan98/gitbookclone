@@ -1,26 +1,33 @@
-# And
+# and
 
-### Description
+## Description
 
-Boolean returns value true if both operands is true and returns false otherwise. 
+AND operator is a boolean operator that returns true if both operands are true and returns false otherwise. 
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| value1 | The first boolean value to check. | Boolean | - | - | Yes |
+| value2 | The second boolean value to check. | Boolean | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | value1 | True or false | Boolean | Yes  |
-| 2 | value2 | True or false | Boolean | Yes  |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Returns true or false. | Boolean |
 
-The user wants to check if value 1 AND value 2 are both true.
-</br>
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to check if two values are true.
+
+### Steps
 
 1. Call the function.
     </br>
@@ -31,14 +38,8 @@ The user wants to check if value 1 AND value 2 are both true.
 
 ### Result
 
-true ( Since 3000 is greater than 1100, value1 will return true. The result return true because both of the arguments are true.)
+The result that will be returned is 'true'. Since 3000 is greater than 1100, value1 will return true. The result will return true because both arguments are true.
 
-### Video
+## Links
 
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+Coming Soon.

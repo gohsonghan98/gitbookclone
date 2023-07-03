@@ -1,36 +1,39 @@
 # languageConvertData
 
-### Description
+## Description
 
-Convert text to specific language defined in the language setting.
+Convert a string of text to a specific language that has been pre-defined in the language settings.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| value | The text to be changed. | String | - | - | Yes |
+| language | The language to convert text to. | String | - | - | Yes | 
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | value | Data value to change | string | Yes |
-| 2 | language | Language code | language | Yes | 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Checks whether the text has been converted. | Boolean |
 
-- N/A
 
-### Step
+## Video
 
-- N/A
+Coming Soon.
+
+## Example
+
+The user wants to convert a selected string of text to another existing language in the language settings.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

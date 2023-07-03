@@ -1,29 +1,34 @@
-# Set Component Value
+# setComponentValue
 
+## Description
 
-### Description
+Set a value to a component.
 
-To set a value to a component
+## Input / Parameter
 
-### Flowchart
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component. | String | - | - | Yes |
+| componentId | The id of the component. | String | - | - | No |
+| value | The value to be set for the component. | String | - | - | Yes |
 
-- N/A
+## Output
 
-### Input / Parameters
+### Default Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | add the component name | String | yes |
-| 2 | component Id | - | String | no |
-| 3 | value | value for the component | String | yes |
+| Description | Output Type |
+| ------ | ------ |
+| The new value set to the component. | String |
 
+## Video
 
-### Scenario / Use Case
+Coming Soon.
 
-The user wants to change a value of a component, 
-example chanaging a lable caption
+## Example
 
-### Step
+The user wants to change the value of a label component.
+
+### Steps
 
 1. Add a lable and a button 
 
@@ -39,15 +44,8 @@ example chanaging a lable caption
 
 ### Result
 
-Lable's caption changed
+The caption (value) of the label has been changed to abc123.
 
 ![](../../../../document/function/App/setComponentValue/setComponentValue-Result-1.png?raw=true)
 
-
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

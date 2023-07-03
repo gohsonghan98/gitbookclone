@@ -1,32 +1,40 @@
 # chartPopulateScatterPlotData
 
-### Description
+## Description
 
 A scatter plot is a graph of plotted points that show the relationship between two sets of data.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the Chart component to take details from. | String | - | - | Yes |
+| componentId | The id of the Chart component to take details from. | String | - | - | No | 
+| dataCaptions | The legend for each data. | Array | - | - | No | 
+| data | The data values for each legend. | Array | - | - | Yes |
+| dataColors | The colors to be set for each legend. | Array | - | - | No |
+| xCategories | Labels for the categories on the x-axis. | Array | - | - | No |
+| yCaption | The label for the x-axis. | String | - | - | No |
+| xCaption | The label for the y-axis. | String | - | - | No |
+| zoom | To zoom or not to zoom. | Boolean | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component that the details will be taken from. | String | Yes |
-| 2 | componentId | The id of the component that the details will be taken from. | String | No |
-| 3 | dataCaptions | dataCaptions | Array | No |
-| 4 | data | Number | Array | Yes |
-| 5 | dataColors | dataColors | Array | No |
-| 6 | xCategories | X-Axis category | Array | No |
-| 7 | yCaption | Y-Axis | String | No |
-| 8 | xCaption | X-Axis | String | No |
-| 9 | zoom | True or false | Boolean | No |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The scatter plot with details specified. | - |
 
-The user wants to create a Scatter Plot Chart.
+## Video
 
-### Step
+Coming Soon.
+
+## Example
+
+The user wants to create a scatter plot chart.
+
+### Steps
 
 1. Call the function "chartPopulateScatterPlotData" and define the value for component, dataCaptions, data, xCategories, yCaption, xCaption, and zoom.
    <br>
@@ -74,18 +82,13 @@ The user wants to create a Scatter Plot Chart.
    <li>zoom: true</li>
    
    ![](../../../../document/function/Chart/chartPopulateScatterPlotData/chartPopulateScatterPlotData-step-5.png?raw=true)
-   
-   
+
 ### Result
+
+The scatter plot chart with the details specified by the user will be returned.
 
 ![](../../../../document/function/Chart/chartPopulateScatterPlotData/chartPopulateScatterPlotData-result-1.png?raw=true)
 
-### Video
+## Links
 
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+Coming Soon.

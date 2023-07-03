@@ -17,7 +17,7 @@ An animation lets a component gradually change from one style to another.
 
 ## Output
 
-### Return
+### Default Output
 
 | Description | Output Type |
 | ------ | ------ |
@@ -35,7 +35,7 @@ An animation lets a component gradually change from one style to another.
     }
 ```
 
-### Parameter Output: 
+### Parameter Output
 
 #### yes
 
@@ -46,7 +46,7 @@ An animation lets a component gradually change from one style to another.
 
 | Description | Output Type |
 | ------ | ------ |
-| Contains the information below. | objec |
+| Contains the information below. | Object |
 
 ```js
     {

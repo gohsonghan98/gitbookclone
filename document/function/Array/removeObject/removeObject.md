@@ -1,36 +1,44 @@
 # removeObject
 
-### Description
+## Description
 
-Remove object from proviced array.
+Remove an object from an array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| var | The name of the array. | String | - | - | Yes |
+| key | The index of the array to remove the object from. | String | - | - | Yes | 
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | var | Array data | String |   |
-| 2 | key | Index of array to remove value | String |   |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The updated array with the new object added. | Object |
 
-- N/A
+```js
+    {
+        "filePath": "{filePath}"
+    }
+```
 
-### Step
+## Video
 
-- N/A
+Coming Soon.
+
+## Example
+
+The user wants to add a new object to an array.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

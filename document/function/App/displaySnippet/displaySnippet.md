@@ -1,36 +1,38 @@
 # displaySnippet
 
-### Description
+## Description
 
-Show or hide the snippet
+Ability to show or hide a snippet.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| snippet | Snippet to be shown or hidden. | String | - | - | Yes |
+| show | Show or hide flag. | Boolean | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | snippet | Snippet | string | Yes |
-| 2 | show | Show or hide flag | boolean | Yes | 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Check whether the snippet is being shown or hidden based on the input selected. | Boolean |
 
-- N/A
+## Video
 
-### Step
+Coming Soon.
 
-- N/A
+## Example
+
+The user wants to show a snippet.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

@@ -2,27 +2,39 @@
 
 ### Description
 
-Get the element attribute of the component.
+Get the element attribute of the component, such as name, value etc.
 
-### Flowchart
+### Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component to get attribute from | String | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | The id of the component to get attribute from | String | - | - | Partial (Yes if no 'component'.) |
+| attr | The attribute of the component | String | - | - | Yes |
 
-### Input / Parameters
+__\* Note:__ Either component or componentId must have value in order for this function to work.
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component | String | No __*__ | 
-| 2 | componentId | The id of the component | String | No __*__ |
-| 2 | attr | The attribute of component | String | Yes |
+## Output
 
-__\* Note:__ Either No 1 or No 2 must have value in order for this function to work.
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The element attribute to be obtained. | String |
+
+### Parameter Output: {parameter-name}
+
+The parameter output of the function.
+
+## Video
+
+Coming Soon.
+
+## Example
 
 The user wants to get the value from a text box component.
 
-### Step
+### Steps
 
 1. Draw a edit text "txtA", a button "componentElAttr".
 
@@ -34,12 +46,6 @@ The user wants to get the value from a text box component.
 
 ### Result
 
-The value in edit text will be displayed in console.
+The value of the text box component will be displayed in the console.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

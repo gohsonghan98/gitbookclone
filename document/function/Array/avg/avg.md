@@ -1,27 +1,32 @@
-# Avg
+# avg
 
-### Description
+## Description
 
-Get the average value of an array.
+Get the average value of all the elemnents in an array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| values | An array of values. | Array | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | values | Array | Array | Yes  |
-| 2 | value1-10 | Number | Integer | No __*__  |
+### Default Output
 
-* Note: At least two fields must have value in order for this function to work.
+| Description | Output Type |
+| ------ | ------ |
+| The average value of the elements in the array. | Number |
 
-### Scenario / Use Case
+## Video
 
-The user wants to get the average value.
+Coming Soon.
 
-### Step
+## Example
+
+The user wants to get the average value of an array with multiple values.
+
+### Steps
 
 1. Call the function.
 
@@ -29,14 +34,6 @@ The user wants to get the average value.
 
 ### Result
 
-10
+The average value of all the elements in the array will be returned. In this example, the average value returned is 10.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

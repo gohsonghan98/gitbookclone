@@ -1,26 +1,32 @@
 # console
 
-### Description
+## Description
 
 Display the output/ result in browser. 
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| value | The output to be shown in the browser console, such as characters, numbers or words. | String | - | - | Yes |
 
-<!--![Flowchart](componentValue-flowchart.png?raw=true)-->
+## Output
 
-### Input / Parameters
+### Default Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | value | Characters, numbers or words | String | Yes | 
+| Description | Output Type |
+| ------ | ------ |
+| The input that was entered in the 'value' parameter. | String |
 
-### Scenario / Use Case
+## Video
 
-The user wants to view the result in console of broswer for debuging purpose.
+[![Video]({image-path}?raw=true)]({url-link})
 
-### Step
+## Example
+
+The user wants to view the result in the console of a broswer for debugging purpose.
+
+### Steps
 
 1. Call the function.
 
@@ -30,11 +36,4 @@ The user wants to view the result in console of broswer for debuging purpose.
 
 ![](../../../../document/function/App/console/console-result-1.png?raw=true)
 
-### Video
-
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)
--->
-
-### Notes
-- N/A
+## Links

@@ -1,28 +1,40 @@
 # componentAttr
 
-### Description
+## Description
 
-Get the attribute of the component.
+Get the attribute of a component, such as its name, dimensions etc.
 
-### Flowchart
+## Input / Parameter
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component to get attribute from | String | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | The id of the component to get attribute from | Stirng | - | - | Partial (Yes if no 'component'.) |
+| attr | The attribute of the component | String | - | - | Yes |
 
-### Input / Parameters
+__\* Note:__ Either component or componentId must have value in order for this function to work.
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | The name of the component | String | No __*__ | 
-| 2 | componentId | The id of the component | String | No __*__ |
-| 2 | attr | The attribute of component | String | Yes |
+## Output
 
-__\* Note:__ Either No 1 or No 2 must have value in order for this function to work.
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The attribute to be obtained. | String |
+
+### Parameter Output: {parameter-name}
+
+The parameter output of the function.
+
+## Video
+
+Coming Soon.
+
+## Example
 
 The user wants to get the width attribute value of a button component.
 
-### Step
+### Steps
 
 1. Draw a button component "btnComponentAttr"
 
@@ -32,14 +44,10 @@ The user wants to get the width attribute value of a button component.
 
     ![](../../../../document/function/App/componentAttr/componentAttr-step-2.png?raw=true)
 
+![]({image-path}?raw=true)
+
 ### Result
 
-The width value of button will be displayed eg 100%.
+The width value of button will be displayed, such as 164px.
 
-### Video
-
-- N/A
-
-### Notes
-
-- You can use getComponent function to view all the available attribute of a component.
+## Links

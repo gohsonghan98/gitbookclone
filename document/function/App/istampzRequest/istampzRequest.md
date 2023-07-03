@@ -2,37 +2,45 @@
 
 ### Description
 
-Retrieve stamp from iStampz product.
-
-### Flowchart
-
-- N/A
+Retrieve the stamp from iStampz product.
 
 ### Input / Parameters
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | istampz | Snippet | boolean | Yes |
-| 2 | data | Time | integer | Yes | 
-| 3 | callback | Functions to do after | functionList | Yes | 
-| 4 | errorCallback | Functions for error handling | functionList | Yes | 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| istampz | A snippet. | Boolean | - | - | Yes |
+| data | The time that is taken to retrieve the istampz product stamp. | Integer | - | - | Yes |
+| callback | Functions to carry out after the stamp is retrieved successfully. | functionList | - | - | Yes |
+| errorCallback | Functions to handle errors that arise while trying to retrieve the stamp. | functionList | Yes |
 
-### Scenario / Use Case
+## Output
 
-- N/A
+### Default Output
 
-### Step
+| Description | Output Type |
+| ------ | ------ |
+| Returns the stamp from the iStampz product. | String |
 
-- N/A
+### Parameter Output: {parameter-name}
+
+#### yes?
+
+#### errorCallback?
+
+## Video
+
+Coming Soon.
+
+## Example
+
+The user wants to get the stamp from an iStampz product.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links

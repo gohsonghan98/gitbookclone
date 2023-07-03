@@ -1,24 +1,38 @@
-﻿# Sort
+﻿# sort
 
-### Description
+## Description
 
-Sort an array of values in descending order.
+Sort the values in an array in descending order.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| values | An array of values. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | values | Array | Array | Yes  |
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| The array sorted in descending order. | Object |
 
-The user wants to sort the value inside array in descending order.
+```js
+    {
+        "filePath": "{filePath}"
+    }
+```
 
-### Step
+## Video
+
+Coming Soon.
+
+## Example
+
+The user wants to sort the values inside an array in descending order.
+
+### Steps
 
 1. Call the function "sort"
 
@@ -36,12 +50,4 @@ The user wants to sort the value inside array in descending order.
 
 ![](../../../../document/function/Array/sort/sort-result-1.png?raw=true)
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

@@ -1,27 +1,32 @@
-﻿# Sum
+﻿# sum
 
-### Description
+## Description
 
-Get the sum of the values in an array.
+Get the sum of all the values in an array.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| values | An array of values. | Array | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | values | Array | Array | Yes  |
-| 2 | value1-10 | Number | Integer | No __*__ | 
+### Default Output
 
-* Note: At least two fields must have value in order for this function to work.
+| Description | Output Type |
+| ------ | ------ |
+| The total value of all the values in the array. | Number |
 
-### Scenario / Use Case
+## Video
 
-The user wants to sum all the values inside the array and get the total result.
+Coming Soon.
 
-### Step
+## Example
+
+The user wants to sum all the values inside the array and get the total value.
+
+### Steps
 
 1. Call the function "sum"
 
@@ -38,14 +43,6 @@ The user wants to sum all the values inside the array and get the total result.
 
 ### Result
 
-54
+The total value of all the values in the array is returned. In this example, the total value returned is 54.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

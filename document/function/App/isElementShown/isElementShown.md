@@ -1,36 +1,38 @@
 # isElementShown
 
-### Description
+## Description
 
-Check the component is displayed.
+Check if a component is displayed on the screen.
 
-### Flowchart
+## Input / Parameters
 
-- N/A
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| component | The name of the component. | String | - | - | Yes |
+| componentId | The id of the component. | String | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | component | Component | string | Yes |
-| 2 | componentId | Id of Component | string | Yes | 
+### Default Output
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Checks whether the component is displayed on the screen. | String |
 
-- N/A
+## Video
 
-### Step
+Coming Soon.
 
-- N/A
+## Example
+
+The user wants to check if the component selected is shown on the screen.
+
+### Steps
+
+Coming Soon.
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
-
-- N/A
-
-### Notes
-
-- N/A
+## Links
