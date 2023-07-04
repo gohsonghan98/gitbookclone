@@ -1,10 +1,10 @@
 # bbCodeToCanvasSync
 
-### Description
+## Description
 
 Generate a canvas by following a specific format including images, canvas are mainly used for printing.
 
-### Input / Parameter
+## Input / Parameter
 
 | Name | Description | Data Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -16,10 +16,11 @@ Generate a canvas by following a specific format including images, canvas are ma
 | marginLeft | The margin left value of the canvas. | Number | 0 | - | No | 
 | marginRight | The margin right value of the canvas. | Number | 0 | - | No | 
 | marginBottom | The margin bottom value of the canvas. | Number | 0 | - | No | 
-| callback | When the function was triggered successfully. | Function List | - | - | No | 
-| errCallback | When the function trigger failed successfully. | Function List | - | - | No | 
+<!-- | callback | When the function was triggered successfully. | Function List | - | - | No | 
+| errCallback | When the function trigger failed successfully. | Function List | - | - | No | -->
 
 Text Format
+
 - Bold: ```[b]```The text to apply bold.```[/b]```
 - Italic: ```[i]```The text to apply italic.```[/i]```
 - Image: ```[img x={number} y={number} width={number} height={number}]```The image to be rendered, a base64 or url.```[/img]```
@@ -30,64 +31,58 @@ Text Format
 - Underline: ```[u]```The text to apply underline.```[/u]```
 - Strikethrough: ```[s]```The text to apply strikethrough.```[/s]```
 
-See 'setPrintStyle' function to simplify the formatting.
-
 ## Output
 
-### Default Output
+| Description | Output Type |
+| ------ | ------ |
+| Returns true if the canvas was generated, returns false otherwise. | Boolean |
+
+## Callback?
+
+Display and explain the callbacks available for the function.
+
+Example below:
+
+### successCallback
+
+Explain what this callback is for?
 
 | Description | Output Type |
 | ------ | ------ |
-| If the canvas was generated. | Boolean |
+| Returns the base64 value | Object |
 
+#### Object
 
-| Description | Output Type |
-| ------ | ------ |
-| Contains the information below. | Object |
-
-```js
-    {
-        "filePath": "{This contains the url.}",
-        "fileName": "{}",
-    }
-```
-
-### Parameter Output
-
-#### yes
-
-| Description | Output Type |
-| ------ | ------ |
-| If the component was animated. | Boolean |
-
-
-| Description | Output Type |
-| ------ | ------ |
-| Contains the information below. | Object |
-
-```js
-    {
-        "filePath": "{This contains the url.}",
-        "fileName": "{}",
-    }
-```
-
-#### errorCallback
+| Key | Description | Output Type |
+| ------ | ------ | ------ |
+| filePath | The base64 value. | String |
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-Coming Soon.
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
 Coming Soon.
 
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
+
 ### Result
 
 Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

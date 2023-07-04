@@ -1,46 +1,67 @@
-# canvasToDataURL
+# canvasToDataURL?
 
-### Description
+## Description
 
-Convert the value in signature component to dataURL eg data:__[__&lt;mediatype&gt;__]__[_;base64_]_,&lt;data&gt; 
+Convert the value in a signature component to dataURL eg data:__[__&lt;mediatype&gt;__]__[_;base64_]_,&lt;data&gt; 
 
-### Input / Parameter
+## Input / Parameter
 
 | No | Name | Description | Data Type | Required | Example |
 | ------ | ------ | ------ |------ | ------ | ------ |
 | 1 | canvas | The name of signature component. | String | Yes | 
 
-### Scenario / Use Case
+## Output
 
-The user want get the value of the signature component and send to the server for processing.
+| Description | Output Type |
+| ------ | ------ |
+| Returns true if the canvas was generated, returns false otherwise. | Boolean |
 
-### Step
+## Callback?
 
-1. Find the signature component. 
+Display and explain the callbacks available for the function.
 
-    ![](../../../../document/function/App/canvasToDataURL/canvasToDataURL-step-1.png?raw=true)
-    
+Example below:
 
-2. Draw a signature component "Signature",  a button "canvasToDatURL".
+### successCallback
 
-    ![](../../../../document/function/App/canvasToDataURL/canvasToDataURL-step-2.png?raw=true)
-    
+Explain what this callback is for?
 
-3. Call the function by adding a console -> canvasToDataURL in button event.
+| Description | Output Type |
+| ------ | ------ |
+| Returns the base64 value | Object |
 
-    ![](../../../../document/function/App/canvasToDataURL/canvasToDataURL-step-3.png?raw=true)
-    
+#### Object
+
+| Key | Description | Output Type |
+| ------ | ------ | ------ |
+| filePath | The base64 value. | String |
+
+## Video
+
+Coming Soon.
+
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
+## Example
+
+<!-- Share a scenario, like a user requirements. -->
+
+### Steps
+
+Coming Soon.
+
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
+
 ### Result
 
-Return Type: String
+Coming Soon.
 
-![](../../../../document/function/App/canvasToDataURL/canvasToDataURL-result-1.png?raw=true)
+<!-- Explain the output.
 
-### Video
+Format: ![]({image-path}?raw=true) -->
 
-- N/A
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links
