@@ -1,40 +1,39 @@
 ﻿# isNumber
 
-### Description
+## Description
 
-The method determines whether the specified value is a number or not.
+Determines whether the passed value is a number.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| value | The value to be checked. | Any | - | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | value | Number | Integer | Yes  |
+| Description | Output Type |
+| ------ | ------ |
+| Returns true if value is a number otherwise false. | Boolean |
 
-### Scenario / Use Case
+## Callback
 
-The user wants to identify the value is number.
-<br>
+N/A
 
-### Step
+## Video
 
-1. Call the function.
+Coming soon.
 
-    ![](../../../../document/function/Validation/isNumber/isNumber-step-1.png?raw=true)
-    
+## Example
+
+Coming soon.
+
+### Steps
+
+Coming soon.
+
 ### Result
 
-true
+Coming soon.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links
