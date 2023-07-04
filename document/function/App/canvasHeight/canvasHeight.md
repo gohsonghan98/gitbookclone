@@ -1,71 +1,53 @@
 # canvasHeight
 
-### Description
+## Description
 
 Retrieve the height of the canvas.
 
-### Input / Parameter
+## Input / Parameter
 
 | Name | Description | Data Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| canvas | A canvas where the height is retrieved. | Canvas | - | - | No |
+| canvas | The canvas to retrieve the height of. | Canvas? | - | - | No |
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| If the canvas was generated. | Boolean |
+| Returns the height of the canvas. | Number |
 
+## Callback
 
-| Description | Output Type |
-| ------ | ------ |
-| Contains the information below. | Object |
+### successCallback
 
-```js
-    {
-        "filePath": "{This contains the url.}",
-        "fileName": "{}",
-    }
-```
-
-### Parameter Output
-
-#### yes
-
-| Description | Output Type |
-| ------ | ------ |
-| If the height of the canvas is retrieved. | Boolean |
-
-
-| Description | Output Type |
-| ------ | ------ |
-| Contains the information below. | Object |
-
-```js
-    {
-        "filePath": "{This contains the url.}",
-        "fileName": "{}",
-    }
-```
-
-#### errorCallback
+NA
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-Coming Soon.
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
 Coming Soon.
 
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
+
 ### Result
 
 Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

@@ -55,6 +55,7 @@ Example below:
 ### successCallback
 
 Explain what this callback is for?
+A successCallback is executed when a function runs successfully. It takes the result returned by the function as its parameter. ?
 
 | Description | Output Type |
 | ------ | ------ |
