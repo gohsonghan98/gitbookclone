@@ -8,7 +8,7 @@ Remove all global variables in the app.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| except | The variables that should not be deleted. | String | - | - | No |
+| except | The variables that should not be deleted. | String / Text | - | - | No |
 
 ## Output
 

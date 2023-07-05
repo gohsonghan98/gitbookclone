@@ -1,36 +1,52 @@
-# min
+# atan2
 
-### Description
+## Description
 
-Get the  measurement of the the counterclockwise angle θ, in radians, between the positive x-axis and the point (x, y).
+atan2 measures the counterclockwise angle θ, in radians, between the positive x-axis and the point (x, y). 
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| x | The x-axis value of the point (x, y). | Number | - | - | Yes |
+| y | The y-axis value of the point (x, y). | Number | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | x | X-Axis value of point | Number |  |
-| 2 | y | Y-Axis value of point | Number |  |
+| Description | Output Type |
+| ------ | ------ |
+| Returns the angle in radians. | Number |
 
-### Scenario / Use Case
+## Callback
 
-- N/A
+NA
 
-### Step
+## Video
 
-- N/A
+Coming Soon.
+
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
+## Example
+
+<!-- Share a scenario, like a user requirements. -->
+
+### Steps
+
+Coming Soon.
+
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
+<!-- Explain the output.
 
-- N/A
+Format: ![]({image-path}?raw=true) -->
 
-### Notes
-
-- N/A
+## Links

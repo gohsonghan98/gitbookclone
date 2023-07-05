@@ -1,35 +1,51 @@
-# Absolute
+# floor
 
-### Description
+## Description
 
-Rounds down and returns the largest integer less than or equal to a given number.
+Rounds down a number to the nearest whole number and returns the largest integer less than or equal to the passed number.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| value | The number to round down. | Number | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | value | Number. | Number | Yes |
+| Description | Output Type |
+| ------ | ------ |
+| Returns the round down number. | Number |
 
-### Scenario / Use Case
+## Callback
 
-- N/A
+NA
 
-### Step
+## Video
 
-- N/A
+Coming Soon.
+
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
+## Example
+
+<!-- Share a scenario, like a user requirements. -->
+
+### Steps
+
+Coming Soon.
+
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
+<!-- Explain the output.
 
-- N/A
+Format: ![]({image-path}?raw=true) -->
 
-### Notes
-
-- N/A
+## Links

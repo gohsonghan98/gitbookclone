@@ -1,35 +1,51 @@
 # pi
 
-### Description
+## Description
 
-Get static data property represents the ratio of the circumference of a circle to its diameter, approximately 3.14159.
+Get the value of pi, which is the ratio of the circumference of a circle to its diameter. The output will return approximately 3.14159.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| - | - | - | - | - | - |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-|  |  |  |  |  |
+| Description | Output Type |
+| ------ | ------ |
+| Returns the value of pi. | Number |
 
-### Scenario / Use Case
+## Callback
 
-- N/A
+NA
 
-### Step
+## Video
 
-- N/A
+Coming Soon.
+
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
+## Example
+
+<!-- Share a scenario, like a user requirements. -->
+
+### Steps
+
+Coming Soon.
+
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-- N/A
+Coming Soon.
 
-### Video
+<!-- Explain the output.
 
-- N/A
+Format: ![]({image-path}?raw=true) -->
 
-### Notes
-
-- N/A
+## Links
