@@ -1,41 +1,40 @@
-# Length
+# length
 
-### Description
+## Description
 
-Count the number of characters in the string.
+Count the total number of characters in the text.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| string | The value to be counted. | String/Text | - | - | Yes |
+| byLanguageFormat | To follow the language format. Usually this matters for languages that doesn't use alphabet. | Boolean | false | - | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | string| Characters, number and words. | String | Yes  |
+| Description | Output Type |
+| ------ | ------ |
+| Returns the total number of the characters. | Number |
 
-### Scenario / Use Case
+## Callback
 
-The user wants get the count of characters in a string. </br>
+N/A
 
-### Step
+## Video
 
-1. Call the function.
-    </br>
-    string: AAAAAA<br />
-    
-   ![](../../../../document/function/String/length/length-step-1.png?raw=true)
+Coming soon.
+
+## Example
+
+Coming soon.
+
+### Steps
+
+Coming soon.
 
 ### Result
 
-The user gets the length of the string = 6.
+Coming soon.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

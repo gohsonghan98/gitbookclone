@@ -1,44 +1,39 @@
-# findIndex
+﻿# findIndex
 
-### Description
+## Description
 
-It returns index of the first element in a given array that matches the provided search key/testing function. Otherwise -1 is returned.
+It searches for a specific element in an array and returns the index of the first occurrence of that element. If the element is not found, it returns -1.
 
-### Flowchart
+## Input / Parameter
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| string | The array/list where in the search would be done. | Array/List | - | - | Yes |
+| find | The value to find in the array/list. | Any | 10 | - | Yes |
 
-- N/A 
+## Output
 
-### Input / Parameters
+| Description | Output Type |
+| ------ | ------ |
+| Returns the index of the first occurrence and if it not found, it returns -1. | Number |
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | string | Characters, number and words. | String | Yes  |
-| 2 | find | Search key | String | Yes |
+## Callback
 
-### Scenario / Use Case
+N/A
 
-The user wants get the index of character "H" in a given string.
-<br />
+## Video
 
-### Step
+Coming soon.
 
-1. Call the function "findIndex".
-    <br />
-    string: AAABBBCDEcGH<br />
-    find: H
-    
-   ![](../../../../document/function/String/findIndex/findIndex-step-1.png?raw=true)
+## Example
+
+Coming soon.
+
+### Steps
+
+Coming soon.
 
 ### Result
 
-The user will get the index of alphabet "H" = 11.
+Coming soon.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

@@ -2,13 +2,13 @@
 
 ## Description
 
-Determines whether the passed value is an array.
+Determines whether the passed value is an array/list.
 
 ## Input / Parameter
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| value | The value to be checked. | Any | - | - | No |
+| value | The value to be checked. | Any | - | - | Yes |
 
 ## Output
 

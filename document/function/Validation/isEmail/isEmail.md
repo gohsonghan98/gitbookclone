@@ -8,7 +8,7 @@ Determines whether the passed value is an email.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| value | The value to be checked. | String | - | - | Yes |
+| value | The value to be checked. | String/Text | - | - | Yes |
 
 ## Output
 

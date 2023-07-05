@@ -1,43 +1,39 @@
-﻿# Capitalize
+﻿# capitalize
 
-### Description
+## Description
 
-Converts all the first characters to upper case.
+Converts all the first characters of the passed value to upper case.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| string | The value to be capitalized. | String/Text | - | - | Yes |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | string | Characters and words. | String | Yes |
+| Description | Output Type |
+| ------ | ------ |
+| Returns the converted value. | String/Text |
 
-### Scenario / Use Case
+## Callback
 
-The user wants to convert all the first letters to upper case.<br />
+N/A
 
-### Step
+## Video
 
-1. Call the function.
-   <br />
-    string: i am hungry<br />
+Coming soon.
 
-   ![](../../../../document/function/String/capitalize/capitalize-step-1.png?raw=true)
+## Example
+
+Coming soon.
+
+### Steps
+
+Coming soon.
 
 ### Result
 
-"I Am Hungry"
+Coming soon.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
-
-
+## Links

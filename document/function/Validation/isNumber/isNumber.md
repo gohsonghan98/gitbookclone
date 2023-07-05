@@ -1,14 +1,14 @@
 ﻿# isNumber
-
+`
 ## Description
 
 Determines whether the passed value is a number.
 
 ## Input / Parameter
 
-| Name | Description | Input Type | Default | Options | Required |
+| Name | Description | Input Type | Default | Options | Required |`
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| value | The value to be checked. | Any | - | - | No |
+| value | The value to be checked. | Any | - | - | Yes |
 
 ## Output
 
