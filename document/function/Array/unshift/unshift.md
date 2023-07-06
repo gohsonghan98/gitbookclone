@@ -8,8 +8,8 @@ Adds new elements to the beginning of an array and returns the updated array.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| var | The name of the array to add new elements to. | String/Text | - | - | Partial (Yes if no 'data'.) |
-| data | The array to add new elements to if var (name of array) is not provided. | String/Text | - | - | Partial (Yes if no 'var'.) |
+| var | The name of the array to add new elements to. The return will affect the variable. | String/Text | - | - | Partial (Yes if no 'data'.) |
+| data | The array to add new elements to.  | Array/List | - | - | Partial (Yes if no 'var'.) |
 | value | Element to be added to the array. | String/Text | - | - | Yes |
 
 ## Output
