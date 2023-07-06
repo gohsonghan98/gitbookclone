@@ -18,7 +18,7 @@ Absolute is used to return the absolute value (non-negative value) of a number. 
 
 ## Callback
 
-NA
+N/A
 
 ## Video
 
@@ -27,6 +27,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

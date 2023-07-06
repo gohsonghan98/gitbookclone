@@ -13,33 +13,42 @@ The equal to comparison operator. It checks whether two values are equal. The re
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| Returns true or false. | Boolean |
+| Returns true if both values are equal, returns false otherwise. | Boolean |
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to check if two values are equal.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function.
-   </br>
-   value1 : 11<br />
-   value2 : 11<br />
+Coming Soon.
 
-    ![](../../../../document/function/Comparation/equal/equal-step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The result that will be returned is 'true'.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links
-
-Coming Soon.

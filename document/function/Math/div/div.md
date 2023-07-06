@@ -20,7 +20,7 @@ Division of two numbers. The output will return the quotient of the two values.
 
 ## Callback
 
-NA
+N/A
 
 ## Video
 
@@ -29,6 +29,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

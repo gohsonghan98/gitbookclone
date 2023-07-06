@@ -2,7 +2,7 @@
 
 ## Description
 
-NOT operator is a Boolean operator that returns true when the operand is false, and returns false when the operand is true. Essentially, the operator reverses the logical value associated with the expression on which it operates.
+'not' operator is a Boolean operator that returns true when the operand is false, and returns false when the operand is true. Essentially, the operator reverses the logical value associated with the expression on which it operates.
 
 ## Input / Parameter
 
@@ -12,30 +12,42 @@ NOT operator is a Boolean operator that returns true when the operand is false, 
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| Returns true or false. | Boolean |
+| Returns true if operator is false, returns false otherwise. | Boolean |
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to reverse a "false" logical value and return "true".
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Add a console and call the function. Set the value to "false".<br>
-   value : false<br />
-   ![](../../../../document/function/Logical/not/not-step-1.png?raw=true)
+Coming Soon.
+
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The result that will be returned is 'true' as when it is NOT "false", the function will reverse the logical value.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links
-
-Coming Soon.

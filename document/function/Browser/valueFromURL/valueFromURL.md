@@ -8,35 +8,47 @@ Get the value of a URL parameter.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| url | The Uniform Resource Locator. | String | - | - | Yes |
-| parameter | A URL parameter whose value is set dynamically in a page's URl. | String | - | - | Yes |
+| url | The Uniform Resource Locator. | String/Text | - | - | Yes |
+| parameter | The URL parameter (whose value is set dynamically in a page's URl) to return. | String/Text | - | - | Yes |
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| The URL parameter specified. | String |
+| The URL parameter specified. | String/Text |
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to get the value of parameter "appID" in a URL. 
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function. <br>
-<b>url</b>: https://emobiq.com/edit/?appid=documentationTesting#/design <br />
-<b>parameter</b>: appid <br />
+Coming Soon.
 
-    ![](../../../../document/function/Browser/valueFromURL/valueFromURL-step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The console returns the value "documentationTesting", which is the appID for the URL.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

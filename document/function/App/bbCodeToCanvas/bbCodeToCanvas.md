@@ -8,9 +8,9 @@ Generate a canvas by following a specific format, canvas are mainly used for pri
 
 | Name | Description | Data Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| text | The text with a specific format to be drawn in the canvas. See Text Format after this table. | String | - | - | No |
-| font | The name of the font to be used. | String | monospace | monospace, ocrb | No | 
-| size | The size of the font to be used with the suffix 'px' for pixel. | String | 23px | - | No | 
+| text | The text with a specific format to be drawn in the canvas. See Text Format after this table. | String/Text | - | - | No |
+| font | The name of the font to be used. | String/Text | monospace | monospace, ocrb | No | 
+| size | The size of the font to be used with the suffix 'px' for pixel. | String/Text | 23px | - | No | 
 | canvasWidth | The width of the canvas. | Number | 576 | - | No | 
 | marginTop | The margin top value of the canvas. | Number | 0 | - | No | 
 | marginLeft | The margin left value of the canvas. | Number | 0 | - | No | 
@@ -53,7 +53,7 @@ Explain what this callback is for?
 
 | Key | Description | Output Type |
 | ------ | ------ | ------ |
-| filePath | The base64 value. | String |
+| filePath | The base64 value. | String/Text |
 
 ## Video
 
@@ -62,6 +62,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

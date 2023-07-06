@@ -13,33 +13,42 @@ The not equal to comparison operator. It checks that two values are not equal. T
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| Returns true or false. | Boolean |
+| Returns true if the two values are not equal, returns false otherwise. | Boolean |
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to check that two values are not equal.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function.
-   <br>
-   value1 : 11<br />
-   value2 : 12<br />
+Coming Soon.
 
-    ![](../../../../document/function/Comparation/notEqual/notEqual-step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The result that will be returned is 'true'.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links
-
-Coming Soon.

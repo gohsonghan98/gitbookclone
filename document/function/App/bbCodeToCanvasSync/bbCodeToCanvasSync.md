@@ -8,16 +8,17 @@ Generate a canvas by following a specific format including images, canvas are ma
 
 | Name | Description | Data Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| text | The text with a specific format to be drawn in the canvas. See text format after this table. | String | - | - | No |
-| font | The name of the font to be used. | String | monospace | monospace, ocrb | No | 
-| size | The size of the font to be used with the suffix 'px' for pixel. | String | 23px | - | No | 
+| text | The text with a specific format to be drawn in the canvas. See text format after this table. | String/Text | - | - | No |
+| font | The name of the font to be used. | String/Text | monospace | monospace, ocrb | No | 
+| size | The size of the font to be used with the suffix 'px' for pixel. | String/Text | 23px | - | No | 
 | canvasWidth | The width of the canvas. | Number | 576 | - | No | 
 | marginTop | The margin top value of the canvas. | Number | 0 | - | No | 
 | marginLeft | The margin left value of the canvas. | Number | 0 | - | No | 
 | marginRight | The margin right value of the canvas. | Number | 0 | - | No | 
 | marginBottom | The margin bottom value of the canvas. | Number | 0 | - | No | 
-<!-- | callback | When the function was triggered successfully. | Function List | - | - | No | 
-| errCallback | When the function trigger failed successfully. | Function List | - | - | No | -->
+
+<!-- | callback | When the function was triggered successfully. | Function List | - | - | No | -->
+<!-- | errCallback | When the function trigger failed successfully. | Function List | - | - | No | -->
 
 Text Format
 
@@ -55,7 +56,7 @@ Explain what this callback is for?
 
 | Key | Description | Output Type |
 | ------ | ------ | ------ |
-| filePath | The base64 value. | String |
+| filePath | The base64 value. | String/Text |
 
 ## Video
 
@@ -64,6 +65,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

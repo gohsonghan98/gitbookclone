@@ -8,94 +8,57 @@ A bar chart displays categorical data with rectangular bars. The bars can be plo
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| component | The name of the Chart component to take details from. | String | - | - | Yes |
-| componentId | The id of the Chart component to take details from. | String | - | - | No | 
-| dataCaptions | The legend for each data. | Array | - | - | No | 
-| data | The data values for each legend. | Array | - | - | Yes |
-| dataColors | The colors to be set for each legend. | Array | - | - | No |
-| xCategories | Labels for the categories on the x-axis. | Array | - | - | No |
-| yCaption | The label for the x-axis. | String | - | - | No |
-| xCaption | The label for the y-axis. | String | - | - | No |
-| barRatio | Bin width?? | Number | - | - | No |
-| showLabel | To show or hide label. | Boolean | - | - | No |
-| rotate | To display chart horizontally or vertically. | Boolean | - | - | No |
-| zoom | To zoom or not to zoom. | Boolean | - | - | No |
+| component | The name of the Chart component to take details from. | String/Text | - | - | Yes |
+| componentId | The id of the Chart component to take details from. | String/Text | - | - | No | 
+| dataCaptions | The legend for each data. | Array/List | - | - | No | 
+| data | The data values for each legend. | Array/List | - | - | Yes |
+| dataColors | The colors to be set for each legend. | Array/List | - | - | No |
+| xCategories | The labels for the categories on the x-axis. | Array/List | - | - | No |
+| yCaption | The label for the x-axis. | String/Text | - | - | No |
+| xCaption | The label for the y-axis. | String/Text | - | - | No |
+| barRatio | The percentage of the x-axis interval that the bar widths takes up. | Number | - | - | No |
+| showLabel | To show or hide label. | Boolean | false | - | No |
+| rotate | To display chart horizontally or vertically. | Boolean | false | - | No |
+| zoom | To zoom or not to zoom. | Boolean | false | - | No |
 
 ## Output
 
-### Default Output
+N/A 
 
-| Description | Output Type |
-| ------ | ------ |
-| The bar chart with details specified. | - |
+Note: The Chart component will be updated with the bar chart parameters specified.
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to create a bar chart.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function "chartPopulateBarData" and define the value for component, dataCaptions, data, xCategories, yCaption, xCaption, barRatio, showLabel, rotate and zoom.
-   <br>
-   <ul>
-   <li>component: chData</li>
-  
-   ![](../../../../document/function/Chart/chartPopulateBarData/chartPopulateBarData-step-1.png?raw=true)
-   
-   <li>dataCaptions: toArray -></li> 
-                            <ul>
-                            <li>value1: Kevin </li>
-                            <li>value2: Ann  </li>
-                            <li>value3: Audrey  </li>
-                            <li>value4: Nadine </li> 
-                            </ul>
-   
-   ![](../../../../document/function/Chart/chartPopulateBarData/chartPopulateBarData-step-2.png?raw=true)
-   
-   </li><li>data: toArray -></li> 
-                          <ul>
-                          <li>value1: toArray </li>
-                          <ul>
-                          <li>value1: 5 </li>
-                          <li>value2: 1 </li>
-                          <li>value3: 2 </li>
-                          <li>value4: 5 </li>
-                          </ul>
-                          <li>value2: ...... </li>
-                          </ul>
-  
-   ![](../../../../document/function/Chart/chartPopulateBarData/chartPopulateBarData-step-3.png?raw=true)
-   
-   <li>xCategories: toArray-></li>
-                            <ul>
-                            <li>value1: Cat A </li>
-                            <li>value2: Cat B </li>
-                            <li>value3: ... </li>
-                            </ul>
-  
-   ![](../../../../document/function/Chart/chartPopulateBarData/chartPopulateBarData-step-4.png?raw=true)
-   
-   <li>yCaption: Grade</li>
-   <li>xCaption: Categories</li>
-   <li>barRatio: 0.2</li>
-   <li>showLabel: true</li>
-   <li>rotate: true</li>
-   <li>zoom: true</li>
-   
-   ![](../../../../document/function/Chart/chartPopulateBarData/chartPopulateBarData-step-5.png?raw=true)
-  
-   ![](../../../../document/function/Chart/chartPopulateBarData/chartPopulateBarData-step-6.png?raw=true)
+Coming Soon.
+
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The bar chart with the details specified by the user will be returned.
+Coming Soon.
 
- ![](../../../../document/function/Chart/chartPopulateBarData/chartPopulateBarData-result-1.png?raw=true)
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links
-
-Coming Soon.

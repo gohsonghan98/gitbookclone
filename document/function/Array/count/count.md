@@ -1,47 +1,53 @@
-﻿# Count
+﻿# count
 
 ## Description
 
-Count the number of elements in an array.
+Counts the number of elements in an array. An array can be created using the toArray function.
 
 ## Input / Parameter
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| values | The array of values. | Array | - | - | Yes |
+| values | The array of values. | Array/List | - | - | Yes |
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| The total number of elements in the array. | Number |
+| Returns the total number of elements in the array. | Number |
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to count all the elements in an array.
+Coming Soon.
 
-### Steps (**not updated)
+<!-- Share a scenario, like a user requirements. -->
 
-1. Call the function "count".
+### Steps
 
-     ![](../../../../document/function/Array/Count/count-step-1.png?raw=true)
-     
-2. Call the function "toArray" and define the value of array.<br>
-   value1  : 2<br />
-   value2  : 1<br />
-   value3  : 1<br />
-   value4  : 1<br />
+Coming Soon.
 
-     ![](../../../../document/function/Array/count/count-step-2.png?raw=true)
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The total number of elements in the array will be returned. In this case, the returned value will be 4.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

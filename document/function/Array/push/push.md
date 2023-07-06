@@ -1,65 +1,54 @@
-# Push
+# push
 
 ## Description
 
-Add a new value to an array.
+Adds a new value to an array. An array has to be created using the newArray function first, before using the push function to add values to the array.
 
 ## Input / Parameter
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| var | The name of the array. | String | - | - | Yes |
-| value | The value to be added to the array. | String | - | - | Yes |
+| var | The name of the array to add a new value to. | String/Text | - | - | Yes |
+| value | The value to be added to the array. | String/Text | - | - | Yes |
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| The updated array of values. | Object |
+| The updated array of values. | Array/List |
 
-```js
-    {
-        "filePath": "{filePath}"
-    }
-```
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to add a new value to the array.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function "newArray" and set the variable name.
-   </br>
-   var: listOfFruits<br />
+Coming Soon.
 
-    ![](../../../../document/function/Array/push/push-step-1.png?raw=true)
-    
-2. Call the function "push" and define the value.<br>
-   value: mango
-    
-   ![](../../../../document/function/Array/push/push-step-2.png?raw=true)
+<!-- Show the steps and share some screenshots.
 
-3. Call the function "push" and define the value.<br>
-   value: jackfruits
-    
-    ![](../../../../document/function/Array/push/push-step-3.png?raw=true)
-   
-4. Add a console and call the function "getVar" to view the values in "listOfFruits" array.<br>
-   value = getVar = listOfFruits
-   
-    ![](../../../../document/function/Array/push/push-step-4.png?raw=true)
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The values "mango" and "jackfruits" are added to the array successfully.
+Coming Soon.
 
-![](../../../../document/function/Array/push/push-result-1.png?raw=true)
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

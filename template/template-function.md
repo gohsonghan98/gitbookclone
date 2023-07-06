@@ -12,10 +12,10 @@ Example below:
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| component | The name of the component. | String | - | - | Partial (Yes if no 'componentId'.) |
-| componentId | The id of the component. | String | - | - | Partial (Yes if no 'component'.) |
-| text | The text with a specific format to be drawn in the canvas. See Text Format after this table. | String | - | - | No |
-| font | The name of the font to be used. | String | monospace | monospace, ocrb | No | 
+| component | The name of the component. | String/Text | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | The id of the component. | String/Text | - | - | Partial (Yes if no 'component'.) |
+| text | The text with a specific format to be drawn in the canvas. See Text Format after this table. | String/Text | - | - | No |
+| font | The name of the font to be used. | String/Text | monospace | monospace, ocrb | No | 
 | canvasWidth | The width of the canvas. | Number | 576 | - | No | 
 
 Text Format
@@ -44,7 +44,7 @@ Example below:
 
 | Key | Description | Output Type |
 | ------ | ------ | ------ |
-| filePath | The base64 value. | String |
+| filePath | The base64 value. | String/Text |
 
 ## Callback
 
@@ -55,7 +55,7 @@ Example below:
 ### successCallback
 
 Explain what this callback is for?
-A successCallback is executed when a function runs successfully. It takes the result returned by the function as its parameter. ?
+<!-- A successCallback is executed when a function runs successfully. It takes the result returned by the function as its parameter. ? -->
 
 | Description | Output Type |
 | ------ | ------ |
@@ -65,7 +65,7 @@ A successCallback is executed when a function runs successfully. It takes the re
 
 | Key | Description | Output Type |
 | ------ | ------ | ------ |
-| filePath | The base64 value. | String |
+| filePath | The base64 value. | String/Text |
 
 ## Video
 

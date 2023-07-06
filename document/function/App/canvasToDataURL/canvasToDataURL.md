@@ -8,33 +8,17 @@ Convert the value in a signature component to dataURL eg data:__[__&lt;mediatype
 
 | No | Name | Description | Data Type | Required | Example |
 | ------ | ------ | ------ |------ | ------ | ------ |
-| 1 | canvas | The name of signature component. | String | Yes | 
+| 1 | canvas | The name of signature component. | String/Text | Yes | 
 
 ## Output
 
 | Description | Output Type |
 | ------ | ------ |
-| Returns true if the canvas was generated, returns false otherwise. | Boolean |
+| Returns true if the canvas was converted, returns false otherwise. | Boolean |
 
-## Callback?
+## Callback
 
-Display and explain the callbacks available for the function.
-
-Example below:
-
-### successCallback
-
-Explain what this callback is for?
-
-| Description | Output Type |
-| ------ | ------ |
-| Returns the base64 value | Object |
-
-#### Object
-
-| Key | Description | Output Type |
-| ------ | ------ | ------ |
-| filePath | The base64 value. | String |
+N/A
 
 ## Video
 
@@ -43,6 +27,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

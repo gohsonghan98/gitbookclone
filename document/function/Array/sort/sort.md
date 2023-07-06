@@ -8,7 +8,7 @@ Sort the values in an array in descending order.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| values | An array of values. | String | - | - | Yes |
+| values | The array of values to sort. | Array/List | - | - | Yes |
 
 ## Output
 
@@ -16,38 +16,40 @@ Sort the values in an array in descending order.
 
 | Description | Output Type |
 | ------ | ------ |
-| The array sorted in descending order. | Object |
+| The array sorted in descending order. | Array/List |
 
-```js
-    {
-        "filePath": "{filePath}"
-    }
-```
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to sort the values inside an array in descending order.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function "sort"
+Coming Soon.
 
-    ![](../../../../document/function/Array/sort/sort-step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
 
-2. Define the value of array</br>
-    value1  : 1<br />
-    value2  : 2<br />
-    value3  : 3<br />
-    value4  : 3<br />
+1. .....
 
-    ![](../../../../document/function/Array/sort/sort-step-2.png?raw=true)
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-![](../../../../document/function/Array/sort/sort-result-1.png?raw=true)
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

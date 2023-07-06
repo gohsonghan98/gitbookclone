@@ -18,7 +18,7 @@ Get the sine of an angle, in radians. The output will return a number between -1
 
 ## Callback
 
-NA
+N/A
 
 ## Video
 
@@ -27,6 +27,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

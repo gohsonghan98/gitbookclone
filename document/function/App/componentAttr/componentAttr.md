@@ -8,46 +8,50 @@ Get the attribute of a component, such as its name, dimensions etc.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| component | The name of the component to get attribute from | String | - | - | Partial (Yes if no 'componentId'.) |
-| componentId | The id of the component to get attribute from | Stirng | - | - | Partial (Yes if no 'component'.) |
-| attr | The attribute of the component | String | - | - | Yes |
+| component | The name of the component to get attribute from | String/Text | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | The id of the component to get attribute from | String/Text | - | - | Partial (Yes if no 'component'.) |
+| attr | The attribute of the component | String/Text | - | - | Yes |
 
 __\* Note:__ Either component or componentId must have value in order for this function to work.
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| The attribute to be obtained. | String |
+| The attribute to be obtained. | String/Text |
 
-### Parameter Output: {parameter-name}
+## Callback
 
-The parameter output of the function.
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to get the width attribute value of a button component.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Draw a button component "btnComponentAttr"
+Coming Soon.
 
-    ![](../../../../document/function/App/componentAttr/componentAttr-step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
 
-2. In button click event, add a "console" then a "componentAttr" function.
+1. .....
 
-    ![](../../../../document/function/App/componentAttr/componentAttr-step-2.png?raw=true)
-
-![]({image-path}?raw=true)
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The width value of button will be displayed, such as 164px.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

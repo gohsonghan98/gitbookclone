@@ -18,9 +18,7 @@ Retrieve the height of the canvas.
 
 ## Callback
 
-### successCallback
-
-NA
+N/A
 
 ## Video
 
@@ -29,6 +27,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

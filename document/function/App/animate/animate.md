@@ -8,9 +8,9 @@ An animation lets a component gradually change from one style to another.
 
 | Name | Description | Data Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| component | The name of the component to animate. | String | - | - | Partial (Yes if no 'componentId'.) |
-| componentId | The id of the component to animate. | String | - | - | Partial (Yes if no 'component'.) | 
-| type | Not applicable for now. | String | - | - | No | 
+| component | The name of the component to animate. | String/Text | - | - | Partial (Yes if no 'componentId'.) |
+| componentId | The id of the component to animate. | String/Text | - | - | Partial (Yes if no 'component'.) | 
+| type | Not applicable for now. | String/Text | - | - | No | 
 | startPositionY | Starting y-axis position of the animation. | Number | 0 | - | No | 
 | endPositionY | Ending y-axis position of the animation. | Number | 0 | - | No | 
 | rotationDegree | Rotation degree of the animation. | Number | 0 | - | No | 
@@ -23,23 +23,7 @@ An animation lets a component gradually change from one style to another.
 
 ## Callback?
 
-Display and explain the callbacks available for the function.
-
-Example below:
-
-### successCallback
-
-Explain what this callback is for?
-
-| Description | Output Type |
-| ------ | ------ |
-| Returns the base64 value | Object |
-
-#### Object
-
-| Key | Description | Output Type |
-| ------ | ------ | ------ |
-| filePath | The base64 value. | String |
+N/A
 
 ## Video
 
@@ -48,6 +32,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

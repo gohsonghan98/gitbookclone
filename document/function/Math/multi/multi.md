@@ -19,7 +19,7 @@ Multiplication of two numbers. The output will return the product of the two num
 
 ## Callback
 
-NA
+N/A
 
 ## Video
 
@@ -28,6 +28,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

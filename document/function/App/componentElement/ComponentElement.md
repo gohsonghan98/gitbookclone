@@ -1,5 +1,4 @@
-# Component Element
-
+# componentElement
 
 ## Description
 
@@ -9,8 +8,8 @@ Retrieve HTML code for a selected component for developer's reference.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| component | The name of the component to retrieve HTML code from. | String | - | - | Yes |
-| componentId | The id of the component to retrieve HTML code from. | String | - | - | No |
+| component | The name of the component to retrieve HTML code from. | String/Text | - | - | Yes |
+| componentId | The id of the component to retrieve HTML code from. | String/Text | - | - | No |
 
 ## Output
 
@@ -18,35 +17,40 @@ Retrieve HTML code for a selected component for developer's reference.
 
 | Description | Output Type |
 | ------ | ------ |
-| The HTML code of the selected component. | String |
+| The HTML code of the selected component. | String/Text |
 
-### Parameter Output: {parameter-name}
+## Callback
 
-The parameter output of the function.
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to identify the HTML code for a component, such as a button.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call Function "Console"
-2. Call Function "ComponentElement"
+Coming Soon.
 
-     ![](../../../../document/function/App/componentElement/componentElement-Step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
 
-3. Fill up the input parameters
+1. .....
 
-	![](../../../../document/function/App/componentElement/componentElement-Step-2.png?raw=true)
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The HTML code can be seen in the console of the web browser.
+Coming Soon.
 
-![](../../../../document/function/App/componentElement/componentElement-Results-1.png?raw=true)
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

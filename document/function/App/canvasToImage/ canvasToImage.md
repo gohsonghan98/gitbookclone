@@ -8,8 +8,8 @@ Convert the value in a canvas to an image component.
 
 | No | Name | Description | Data Type | Required | 
 | ------ | ------ | ------ |------ | ------ | 
-| 1 | canvas | The name of the canvas. | String | Yes | 
-| 2 | image | The name of the image component to convert the canvas to. | String | Yes | 
+| 1 | canvas | The name of the canvas. | String/Text | Yes | 
+| 2 | image | The name of the image component to convert the canvas to. | String/Text | Yes | 
 
 ## Output
 
@@ -19,9 +19,7 @@ Convert the value in a canvas to an image component.
 
 ## Callback
 
-### successCallback
-
-NA
+N/A
 
 ## Video
 
@@ -30,6 +28,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

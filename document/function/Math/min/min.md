@@ -8,7 +8,7 @@ Returns the smallest value of the numbers in the passed array.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| value | The array of values to return the smallest value from. | Array / List | - | - | Yes |
+| value | The array of values to return the smallest value from. | Array/List | - | - | Yes |
 
 ## Output
 
@@ -18,7 +18,7 @@ Returns the smallest value of the numbers in the passed array.
 
 ## Callback
 
-NA
+N/A
 
 ## Video
 
@@ -27,6 +27,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-AND operator is a boolean operator that returns true if both operands are true and returns false otherwise. 
+'and' operator is a boolean operator that returns true if both operands are true and returns false otherwise. 
 
 ## Input / Parameter
 
@@ -13,33 +13,42 @@ AND operator is a boolean operator that returns true if both operands are true a
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| Returns true or false. | Boolean |
+| Returns true if both operators are true, returns false otherwise. | Boolean |
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to check if two values are true.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function.
-    </br>
-    value1 : greater (value1:  3000 and value2:  1100)<br />
-    value2 : true<br />
+Coming Soon.
 
-    ![](../../../../document/function/Logical/and/and-step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The result that will be returned is 'true'. Since 3000 is greater than 1100, value1 will return true. The result will return true because both arguments are true.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links
-
-Coming Soon.

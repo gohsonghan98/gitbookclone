@@ -18,7 +18,7 @@ A squared number is the result of a number raised to the power of 2, or a number
 
 ## Callback
 
-NA
+N/A
 
 ## Video
 
@@ -27,6 +27,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

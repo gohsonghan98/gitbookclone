@@ -6,9 +6,7 @@ Get the value of pi, which is the ratio of the circumference of a circle to its 
 
 ## Input / Parameter
 
-| Name | Description | Input Type | Default | Options | Required |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| - | - | - | - | - | - |
+N/A
 
 ## Output
 
@@ -18,7 +16,7 @@ Get the value of pi, which is the ratio of the circumference of a circle to its 
 
 ## Callback
 
-NA
+N/A
 
 ## Video
 
@@ -27,6 +25,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

@@ -8,36 +8,52 @@ Create a new object.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| var | The string of data required to create an object. | String | - | - | Yes |
+| var | The name of the empty object. | String/Text | - | - | Yes |
 
-## Output
+## Output?
 
-### Default Output
+N/A
 
-| Description | Output Type |
-| ------ | ------ |
-| The new object created. | Object |
+Note: This stores an empty object in a new variable.
 
-```js
-    {
-        "filePath": "{filePath}"
-    }
-```
+### Object
+
+| Key | Description | Output Type |
+| ------ | ------ | ------ |
+| filePath | The base64 value. | String |
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to create a new object.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
 Coming Soon.
 
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
+
 ### Result
 
 Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

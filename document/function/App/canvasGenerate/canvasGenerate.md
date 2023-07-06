@@ -8,12 +8,13 @@ Generate a new canvas based on an existing canvas, canvas are mainly used for pr
 
 | Name | Description | Data Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| canvas | An existing canvas to be copied over to the new canvas. | Canvas | - | - | No |
+| canvas | An existing canvas to be copied over to the new canvas. | Canvas? | - | - | No |
 | canvasWidth | Width of the new canvas. | Number | 300 | - | No | 
 | canvasHeight | Height of the new canvas. | Number | 300 | - | No | 
 | extra | Additional data to be used in the callbacks. | Any | - | - | No | 
-<!-- | callback | When the function was triggered successfully. | Function List | - | - | No | 
-| errCallback | When the function trigger failed successfully. | Function List | - | - | No | -->
+
+<!-- | callback | When the function was triggered successfully. | Function List | - | - | No | -->
+<!-- | errCallback | When the function trigger failed successfully. | Function List | - | - | No | -->
 
 ## Output
 
@@ -39,7 +40,7 @@ Explain what this callback is for?
 
 | Key | Description | Output Type |
 | ------ | ------ | ------ |
-| filePath | The base64 value. | String |
+| filePath | The base64 value. | String/Text |
 
 ## Video
 
@@ -48,6 +49,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

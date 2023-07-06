@@ -2,50 +2,52 @@
 
 ## Description
 
-Create a new array.
+Creates an empty array.
 
 ## Input / Parameter
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| var | The name of the new array. | String | - | - | Yes |
+| var | The name of the new array. | String/Text | - | - | Yes |
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| Returns the new array. | Object? |
+| Returns the new empty array. | Array/List |
 
-```js
-    {
-        "filePath": "{filePath}"
-    }
-```
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to create a new array.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
+
 ### Steps
 
-1. Call the function"newArray" and set the variable name.<br>
-   var: listOfFruits<br />
-    
-    ![](../../../../document/function/Array/newArray/newArray-step-1.png?raw=true)
-    
-2. Add a console and call the function "getVar"
+Coming Soon.
 
-    ![](../../../../document/function/Array/newArray/newArray-step-2.png?raw=true)
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-User create a new array successfully.<br>
+Coming Soon.
 
-![](../../../../document/function/Array/newArray/newArray-result-1.png?raw=true)
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

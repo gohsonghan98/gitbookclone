@@ -8,49 +8,50 @@ A gauge chart, also known as dial chart or speedometer chart, uses a single need
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| component | The name of the Chart component to take details from. | String | - | - | Yes |
-| componentId | The id of the Chart component to take details from. | String | - | - | No | 
+| component | The name of the Chart component to take details from. | String/Text | - | - | Yes |
+| componentId | The id of the Chart component to take details from. | String/Text | - | - | No | 
 | height | The height of the chart. | Number | - | - | No |
-| dataCaptions | The legend for each data. | Array | - | - | No | 
-| data | The data values for each legend. | Array | - | - | Yes |
+| dataCaptions | The legend for each data. | Array/List | - | - | No | 
+| data | The data values for each legend. | Array/List | - | - | Yes |
 
 ## Output
 
-### Default Output
+N/A
 
-| Description | Output Type |
-| ------ | ------ |
-| The gauge chart with details specified. | - |
+Note: The Chart component will be updated with the gauge chart parameters specified.
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to create a gauge chart.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function "chartPopulateGaugeData" and define the value for component, height, dataCaptions, and data. 
-   <br>
-   <ul>
-   <li>component: chData</li>
-   <li>height: 200</li>
-   <li>dataCaptions: Speed</li>
-  
-   ![](../../../../document/function/Chart/chartPopulateGaugeData/chartPopulateGaugeData-step-1.png?raw=true)
-   
-   <li>data: 50</li>
-   
-   ![](../../../../document/function/Chart/chartPopulateGaugeData/chartPopulateGaugeData-step-2.png?raw=true)
+Coming Soon.
+
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The gauge chart with the details specified by the user will be returned.
+Coming Soon.
 
- ![](../../../../document/function/Chart/chartPopulateGaugeData/chartPopulateGaugeData-result-1.png?raw=true)
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links
-
-Coming Soon.

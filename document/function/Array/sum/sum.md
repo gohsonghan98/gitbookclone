@@ -2,47 +2,52 @@
 
 ## Description
 
-Get the sum of all the values in an array.
+Get the sum of all the values in an array. An array can be created using the toArray function.
 
 ## Input / Parameter
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| values | An array of values. | Array | - | - | Yes |
+| values | An array of values. | Array/List | - | - | Yes |
 
 ## Output
-
-### Default Output
 
 | Description | Output Type |
 | ------ | ------ |
 | The total value of all the values in the array. | Number |
 
+## Callback
+
+N/A
+
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to sum all the values inside the array and get the total value.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function "sum"
+Coming Soon.
 
-    ![](../../../../document/function/Array/sum/sum-step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
 
-2. Call the function"toArray" and set the value.
-   </br>
-   value1  : 11<br />
-   value2  : 21<br />
-   value3  : 11<br />
-   value4  : 11<br />
+1. .....
 
-   ![](../../../../document/function/Array/sum/sum-step-2.png?raw=true)
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The total value of all the values in the array is returned. In this example, the total value returned is 54.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

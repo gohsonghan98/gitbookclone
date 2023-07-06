@@ -2,38 +2,52 @@
 
 ## Description
 
-Get the average value of all the elemnents in an array.
+Get the average value of all the elemnents in an array. An array can be created using the toArray function.
 
 ## Input / Parameter
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| values | An array of values. | Array | - | - | Yes |
+| values | An array of values. | Array/List | - | - | Yes |
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| The average value of the elements in the array. | Number |
+| Returns the average value of the elements in the array. | Number |
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to get the average value of an array with multiple values.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function.
+Coming Soon.
 
-    ![](../../../../document/function/Array/avg/avg-step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The average value of all the elements in the array will be returned. In this example, the average value returned is 10.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links

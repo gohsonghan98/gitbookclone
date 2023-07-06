@@ -19,7 +19,7 @@ Substract two numbers. The output will return the difference between the two val
 
 ## Callback
 
-NA
+N/A
 
 ## Video
 
@@ -28,6 +28,8 @@ Coming Soon.
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
+
+Coming Soon.
 
 <!-- Share a scenario, like a user requirements. -->
 

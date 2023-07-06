@@ -13,33 +13,42 @@ The equal to or greater than comparison operator. It checks whether the first va
 
 ## Output
 
-### Default Output
-
 | Description | Output Type |
 | ------ | ------ |
-| Returns true or false. | Boolean |
+| Returns true if the first value is greater than or equal to the second value, returns false otherwise. | Boolean |
+
+## Callback
+
+N/A
 
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
 
-The user wants to check if a value is greater than or equal to another value.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-1. Call the function.
-   </br>
-   value1 : 15<br />
-   value2 : 13<br />
+Coming Soon.
 
-   ![](../../../../document/function/Comparation/equalOrGreater/equalOrGreater-step-1.png?raw=true)
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-The result that will be returned is 'true'.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links
-
-Coming Soon.

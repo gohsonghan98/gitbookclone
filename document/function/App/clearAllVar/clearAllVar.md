@@ -8,34 +8,46 @@ Remove all global variables in the app.
 
 | Name | Description | Input Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| except | The variables that should not be deleted. | String / Text | - | - | No |
+| except | The variables that should not be deleted. | String/Text | - | - | No |
 
 ## Output
-
-### Default Output
 
 | Description | Output Type |
 | ------ | ------ |
 | Checks whether all the global variables have been deleted. | Boolean |
 
+## Callback
+
+N/A
+
 ## Video
 
 Coming Soon.
 
+<!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
+
 ## Example
-
-The user wants to remove all global variables in the app.
-
-### Steps
-
-1. Call the function.
-
-    ![](../../../../document/function/App/clearAllVar/clearAllVar-step-1.png?raw=true)
 
 Coming Soon.
 
+<!-- Share a scenario, like a user requirements. -->
+
+### Steps
+
+Coming Soon.
+
+<!-- Show the steps and share some screenshots.
+
+1. .....
+
+Format: ![]({image-path}?raw=true) -->
+
 ### Result
 
-All global variables have been removed.
+Coming Soon.
+
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links
