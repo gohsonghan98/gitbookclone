@@ -1,43 +1,41 @@
 # dbDate
 
-### Description
+## Description
 
-Get the current date.
+Retrieves the current date and enable adding a specific duration or increment to a date.
 
-### Flowchart
+## Input / Parameter
+    
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| withTime | To include time in the result. | Boolean | false | - | Yes |
+| add | The duration to be added in the current date. | Number | 0 | - | No |
+| type | The duration type of 'add'. | String/Text | days | days, hours, minutes, seconds  | No |
 
-- N/A 
+## Output   
 
-### Input / Parameters
+| Description | Output Type |
+| ------ | ------ |
+| Returns the current/modified date. | String/Text |
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | withTime | True or false. | Boolean | No | 
-| 2 | add | Number of days | Integer | No |
+## Callback
 
-### Scenario / Use Case
+N/A
 
-User want to get the current date.
-</br>
+## Video
 
-### Step
+Coming soon.
 
-1. Call the function.
-    </br>
-    withTime : true <br />
+## Example
 
-    ![](../../../../document/function/Object/dbDate/dbDate-step-1.png?raw=true)
+Coming soon.
+
+### Steps
+
+Coming soon.
 
 ### Result
 
-2018-08-24 15:40:38
+Coming soon.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

@@ -1,44 +1,41 @@
 # addDate
 
-### Description
+## Description
 
-Add days to the specific date.
+Adding a specific duration or increment to a date, resulting in a new date value.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| date | The date to be modified. | String/Text | (Current-Date) | - | Yes |
+| add | The duration to be added. | Number | 0 | - | Yes |
+| type | The duration type of 'add'. | String/Text | days | days, hours, minutes, seconds | No |
 
-### Input / Parameters
+## Output
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | date | A date value. | Date | Yes | 
-| 2 | add | Number of days | Number | Yes |
+| Description | Output Type |
+| ------ | ------ |
+| Returns the modified date. | String/Text |
 
-### Scenario / Use Case
+## Callback
 
-The user want to add days to the specific date.
-</br>
+N/A
 
-### Step
+## Video
 
-1. Call the function.
-   </br>
-   date: 2018/08/20<br />
-   add : 4<br />
+Coming soon.
 
-    ![](../../../../document/function/Object/addDate/addDate-step-1.png?raw=true)
+## Example
+
+Coming soon.
+
+### Steps
+
+Coming soon.
 
 ### Result
 
-2018-08-24
+Coming soon.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

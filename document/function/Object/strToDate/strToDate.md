@@ -1,41 +1,41 @@
 ﻿# strToDate
 
-### Description
+## Description
 
-Convert a date string to a DateTime value.
+Display a date in a full text description.
 
-### Flowchart
+E.g. Thu Jul 06 2023 18:35:58 GMT+0800 (Singapore Standard Time)
 
-- N/A 
+## Input / Parameter
+    
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| date | The date be displayed in full text. | String/Text | (Current-Date) | - | Yes |
 
-### Input / Parameters
+## Output   
 
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | date | A date value. | Date | Yes  |
+| Description | Output Type |
+| ------ | ------ |
+| Returns the full text of the date. | String/Text |
 
-### Scenario / Use Case
+## Callback
 
-The user wants to convert date string to DateTime.
-</br>
-date : 2018-04-12<br />
+N/A
 
-### Step
+## Video
 
-1. Call the function.
+Coming soon.
 
-    ![](../../../../document/function/Object/strToDate/strToDate-step-1.png?raw=true)
+## Example
+
+Coming soon.
+
+### Steps
+
+Coming soon.
 
 ### Result
 
-![](../../../../document/function/Object/strToDate/strToDate-result-1.png?raw=true)
+Coming soon.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

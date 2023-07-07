@@ -1,47 +1,41 @@
 ﻿# toObject
 
-### Description
+## Description
 
-Create an object data.
+Create an object of the passed data.
 
-### Flowchart
+## Input / Parameter
 
-- N/A 
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| {Dynamic} | {Based on user inputs.} | Any | - | - | No |
 
-### Input / Parameters
+Note: Dynamic input means that user can generate the necessary input required and assign a value in it as well. 
 
-- N/A
+## Output   
 
-### Scenario / Use Case
+| Description | Output Type |
+| ------ | ------ |
+| Returns the created object with the passed data. | Object |
 
-The user wants to create an object data.
+## Callback
 
-### Step
+N/A
 
-1. Call the function "toObject".
-  
-    ![](../../../../document/function/Object/toObject/toObject-step-1.png?raw=true)
-  
-2. Add a key.<br>
-   Key : name <br />
-  
-    ![](../../../../document/function/Object/toObject/toObject-step-2.png?raw=true)
- 
-3. Defines the values.<br>
-    name : Lili
-    
-    ![](../../../../document/function/Object/toObject/toObject-step-3.png?raw=true)
+## Video
+
+Coming soon.
+
+## Example
+
+Coming soon.
+
+### Steps
+
+Coming soon.
 
 ### Result
 
-![](../../../../document/function/Object/toObject/toObject-result-1.png?raw=true)
+Coming soon.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links

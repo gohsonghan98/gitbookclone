@@ -1,50 +1,40 @@
 ﻿# objectAttr
 
-### Description
+## Description
 
-Get the attribute value of an object.
+Get the attribute/property value of an object.
 
-### Flowchart
-
-- N/A 
-
-### Input / Parameters
-
-| No | Name | Description | Data Type | Required |
-| ------ | ------ | ------ |------ | ------ |
-| 1 | object | The object. | Object | Yes |
-| 2 | attr | The name of the attribute. | Number | Yes |
-
-### Scenario / Use Case
-
-The user wants to get the attribute value of an object.
-
-### Step
-
-1. Call the function "objectAttr" 
-
-    ![](../../../../document/function/Object/objectAttr/objectAttr-step-1.png?raw=true)
-
-2. Call the function "toObject", set the value          for attribute and define the value for age,          tel & name.
-   <br> attr:name<br>
-   age: 34<br>
-   tel: 222222<br>
-   name: Lili<br/>
-
-   ![](../../../../document/function/Object/objectAttr/objectAttr-step-2.png?raw=true)
+## Input / Parameter
     
-   ![](../../../../document/function/Object/objectAttr/objectAttr-step-3.png?raw=true)
-    
+| Name | Description | Input Type | Default | Options | Required |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| object | The object to get the attribute. | Object | - | - | Yes |
+| attr | The name of the attribute to be retrieved. | String/Text | - | - | Yes |
+
+## Output   
+
+| Description | Output Type |
+| ------ | ------ |
+| Returns the selected attribute value of the object. | Any |
+
+## Callback
+
+N/A
+
+## Video
+
+Coming soon.
+
+## Example
+
+Coming soon.
+
+### Steps
+
+Coming soon.
+
 ### Result
 
-Lili
+Coming soon.
 
-### Video
-
-- N/A
-
-<!--[![Video](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s)-->
-
-### Notes
-
-- N/A
+## Links
