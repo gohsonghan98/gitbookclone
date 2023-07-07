@@ -1,50 +1,24 @@
-# Documentation - Format
+# Documentation
 
--
+This contains all the **offical documentation** for eMOBIQ platform.
 
-### Templates
+- [Important Notes](#markdown-header-important-notes)
+- [Contents](#markdown-header-contents)
 
-Contains the format of the different md files for the documentation.
+---
 
-[See - Template Function](template/template-function.md)
+## Important Notes
 
-### Guidelines (Important)
-- Embedding Images - The path should be based on the root folder.
+- Currently it is not yet fully completed, we'll keep updating this documentation.
 
-### Folder Structure
+---
 
-Legend
+## Contents
 
-- ()   : Description
-- {}   : Parameter
-- N    : Number
-- ...  : Future Plans
+- User Manual
+    - Action and Logic Tree
+        - [Action Reference](document/user-manual/actions-and-logic-tree/action-reference) : This contains all the function reference.
+    - [Platform Interface Reference](document/user-manual/platform-interface-reference/main.md) : This contains the platform user interface reference.
+    - [UI Components](document/user-manual/ui-components) : This contains all the component reference.
 
-```
-├── template (Document structure)
-    └── template-{type}.md
-└── document (Documentation)
-    ├── function
-    │   └── {function-group}
-    │       └── {function-name} 
-    │           ├── {function-name}.md
-    │           ├── {function-name}-{type}-{N}.png
-    │           └── {function-name}.vsdx
-    ├── ...
-    └── ...
-```
-
-### Tools
-
-Online Markdown Editor: [https://dillinger.io/](https://dillinger.io/)
-
-Online Diagram Editor: [https://www.draw.io/](https://www.draw.io/)
-
-### Notes
-
-- Main file video storage would be stored in this link [One Drive][One Drive Link] under the **'Videos'** folder, it's also following the naming convention similar to our folder structure.
-- All video links would be redirected in this [YouTube][YouTube Link] channel.
-
-[One Drive Link]: <https://mscconsulting-my.sharepoint.com/:f:/g/personal/kevin_orangekloud_com/EqsSA77l559GshRRN1EyadkBlBX4OAXWBEfplMFyIRcsHQ>
-
-[YouTube Link]: <https://www.youtube.com/channel/UCQGKn9kDzXdbVed8uPOzasQ>
+---
