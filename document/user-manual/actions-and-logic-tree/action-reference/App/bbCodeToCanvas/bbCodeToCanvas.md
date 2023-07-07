@@ -1,22 +1,21 @@
-# Function Name
+# bbCodeToCanvas
 
 ## Description
 
-Explains the function. What it does and what is it used for?
+Generate a canvas by following a specific format, canvas are mainly used for printing.
 
 ## Input / Parameter
 
-Display and explain the values passed to the function in a table form.
-
-Example below:
-
-| Name | Description | Input Type | Default | Options | Required |
+| Name | Description | Data Type | Default | Options | Required |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| component | The name of the component. | String/Text | - | - | Partial (Yes if no 'componentId'.) |
-| componentId | The id of the component. | String/Text | - | - | Partial (Yes if no 'component'.) |
 | text | The text with a specific format to be drawn in the canvas. See Text Format after this table. | String/Text | - | - | No |
 | font | The name of the font to be used. | String/Text | monospace | monospace, ocrb | No | 
+| size | The size of the font to be used with the suffix 'px' for pixel. | String/Text | 23px | - | No | 
 | canvasWidth | The width of the canvas. | Number | 576 | - | No | 
+| marginTop | The margin top value of the canvas. | Number | 0 | - | No | 
+| marginLeft | The margin left value of the canvas. | Number | 0 | - | No | 
+| marginRight | The margin right value of the canvas. | Number | 0 | - | No | 
+| marginBottom | The margin bottom value of the canvas. | Number | 0 | - | No | 
 
 Text Format
 
@@ -32,21 +31,11 @@ Text Format
 
 ## Output
 
-Display and explain the output of the function.
-
-Example below:
-
 | Description | Output Type |
 | ------ | ------ |
-| Returns the base64 value | Object |
+| Returns true if the canvas was generated, returns false otherwise. | Boolean |
 
-### Object
-
-| Key | Description | Output Type |
-| ------ | ------ | ------ |
-| filePath | The base64 value. | String/Text |
-
-## Callback
+## Callback?
 
 Display and explain the callbacks available for the function.
 
@@ -55,7 +44,6 @@ Example below:
 ### successCallback
 
 Explain what this callback is for?
-<!-- A successCallback is executed when a function runs successfully. It takes the result returned by the function as its parameter. ? -->
 
 | Description | Output Type |
 | ------ | ------ |
@@ -69,28 +57,32 @@ Explain what this callback is for?
 
 ## Video
 
+Coming Soon.
+
 <!-- Format: [![Video]({image-path}?raw=true)]({url-link}) -->
 
 ## Example
 
-Share a scenario, like a user requirements.
+Coming Soon.
+
+<!-- Share a scenario, like a user requirements. -->
 
 ### Steps
 
-Show the steps and share some screenshots.
+Coming Soon.
+
+<!-- Show the steps and share some screenshots.
 
 1. .....
 
-<!-- Format: ![]({image-path}?raw=true) -->
+Format: ![]({image-path}?raw=true) -->
 
 ### Result
 
-Explain the output.
+Coming Soon.
 
-<!-- Format: ![]({image-path}?raw=true) -->
+<!-- Explain the output.
+
+Format: ![]({image-path}?raw=true) -->
 
 ## Links
-
-Additional information through links.
-
-- [E-Learing]({url-link})
