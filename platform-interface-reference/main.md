@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-* [eMOBIQ Home](main.md#markdown-header-emobiq-home)
-  * [Page](main.md#markdown-header-page)
-  * [Snippets](main.md#markdown-header-snippets)
-  * [Layer](main.md#markdown-header-layer)
-  * [Screen](main.md#markdown-header-screen)
-    * [Properties](main.md#markdown-header-properties-2)
+* [eMOBIQ Home](main.md#emobiq-home)
+  * [Page](main.md#page)
+  * [Snippets](main.md#snippets)
+  * [Layer](main.md#layer)
+  * [Screen](main.md#screen)
+    * [Properties](main.md#properties-1)
     * [Action](main.md#markdown-header-action)
       * [Inspector](main.md#markdown-header-inspector)
       * [Parent](main.md#markdown-header-parent)
