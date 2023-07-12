@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Documentation](README.md)
+* [📖 Documentation](README.md)
 * [template](template/README.md)
   * [Function Name](template/template-function.md)
-* [platform-interface-reference](platform-interface-reference/README.md)
+* [Platform Interface Reference](platform-interface-reference/README.md)
   * [User Manual](platform-interface-reference/main.md)
 * [ui-components](ui-components/README.md)
   * [basic](ui-components/basic/README.md)
@@ -334,6 +334,6 @@
       * [isEmail](actions-and-logic-tree/action-reference/Validation/isEmail/README.md)
         * [isEmail](actions-and-logic-tree/action-reference/Validation/isEmail/isEmail.md)
 
-## Group 1
+## User Manual
 
-* [Page 1](group-1/page-1.md)
+* [Page 1](user-manual/page-1.md)
