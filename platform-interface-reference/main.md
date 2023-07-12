@@ -1,48 +1,5 @@
 # User Manual
 
-## Table of Contents
-
-* [eMOBIQ Home](main.md#emobiq-home)
-  * [Page](main.md#page)
-  * [Snippets](main.md#snippets)
-  * [Layer](main.md#layer)
-  * [Screen](main.md#screen)
-    * [Properties](main.md#properties-1)
-    * [Action](main.md#markdown-header-action)
-      * [Inspector](main.md#markdown-header-inspector)
-      * [Parent](main.md#markdown-header-parent)
-      * [Event](main.md#markdown-header-event)
-  * [Themes](main.md#markdown-header-themes)
-  * [Global](main.md#markdown-header-global)
-  * [Editor Interface Icons](main.md#markdown-header-editor-interface-icons)
-    * [Page Wizard (icon)](main.md#markdown-header-page-wizard-icon)
-    * [Function Wizard (icon)](main.md#markdown-header-function-wizard-icon)
-    * [Media Library (icon)](main.md#markdown-header-media-library-icon)
-    * [Copy (icon)](main.md#markdown-header-copy-icon)
-    * [Paste (icon)](main.md#markdown-header-paste-icon)
-    * [Delete (icon)](main.md#markdown-header-delete-icon)
-    * [Page layout size and orientation (icon)](main.md#markdown-header-page-layout-size-and-orientation-icon)
-* [Global Configuration](main.md#markdown-header-global-configuration)
-  * [General](main.md#markdown-header-general)
-  * [Android](main.md#markdown-header-android)
-  * [iOS](main.md#markdown-header-ios)
-  * [Third Party](main.md#markdown-header-third-party)
-  * [Properties](main.md#markdown-header-properties-1)
-  * [Plugins](main.md#markdown-header-plugins)
-* [Language](main.md#markdown-header-language)
-* [Publish](main.md#markdown-header-publish)
-* [Lock](main.md#markdown-header-lock)
-* [Services](main.md#markdown-header-services)
-* [Database](main.md#markdown-header-database)
-* [Build](main.md#markdown-header-uild)
-* [Download](main.md#markdown-header-download)
-* [Tutorial](main.md#markdown-header-tutorial)
-* [Help](main.md#markdown-header-help)
-* [Save](main.md#markdown-header-save)
-* [Preview](main.md#markdown-header-preview)
-
-***
-
 ## eMOBIQ Home
 
 ### Page
