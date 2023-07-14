@@ -332,7 +332,4 @@
         * [isArray](actions-and-logic-tree/action-reference/Validation/isArray/isArray.md)
       * [isEmail](actions-and-logic-tree/action-reference/Validation/isEmail/README.md)
         * [isEmail](actions-and-logic-tree/action-reference/Validation/isEmail/isEmail.md)
-
-## User Manual
-
-* [Page 1](user-manual/page-1.md)
+* [Page Rendering Behaviour](page-rendering-behaviour.md)
