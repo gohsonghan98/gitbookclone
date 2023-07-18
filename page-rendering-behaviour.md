@@ -6,15 +6,17 @@ Page rendering is a crucial aspect of visual presentation in mobile applications
 
 ## Page Rendering in eMOBIQ
 
-Page rendering in eMOBIQ refers to the process of organizing and displaying the components of mobile app pages to users. Pages in eMOBIQ consist of various components, including buttons, text boxes, images, and more.
+Page rendering in eMOBIQ refers to the process of organising and displaying the components of mobile app pages to users. Pages in eMOBIQ consist of various components, including buttons, text boxes, images, and more.
 
 ## Hierarchy of Components in eMOBIQ
 
-Each page within eMOBIQ's app-building framework contains a hierarchy of components that defines their arrangement and relationship. Components in eMOBIQ can be visualized as individual elements or building blocks that contribute to the overall structure of the page. The hierarchy represents the organization of these components in a structured manner.
+Each page within eMOBIQ's app-building framework contains a hierarchy of components that defines their arrangement and relationship. Components in eMOBIQ can be visualised as individual elements or building blocks that contribute to the overall structure of the page. The hierarchy represents the organization of these components in a structured manner.
 
 ## Depth-First Rendering in eMOBIQ
 
 eMOBIQ follows a depth-first rendering approach when rendering pages. This means that during the rendering process, eMOBIQ begins with the top-level component and progresses down the hierarchy, rendering each component encountered in a systematic manner.
+
+To visualize the rendering sequence, expand all the components in the layer section of each page to view the entire hierarchy. The rendering process follows a top-to-bottom sequence in the fully expanded hierarchy within the layer section.
 
 ## Illustration
 
