@@ -14,17 +14,23 @@ Each page within eMOBIQ's app-building framework contains a hierarchy of compone
 
 ## Depth-First Rendering in eMOBIQ
 
-eMOBIQ follows a depth-first rendering approach when rendering pages. This means that during the rendering process, eMOBIQ begins with the top-level component and progresses down the hierarchy, rendering each component encountered in a systematic manner.
+eMOBIQ adopts a depth-first rendering approach to ensure an orderly display of components in pages. The rendering process begins with the top-level component and systematically progresses through the hierarchy, rendering each component encountered along the way.
 
-To visualize the rendering sequence, expand all the components in the layer section of each page to view the entire hierarchy. The rendering process follows a top-to-bottom sequence in the fully expanded hierarchy within the layer section.
+To provide a visual representation of the rendering sequence, take a look at the example image below. This image showcases a simplified page hierarchy in eMOBIQ's layer section:
 
-## Illustration
+\[Insert Image: A visual representation of the page hierarchy with expanded components]
 
-To aid in understanding the rendering process in eMOBIQ, let's consider the analogy of constructing a treehouse. Similar to how one starts from the base and builds upwards, eMOBIQ's rendering engine initiates rendering from the top-level component of the page hierarchy. It then proceeds to render each subsequent component in a hierarchical order until it reaches the lowest level component.\
-\
-Alternatively, envision a garden with interconnected plants and flowers. Starting from a central point, you follow a path that takes you to each plant, observing its characteristics and beauty before moving on to the next one. In the rendering process of eMOBIQ, the platform's engine "walks" through the component hierarchy, rendering each component and displaying its content before moving on to the next one.
+In the image, you can see the expanded hierarchy of components within the layer section. The rendering process follows a top-to-bottom sequence, where the top-level component is rendered first, followed by its child components, and so on, until reaching the bottom-level components. This sequence ensures that each component is rendered in the correct order, resulting in the desired visual arrangement of the page.
+
+By understanding this rendering sequence and visualizing it through the provided image, users can gain a clearer understanding of how eMOBIQ renders components in a depth-first manner to create well-structured mobile applications.
+
+## Analogy
+
+Imagine you have a set of nesting dolls, where each doll contains smaller dolls inside. To explore the dolls using a depth-first approach, you start with the outermost doll and open it to reveal the next doll inside. You continue this process, recursively opening each doll until you reach the innermost one.
+
+Similarly, in eMOBIQ's depth-first rendering, the top-level component is like the outermost doll. It gets rendered first, and then the rendering engine dives deeper into the hierarchy, rendering each child component encountered along the way. This recursive process continues until all components in the hierarchy have been rendered.
 
 ## Conclusion
 
-Understanding page rendering in eMOBIQ is essential for creating visually appealing and functional mobile applications. By comprehending the depth-first rendering approach and visualizing it through analogies such as constructing a treehouse or exploring a garden, users of eMOBIQ can grasp the concept more easily. This knowledge empowers individuals to design engaging and user-friendly mobile apps efficiently using the eMOBIQ no-code platform.
+Understanding the depth-first rendering approach in eMOBIQ is essential for building well-organized mobile applications. By envisioning the nesting doll analogy, where components are explored recursively, users can grasp the sequential and systematic nature of the rendering process. This knowledge empowers individuals to design cohesive and visually appealing mobile apps using the eMOBIQ no-code platform.
 
